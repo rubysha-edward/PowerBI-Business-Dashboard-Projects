@@ -1,0 +1,1211 @@
+Record_ID,Customer_Name,City,State,Region,Category,Sub_Category,Transaction_Date,Quantity,Unit_Price,Discount,Revenue,Profit,Rating,Status
+SOC1000,Lauren Sanders,North Nicholasville,Hawaii,South,A,Type2,2024-10-17,5,853.75,0.04,5422.32,2650.58,3.2,Cancelled
+SOC1001,Tracy Medina,East Michellechester,Nebraska,West,D,Type1,2023-08-17,12,187.96,0.1,7443.64,3018.95,2.5,Completed
+SOC1002,Kimberly Hernandez,East Nicholasport,Arkansas,West,B,Type1,2025-03-14,10,389.11,0.12,502.1,-81.42,3.9,Completed
+SOC1003,Jeremiah Simpson,Tiffanyhaven,Idaho,North,A,Type3,2023-12-03,2,347.46,0.25,3767.75,4331.72,2.5,Cancelled
+SOC1004,Diane Brown,Robertburgh,South Carolina,North,B,Type1,2026-03-20,18,626.79,0.19,6130.05,2765.97,1.4,Cancelled
+SOC1005,Colleen Russo,Taylorbury,Arizona,East,D,Type1,2025-05-19,19,654.98,0.01,8469.73,1111.91,3.0,Completed
+SOC1006,Zachary Thompson,Port Alexshire,South Carolina,East,C,Type3,2024-01-19,5,776.72,0.12,9121.94,-40.53,1.6,Completed
+SOC1007,James Dunn,Robertsonview,Texas,West,A,Type1,2025-01-03,15,860.95,0.3,3912.23,,3.8,Cancelled
+SOC1008,Brooke Jones,Connieville,Wyoming,West,A,Type1,2023-08-14,16,66.97,0.22,313.05,411.75,3.3,Cancelled
+SOC1009,Shannon Fletcher,,California,North,D,Type2,2024-06-16,12,540.99,0.07,607.97,2482.63,1.5,Cancelled
+SOC1010,James Burton,Port Alexanderbury,Utah,West,B,Type2,2025-09-12,3,776.13,0.29,5418.99,1066.4,1.6,Pending
+SOC1011,Nicholas Gonzalez,Avilachester,Oregon,West,A,Type3,2024-01-29,14,355.06,0.2,5174.13,2117.49,1.6,Completed
+SOC1012,Bruce Gibson,Scottport,Washington,West,C,Type3,2024-07-22,15,154.11,,2542.27,1558.92,4.5,Pending
+SOC1013,Jessica Johns,West Jamesside,Oregon,South,B,Type1,2024-11-10,19,918.23,0.26,5236.25,1911.29,4.4,Pending
+SOC1014,Wendy Garcia,Smithville,Indiana,West,A,Type2,2025-03-27,1,91.04,0.03,6696.95,-11.29,3.0,Completed
+SOC1015,Alicia Murray,New Jennyburgh,Tennessee,West,A,Type2,2024-07-28,17,984.19,0.05,4389.9,3070.46,4.5,Completed
+SOC1016,Mitchell Miller,New Raymond,Indiana,East,C,Type1,2025-02-26,8,189.16,0.04,1054.28,950.39,4.0,Completed
+SOC1017,Bradley Miller,Andersonbury,West Virginia,South,A,Type2,2025-12-11,3,260.28,0.19,3336.17,4103.7,1.5,Cancelled
+SOC1018,Aaron Wagner,Maysshire,Utah,South,D,Type1,2024-06-24,3,372.87,0.17,6546.35,860.84,3.6,Completed
+SOC1019,Edwin Clarke,Dianaburgh,Idaho,South,D,Type3,2023-06-21,8,12.89,0.19,3781.12,1078.71,2.3,Cancelled
+SOC1020,Gregory Neal,North Michelleborough,Maryland,East,C,Type2,2025-08-31,16,659.64,0.19,1024.9,-87.16,3.2,Cancelled
+SOC1021,Margaret Contreras,Armstrongfort,Montana,South,A,Type2,2024-06-22,11,143.23,0.27,4579.09,3313.03,4.5,Completed
+SOC1022,Yolanda Sexton,North Bobbymouth,Indiana,East,D,Type1,2025-08-16,12,560.66,0.03,4866.16,74.49,2.1,Cancelled
+SOC1023,Theresa Long,West Gregory,Hawaii,North,A,Type3,2025-11-11,11,152.61,0.13,5064.3,4955.51,2.4,Cancelled
+SOC1024,Matthew Henry,Port Chelsealand,Delaware,East,B,Type1,2023-11-30,9,274.6,0.05,4865.31,4186.09,3.6,Pending
+SOC1025,Timothy Hawkins,Jessicahaven,Washington,West,B,Type1,2024-04-19,2,142.0,,3543.76,2212.74,3.8,Completed
+SOC1026,Cassandra Harrison,North Jessica,California,South,A,Type1,2023-11-21,9,639.68,0.29,5576.61,819.32,3.9,Cancelled
+SOC1027,Amy Wong,New Kimberlyburgh,Nevada,East,B,Type3,2025-09-21,14,888.17,0.09,1413.11,-43.05,2.2,Pending
+SOC1028,Fred Mathews,New Kimberlyland,Connecticut,South,B,Type2,2026-01-09,18,77.02,0.24,3842.53,-92.91,1.4,Pending
+SOC1029,John Gutierrez,Lake Christine,Idaho,East,D,Type1,2026-01-21,5,455.02,0.07,2993.45,-436.48,4.3,Cancelled
+SOC1030,Melissa Gutierrez,East Michelle,Mississippi,East,C,Type1,2024-05-14,16,660.15,0.01,2483.64,2477.93,2.1,Completed
+SOC1031,Cesar Cook,Rhodesshire,Delaware,North,A,Type1,2025-08-24,19,307.25,0.08,4699.85,942.18,1.9,Completed
+SOC1032,Chad Smith,Elizabethmouth,Georgia,South,B,Type1,2023-09-22,5,456.86,0.27,7802.48,1974.54,2.6,Cancelled
+SOC1033,Leslie Ross,South Sarahburgh,Missouri,North,A,Type2,2025-04-09,5,931.37,0.05,6329.57,2975.17,2.8,Cancelled
+SOC1034,Alyssa Moody,Jessehaven,Vermont,East,A,Type2,2024-02-17,9,614.93,0.28,1067.92,2990.34,4.0,Pending
+SOC1035,Willie Matthews,Port Timothy,Oregon,South,B,Type3,2024-06-18,17,758.51,0.07,4857.28,2037.17,4.4,Completed
+SOC1036,Robert Rodriguez,Kimfurt,Tennessee,East,A,Type2,2025-12-29,18,718.74,0.02,8678.87,623.31,4.7,Cancelled
+SOC1037,Melissa Brown,Dudleyhaven,Texas,South,D,Type1,2026-04-10,8,406.13,0.01,9363.25,4389.52,2.0,Completed
+SOC1038,David Martin,Reedport,Massachusetts,North,A,Type1,2024-07-05,3,534.99,0.07,6141.64,35.87,4.2,Pending
+SOC1039,Bobby Adams,North Reneeshire,Nebraska,South,C,Type1,2025-09-22,14,849.87,0.05,5854.84,1637.26,4.6,Cancelled
+SOC1040,Victoria Hill,Wesleytown,South Carolina,North,C,Type3,2025-04-08,17,326.55,0.0,5902.68,3843.53,4.3,Cancelled
+SOC1041,Gary George,Lake Randyview,Ohio,South,C,Type3,2025-02-09,17,229.02,0.16,7650.82,2254.68,1.1,Pending
+SOC1042,Nicholas Russell,,Alabama,East,D,Type1,2025-09-11,16,57.21,0.15,8529.21,1045.67,4.9,Cancelled
+SOC1043,Ryan King,West Alicemouth,Nebraska,South,A,Type1,2024-07-21,13,50.01,0.19,5279.35,3941.92,1.8,Completed
+SOC1044,Michael Gonzalez,Smithland,Utah,North,A,Type2,2024-12-02,9,406.68,0.29,3942.43,3868.87,3.7,Cancelled
+SOC1045,Ralph Obrien DDS,South Amberville,Virginia,East,B,Type3,2025-10-14,5,431.76,0.28,9559.19,2423.35,1.3,Completed
+SOC1046,Victoria Garcia,Andersonfurt,Kansas,East,C,Type3,2025-06-01,18,632.11,0.02,2753.41,1152.16,1.0,Completed
+SOC1047,Sarah Thomas,New Claytonshire,Oregon,West,A,Type3,2023-11-30,17,465.69,0.29,4013.85,4068.9,3.3,Pending
+SOC1048,Rodney Gomez,South Edwardtown,Idaho,East,A,Type3,2023-12-05,19,265.53,0.2,8066.22,371.03,1.7,Completed
+SOC1049,Brian Johnson,,Idaho,North,B,Type1,2024-12-05,18,308.35,0.29,756.6,4496.91,4.9,Completed
+SOC1050,Meghan Lewis,Robersonville,Washington,West,A,Type1,2024-07-06,11,772.3,0.1,4484.54,3240.28,2.7,Cancelled
+SOC1051,Michael Reid,South Richard,Utah,East,D,Type2,2025-04-14,10,569.3,0.14,4479.21,-229.86,4.3,Cancelled
+SOC1052,Samuel Walker,Geoffreystad,Washington,South,A,Type3,2023-11-20,6,449.74,0.17,7955.88,4769.12,3.8,Completed
+SOC1053,Roy Gibson,South Timothy,South Carolina,North,D,Type1,2024-05-16,4,600.52,0.12,6248.26,3333.88,2.4,Pending
+SOC1054,Michele Davis,Marquezstad,Massachusetts,South,A,Type3,2023-07-07,6,740.56,0.06,1697.36,3376.2,2.3,Completed
+SOC1055,Jennifer Golden,Port Sarah,Arkansas,West,C,Type3,2026-01-19,16,491.2,0.26,3295.63,580.86,3.9,Pending
+SOC1056,Erik Morgan,Port Kathleen,New Jersey,South,B,Type2,2023-07-23,15,133.01,0.22,6666.69,2537.95,4.5,Cancelled
+SOC1057,Kenneth Boyd,Bradleyfort,Georgia,North,D,Type1,2023-08-25,18,450.55,0.29,2859.25,4117.9,1.5,Cancelled
+SOC1058,Jamie Caldwell,Katrinastad,Vermont,West,A,Type3,2024-12-18,4,668.96,0.15,6734.12,3437.79,4.8,Cancelled
+SOC1059,James Taylor,Lake Laurabury,Maryland,South,A,Type2,2024-08-06,9,841.26,0.16,1074.65,325.97,2.0,Completed
+SOC1060,Melissa Lee,,Oklahoma,North,D,Type3,2024-06-06,4,863.7,0.15,2197.19,1189.04,1.9,Completed
+SOC1061,Lori Cervantes,,Iowa,East,D,Type2,2023-07-01,19,496.77,0.05,6452.62,-47.48,2.7,Completed
+SOC1062,Melanie Garrett,Lake Alex,Massachusetts,East,A,Type1,2025-09-04,16,769.76,0.23,712.41,256.42,3.7,Pending
+SOC1063,Jonathan Conner,Wilcoxside,Pennsylvania,West,D,Type1,2024-11-20,12,515.48,0.11,9622.04,1435.02,2.1,Cancelled
+SOC1064,Katie Taylor,Sullivanberg,Vermont,South,D,Type3,2025-06-11,19,268.91,0.23,8066.97,1427.68,3.8,Cancelled
+SOC1065,Patty Mendez,Ponceside,Iowa,West,D,Type1,2025-03-02,14,793.29,0.25,6010.25,4624.79,3.3,Cancelled
+SOC1066,Melissa Simon,Normanfort,Washington,East,D,Type1,2024-09-19,18,240.61,0.07,2663.16,712.72,2.8,Pending
+SOC1067,Mrs. Mikayla Howe,North Seth,Utah,East,A,Type3,2024-06-26,13,541.07,0.01,6723.92,4328.86,4.3,Pending
+SOC1068,Kristopher Johnson,Castroport,Oklahoma,South,B,Type3,2024-10-17,4,288.08,0.11,5293.56,4253.19,3.3,Cancelled
+SOC1069,Joshua Nunez,Port Austin,Alabama,East,C,Type3,2025-08-29,13,214.92,0.28,6514.82,2150.09,4.4,Cancelled
+SOC1070,Jessica Baker,Port Lindamouth,Oklahoma,West,A,Type1,2024-11-02,5,206.75,0.19,5727.33,4036.31,1.1,Pending
+SOC1071,Dr. Jennifer Hamilton,Davidbury,Nevada,West,B,Type3,2025-06-06,4,620.1,0.08,849.66,3184.57,4.1,Cancelled
+SOC1072,Nichole Green,New Lisamouth,Illinois,North,D,Type3,2025-02-24,15,329.34,0.17,8680.03,452.17,3.7,Cancelled
+SOC1073,Melody Thompson,Torresborough,Texas,North,A,Type3,2024-06-15,19,921.66,0.28,2835.19,545.19,2.6,Cancelled
+SOC1074,Andrew Barker,West Sheri,Virginia,East,D,Type2,2025-07-09,19,627.68,0.14,2605.73,758.75,2.4,Pending
+SOC1075,Matthew Roth,Salazarstad,North Carolina,West,D,Type1,2025-02-21,17,756.5,0.01,2953.45,3694.98,3.1,Completed
+SOC1076,Albert Johnson,Port Daleport,Delaware,North,B,Type3,2023-06-04,17,386.18,0.16,3666.6,1872.31,1.1,Completed
+SOC1077,Kimberly Martinez,West Catherineton,New York,North,B,Type3,2025-08-27,9,601.22,0.09,1553.22,52.18,1.9,Pending
+SOC1078,Justin Blackburn,Bradleystad,New Mexico,West,D,Type3,2024-06-12,16,249.68,0.12,2544.33,4216.79,3.6,Pending
+SOC1079,Hailey Shields,,Delaware,North,C,Type2,2025-11-29,13,717.15,0.27,3486.68,1741.5,1.3,Cancelled
+SOC1080,Steven Jacobs DDS,Andrewburgh,Nevada,North,D,Type1,2026-01-16,11,658.1,0.19,1490.45,759.77,2.8,Pending
+SOC1081,Michelle Velez,South Thomasbury,New Mexico,North,A,Type1,2024-10-25,5,93.75,0.06,5563.23,1583.25,2.3,Completed
+SOC1082,Richard Porter,Shawnberg,North Carolina,West,A,Type1,2026-04-02,8,531.81,0.02,1383.26,2455.48,1.0,Pending
+SOC1083,Kathleen Alvarado,Rebeccamouth,Wyoming,East,C,Type1,2025-02-17,17,702.19,0.1,1413.26,2857.21,1.3,Cancelled
+SOC1084,Bryan Copeland,Burkeville,New Mexico,East,B,Type3,2023-11-04,1,913.92,0.27,6637.85,2279.97,2.1,Completed
+SOC1085,Autumn Ward,Danaton,Utah,South,C,Type3,2024-01-12,10,792.74,0.23,9408.38,-466.02,4.1,Completed
+SOC1086,Jason Ortiz,East Paul,Arizona,East,A,Type3,2025-03-10,15,257.44,0.11,4603.07,3155.98,4.3,Pending
+SOC1087,Nicole Williams,Stephenville,Connecticut,East,D,Type3,2025-01-28,17,601.87,0.28,3498.31,2689.33,4.2,Completed
+SOC1088,Nicholas Smith,Port Joseph,California,West,D,Type1,2024-02-19,14,122.07,0.26,7448.93,-166.6,2.4,Pending
+SOC1089,Lisa Cohen,Rossfurt,Tennessee,North,B,Type1,2024-10-29,10,831.33,0.14,5545.82,2644.89,3.7,Cancelled
+SOC1090,Mrs. Joy Watts,Wellsland,Maryland,East,A,Type3,2023-08-09,13,367.18,0.07,4895.35,1640.98,2.4,Pending
+SOC1091,Ashley Harper,New Adam,Virginia,North,C,Type1,2025-01-19,6,622.67,0.03,5643.18,2591.08,2.2,Cancelled
+SOC1092,Michael Jenkins,Christinaland,Vermont,East,C,Type1,2025-06-28,14,202.71,0.24,9778.56,4593.67,4.7,Pending
+SOC1093,Michael Morrison,North Erinfurt,Minnesota,East,B,Type1,2024-04-18,5,880.03,0.06,8257.28,678.68,4.5,Pending
+SOC1094,Alexander Smith,Anthonyshire,Washington,North,C,Type1,2023-08-19,7,608.14,0.11,9656.6,464.83,1.5,Completed
+SOC1095,Anita Watson,West Jillian,Michigan,North,D,Type2,2026-02-28,1,303.45,0.26,3966.29,4261.44,3.3,Cancelled
+SOC1096,Shelby Rojas,Wilsonport,California,North,D,Type1,2025-05-23,13,650.77,0.24,6699.11,4457.1,4.9,Completed
+SOC1097,Tina Melton,Jenniferfurt,Washington,North,D,Type3,2024-06-13,18,676.72,0.03,7239.35,4467.53,3.0,Completed
+SOC1098,Abigail Freeman,Jakeport,Oklahoma,South,D,Type2,2025-01-01,1,146.12,0.23,329.02,4079.06,1.1,Cancelled
+SOC1099,Darlene Miller,Lake Scottport,Washington,North,D,Type1,2026-05-15,12,148.99,0.28,5874.66,2894.37,1.2,Completed
+SOC1100,Cameron Scott,East Anthony,New Mexico,West,A,Type1,2025-01-31,6,770.65,0.27,3803.09,3499.3,4.0,Cancelled
+SOC1101,Pamela Johnson,Davisville,Virginia,North,C,Type1,2023-06-09,13,218.81,0.1,8670.33,-284.97,4.1,Completed
+SOC1102,Mike Cruz,Port Williammouth,Vermont,East,C,Type2,2025-08-10,4,873.66,0.3,1203.13,622.6,4.7,Cancelled
+SOC1103,Jonathan Liu,Davidhaven,Oklahoma,East,A,Type2,2026-05-14,2,742.87,0.04,297.22,955.74,3.1,Completed
+SOC1104,Zachary Green MD,West Jamesshire,Connecticut,West,A,Type3,2024-06-28,5,400.22,0.26,5398.79,4963.85,4.7,Pending
+SOC1105,Andre Brown,Nguyenport,South Dakota,North,D,Type2,2025-05-24,12,984.84,0.09,6805.78,4608.34,1.1,Pending
+SOC1106,Kayla Montoya,Port Aliciamouth,New Jersey,North,D,Type1,2024-10-16,9,399.15,0.06,5994.68,803.14,4.1,Pending
+SOC1107,Luke Reed,East Stevenside,Maine,East,A,Type1,2024-03-09,13,540.55,0.29,4681.91,274.56,4.1,Cancelled
+SOC1108,Nicole Howell,Lake Christopherstad,Rhode Island,West,A,Type2,2023-06-23,6,20.29,0.22,9274.15,1950.65,4.1,Cancelled
+SOC1109,William Whitaker,Brownland,New Mexico,West,C,Type3,2026-01-22,8,109.07,0.18,161.15,4347.96,4.1,Cancelled
+SOC1110,Marie Baker,Johnstonhaven,South Dakota,North,B,Type1,2025-07-28,8,256.67,0.13,1894.51,1139.33,2.5,Cancelled
+SOC1111,Jennifer Gomez,Pattersonland,West Virginia,South,C,Type2,2025-07-26,13,149.32,0.18,4405.41,4074.04,2.9,Completed
+SOC1112,Daniel Patton,Steventown,California,West,A,Type1,2026-02-16,10,932.08,0.13,574.28,385.77,4.2,Pending
+SOC1113,Elizabeth Sims,East Justin,South Carolina,North,C,Type3,2025-04-26,1,632.37,0.22,9760.63,337.01,1.4,Cancelled
+SOC1114,Scott Glover,Port Joseph,Massachusetts,South,B,Type3,2024-09-18,16,250.97,0.26,3199.22,2528.82,4.6,Cancelled
+SOC1115,Jonathan Garcia,South Adrian,Alabama,North,C,Type1,2024-08-18,2,236.45,0.0,3129.77,148.42,4.8,Cancelled
+SOC1116,Margaret Combs,Lake Yvonneland,Maine,North,B,Type2,2023-12-04,12,332.38,0.29,7493.04,4976.8,4.9,Cancelled
+SOC1117,Kimberly Jones,Johnstonhaven,Tennessee,East,D,Type3,2023-06-14,7,941.53,0.12,5081.47,1273.76,1.7,Completed
+SOC1118,Brett Wong,Wellsfurt,Wyoming,South,D,Type1,2025-05-07,2,556.1,0.04,3052.71,-449.27,2.4,Pending
+SOC1119,James Mason,New Audreybury,Texas,West,D,Type3,2023-09-24,2,115.02,0.2,5509.14,1578.21,1.2,Completed
+SOC1120,Michelle Dominguez,Melissaburgh,Maine,North,D,Type2,2023-07-27,15,555.77,0.01,7379.86,1478.29,2.5,Pending
+SOC1121,Mr. Dustin Gray,Martinville,Alabama,North,D,Type2,2024-05-23,4,488.61,0.24,189.55,2367.7,2.0,Pending
+SOC1122,Angel Hoffman,Brookechester,South Carolina,North,D,Type2,2024-04-12,3,83.69,0.28,9140.62,2474.77,3.4,Completed
+SOC1123,Belinda West,Port Jennashire,Louisiana,South,A,Type3,2026-04-01,1,483.27,0.13,9304.2,795.87,2.8,Completed
+SOC1124,Laurie Ingram,Rhondaside,Connecticut,West,A,Type2,2023-10-21,1,839.92,0.26,9062.62,4730.9,3.5,Cancelled
+SOC1125,Edward Klein,Myerston,Texas,West,D,Type3,2024-07-11,5,25.45,,2697.26,2505.54,1.5,Cancelled
+SOC1126,Linda Gardner,Christopherbury,Montana,West,B,Type1,2023-11-28,16,508.39,0.15,2390.67,,2.8,Completed
+SOC1127,Lisa Snyder,Carlosside,Michigan,North,A,Type3,2024-12-17,14,298.51,0.22,894.57,3483.55,2.8,Cancelled
+SOC1128,Gina Kennedy,Crystalchester,Iowa,West,D,Type3,2023-09-06,6,235.58,0.01,904.34,-415.69,2.4,Completed
+SOC1129,Raymond Cervantes,Pooleview,Texas,South,A,Type1,2025-03-29,5,496.16,0.06,5589.78,3371.83,4.6,Completed
+SOC1130,Cheryl Kennedy,Jeffreymouth,West Virginia,South,C,Type1,2023-08-08,19,295.16,0.28,366.14,2905.85,1.1,Completed
+SOC1131,Chad Whitehead,Oconnellburgh,Maryland,West,A,Type1,2025-10-01,6,505.55,0.18,4463.73,1176.59,3.6,Cancelled
+SOC1132,Sonia Taylor,West Kimberly,North Dakota,North,B,Type1,2024-03-04,8,281.38,0.29,6054.72,2857.44,4.6,Completed
+SOC1133,Edward Hunter,Shirleyburgh,Michigan,East,D,Type1,2024-12-17,17,217.71,0.02,2829.21,1472.87,1.1,Completed
+SOC1134,Mark Ellis,Michaelport,Massachusetts,East,D,Type3,2024-10-13,18,608.6,0.2,6613.38,108.05,3.8,Cancelled
+SOC1135,Joseph Mason,Hoopermouth,Georgia,East,C,Type1,2023-06-21,12,510.34,0.11,929.11,2937.38,2.6,Completed
+SOC1136,Elizabeth Adams,Port Frederick,New Hampshire,West,A,Type2,2025-09-07,10,561.26,0.24,1202.93,428.23,4.4,Completed
+SOC1137,Christian Edwards,Mistychester,Alabama,North,C,Type3,2023-07-08,13,791.64,0.14,6512.07,3202.68,2.7,Completed
+SOC1138,Stanley Roach,North James,Florida,West,D,Type3,2025-12-26,4,783.93,0.29,5668.39,2050.4,2.5,Pending
+SOC1139,Joshua Reed,Robersonport,South Carolina,East,A,Type3,2023-10-17,19,918.53,0.25,2827.57,2260.54,3.2,Completed
+SOC1140,Joseph Bell,Jamesberg,Texas,East,B,Type3,2023-06-24,2,53.52,0.03,6862.78,220.68,4.6,Completed
+SOC1141,Jordan Fleming,Houstonbury,Washington,North,B,Type3,2024-11-06,17,573.89,0.02,2499.59,2108.53,3.5,Pending
+SOC1142,Barry Rivera,North Glennborough,Rhode Island,East,C,Type3,2026-01-10,19,155.14,0.18,312.04,3131.2,4.5,Cancelled
+SOC1143,Heather Ray,Lake Pamela,Michigan,South,A,Type3,2026-02-28,6,943.86,0.09,1930.74,4838.86,4.2,Cancelled
+SOC1144,Daniel Campos,South Melissachester,Illinois,East,A,Type1,2024-09-14,7,243.07,0.14,6662.87,-311.97,2.6,Pending
+SOC1145,Linda Riggs,Hartmanhaven,Oklahoma,South,B,Type2,2025-07-11,15,50.02,0.11,4738.34,3346.42,3.0,Completed
+SOC1146,Mrs. Lauren Mcconnell,Lake Steven,South Carolina,West,A,Type2,2024-04-23,1,248.71,0.27,6460.3,670.34,2.3,Pending
+SOC1147,Kimberly Irwin,Kaitlyntown,Georgia,East,A,Type2,2026-05-10,12,614.73,0.03,4175.64,688.61,4.5,Cancelled
+SOC1148,Sherry Williams,Ashleybury,Utah,North,A,Type1,2023-11-29,14,607.31,0.04,4739.56,3556.05,4.3,Cancelled
+SOC1149,Bridget Middleton,Kimmouth,South Dakota,North,C,Type1,2026-03-24,2,402.34,0.08,625.44,1347.01,3.6,Completed
+SOC1150,Diane Smith,New Hannah,Iowa,North,C,Type2,2023-07-02,7,600.47,0.17,8814.55,2012.53,1.2,Cancelled
+SOC1151,Jennifer Hicks,Lake Teresa,West Virginia,West,D,Type3,2023-07-30,15,959.24,0.0,1715.37,4591.33,4.0,Completed
+SOC1152,Andres Gonzalez,Philipborough,Wyoming,North,D,Type1,2024-01-02,16,617.6,0.04,984.05,-451.62,1.9,Completed
+SOC1153,Patricia Hale,South John,Vermont,East,A,Type3,2024-03-03,15,299.65,0.2,6051.05,922.36,1.3,Completed
+SOC1154,Sheila Stephens,West Dustinstad,Virginia,South,A,Type2,2024-03-05,6,769.17,0.15,3140.41,717.21,2.5,Pending
+SOC1155,Jason Johnson,Mikaylachester,Indiana,West,B,Type3,2024-06-02,12,202.03,0.28,9407.67,139.98,3.6,Pending
+SOC1156,Kenneth Riley,Penningtonfurt,Indiana,East,A,Type1,2023-11-16,9,912.56,0.25,3325.89,4092.93,4.9,Completed
+SOC1157,Michael Braun,Lake Stephanieland,Alaska,East,D,Type1,2025-09-10,10,716.04,0.2,9390.99,978.06,3.2,Pending
+SOC1158,Donna Thompson,Lake Jordan,Maine,South,C,Type2,2023-12-02,18,995.89,0.16,5963.31,4836.12,1.4,Pending
+SOC1159,Tara Russell,Joneshaven,Arizona,North,A,Type3,2023-09-01,10,510.21,0.22,9716.33,,4.5,Cancelled
+SOC1160,Melissa Baker,Steveberg,Nevada,West,B,Type3,2025-04-03,4,704.52,0.23,908.69,3331.84,2.1,Completed
+SOC1161,Melanie Estrada,South Rachel,Georgia,South,C,Type3,2025-09-28,11,353.71,0.29,9763.96,59.83,1.1,Cancelled
+SOC1162,Martha Brown,New Brianhaven,Missouri,South,C,Type3,2023-10-06,14,155.8,0.23,4625.92,3401.45,2.3,Pending
+SOC1163,Jacob Guerrero,East Davidland,Pennsylvania,North,D,Type1,2024-10-05,11,701.37,0.21,4101.78,792.3,1.7,Completed
+SOC1164,Angela Phillips,Andrewland,Illinois,North,A,Type1,2024-08-21,17,694.72,0.28,6732.78,3710.52,4.8,Pending
+SOC1165,Kim Anderson DDS,North Maria,South Carolina,South,C,Type1,2025-10-20,6,94.61,0.0,8098.36,4705.59,2.8,Pending
+SOC1166,Melissa Russell,Browningborough,Illinois,North,B,Type2,2024-01-14,5,193.41,0.29,9028.41,1603.32,3.4,Completed
+SOC1167,Jennifer Lozano,Zacharymouth,Ohio,North,B,Type1,2023-12-14,4,981.67,0.15,7865.27,2488.09,3.4,Cancelled
+SOC1168,Nathan Patel,Port Angel,Illinois,East,A,Type3,2025-04-14,4,746.31,0.22,5168.37,1344.09,4.2,Pending
+SOC1169,Austin Goodwin,Murphyport,Oregon,East,A,Type1,2023-08-18,10,480.46,0.14,8218.98,-310.56,4.9,Cancelled
+SOC1170,Brian Sims,Keithberg,New Mexico,South,B,Type2,2023-12-28,14,953.14,0.28,6988.56,-64.93,1.2,Pending
+SOC1171,Amanda Cline,Aaronville,Virginia,North,A,Type3,2024-02-20,17,588.85,0.24,6242.23,1962.17,2.6,Completed
+SOC1172,Makayla Mayo,New Tammy,New Hampshire,South,B,Type3,2025-04-13,10,105.95,0.04,5188.2,4998.3,3.5,Completed
+SOC1173,Hannah Harper,Jeffreychester,West Virginia,South,B,Type2,2025-07-09,5,605.62,0.05,3900.29,4396.2,1.3,Completed
+SOC1174,Jimmy Kim,Parkerside,Michigan,East,B,Type3,2025-08-17,11,963.12,0.28,385.64,1000.19,3.7,Completed
+SOC1175,Jennifer Turner,Alexanderchester,New Jersey,North,B,Type1,2026-05-25,12,353.62,0.16,121.49,4742.64,2.7,Pending
+SOC1176,Scott Hardin,East Jared,Oregon,West,C,Type2,2024-06-15,17,723.82,0.04,2007.11,928.82,2.9,Completed
+SOC1177,Dustin Robertson,Lake Christopher,Washington,South,C,Type2,2025-07-15,1,247.8,0.23,6569.81,4496.21,1.0,Pending
+SOC1178,Richard Green,Nunezton,Washington,North,A,Type1,2025-08-15,3,271.03,0.14,7514.02,462.95,1.5,Completed
+SOC1179,Teresa Johnston,Hamiltonborough,Iowa,North,B,Type1,2023-07-27,2,394.82,0.06,9851.19,4625.7,4.4,Pending
+SOC1180,Nicholas Cain,Lake Lauriemouth,California,East,C,Type2,2024-07-07,17,209.44,0.1,9366.39,743.32,3.9,Cancelled
+SOC1181,John Zuniga,New Douglasville,Virginia,West,D,Type2,2025-07-28,13,701.09,0.04,9296.34,143.86,1.2,Cancelled
+SOC1182,Joshua Parrish,Jamesbury,West Virginia,South,A,Type1,2023-05-30,12,556.69,0.2,1122.88,2648.99,3.7,Cancelled
+SOC1183,Michael Graham,New Markberg,Alaska,West,B,Type1,2024-10-20,2,351.92,0.22,8906.44,938.68,2.7,Pending
+SOC1184,Erika Jackson,West Juliahaven,Minnesota,West,B,Type1,2023-08-01,10,168.06,0.01,8822.92,202.61,2.5,Completed
+SOC1185,Brittany Davis,West Juliefurt,New York,West,C,Type1,2025-02-08,7,732.59,,1739.85,1772.18,2.1,Completed
+SOC1186,Jason Macdonald,South Adam,Massachusetts,East,C,Type1,2024-02-06,2,536.48,0.09,5239.35,4690.84,4.8,Pending
+SOC1187,Anna Gutierrez,South Patrick,Mississippi,East,D,Type3,2024-05-19,3,497.19,0.28,8902.42,4583.93,2.7,Cancelled
+SOC1188,Edwin Anderson,East Jeremychester,Delaware,East,B,Type2,2024-03-19,6,736.21,0.07,993.62,-365.7,3.7,Cancelled
+SOC1189,Frank Goodman DDS,West Justin,Louisiana,North,D,Type2,2026-03-21,18,980.22,0.12,672.27,3016.3,2.2,Pending
+SOC1190,Kenneth Galloway,Matthewside,Massachusetts,South,A,Type1,2025-03-21,19,780.22,0.29,8581.09,2568.23,4.5,Pending
+SOC1191,Susan Owens,,Maryland,North,B,Type2,2023-06-08,13,799.89,0.19,8771.34,3453.67,2.9,Pending
+SOC1192,Jason Sanchez,New Mary,Tennessee,North,A,Type1,2024-05-15,4,567.51,0.04,559.42,1537.73,2.7,Pending
+SOC1193,Zachary Cunningham,Lake David,Rhode Island,West,D,Type1,2025-12-01,18,589.73,0.09,2181.13,2049.73,1.4,Cancelled
+SOC1194,Jasmine Dillon,Mooreport,Tennessee,North,C,Type3,2025-12-07,9,473.07,0.17,9001.9,538.55,5.0,Cancelled
+SOC1195,Miguel Craig,Nicholasbury,Minnesota,West,D,Type1,2023-06-28,9,444.22,0.18,1762.38,3355.92,4.3,Pending
+SOC1196,Charles Lara,North Monicamouth,Arizona,South,B,Type1,2024-12-19,3,463.14,0.01,7253.79,4060.12,1.5,Cancelled
+SOC1197,Denise Mcintyre,Bautistatown,Maryland,South,C,Type2,2026-05-19,8,218.5,0.21,2950.15,262.84,2.5,Pending
+SOC1198,Michael Tapia,Myersborough,Alaska,North,A,Type2,2025-07-31,6,844.97,0.09,9241.83,837.23,4.9,Pending
+SOC1199,Sarah Lucero,East Molly,Michigan,West,C,Type1,2025-06-26,6,46.21,0.1,6206.41,2447.59,1.1,Cancelled
+SOC1200,James Martinez,East Ashleyland,Massachusetts,East,C,Type2,2025-09-10,10,514.15,0.18,9412.85,1749.52,1.1,Completed
+SOC1201,Jeff Johnson,South Christianland,Nebraska,South,D,Type1,2023-08-07,6,96.7,0.17,7883.28,1058.32,2.2,Completed
+SOC1202,Kristi Neal,Matthewside,Michigan,West,A,Type2,2025-12-17,5,14.04,0.05,4151.49,2134.05,3.5,Cancelled
+SOC1203,Linda Mcpherson,South Kaylee,Utah,North,D,Type3,2025-09-26,15,717.48,0.15,9539.01,-17.82,1.1,Pending
+SOC1204,Andrea Austin,Port Amandaville,Iowa,South,D,Type2,2024-12-07,16,177.25,0.2,4253.77,,4.6,Completed
+SOC1205,Kathleen Maldonado,North Barbara,Nebraska,South,A,Type3,2024-05-09,5,627.16,0.2,2650.89,1938.5,2.1,Cancelled
+SOC1206,Mr. Hunter Schroeder,Lake Justinchester,New Jersey,North,D,Type1,2025-05-15,2,371.22,0.02,8328.71,-55.55,1.8,Completed
+SOC1207,Emma Jackson,Wigginsburgh,New Mexico,North,D,Type3,2023-09-27,8,242.4,0.21,6604.74,4496.83,3.4,Cancelled
+SOC1208,Robert Conley,New Michael,Wyoming,South,D,Type1,2025-08-11,5,307.84,0.11,1325.28,210.05,3.2,Completed
+SOC1209,Mr. Kevin Mckenzie,West Stephen,Nevada,North,C,Type2,2024-04-08,4,869.49,0.11,242.6,2544.98,1.3,Cancelled
+SOC1210,Angela Weber,Millston,North Dakota,South,D,Type2,2024-08-25,3,547.51,0.28,4611.41,3617.01,1.5,Cancelled
+SOC1211,Donna Aguilar,Juanbury,Ohio,North,A,Type3,2023-09-29,14,895.13,0.26,6870.28,-217.17,1.3,Completed
+SOC1212,Austin Hall,Griffinberg,Colorado,East,B,Type1,2023-09-08,15,442.2,0.1,8552.09,-333.48,2.4,Cancelled
+SOC1213,Megan Matthews,South Robert,Kansas,East,C,Type2,2023-07-30,9,204.33,0.09,9568.12,2831.5,4.9,Cancelled
+SOC1214,Michael Burton,Lake Heatherton,South Dakota,South,B,Type2,2023-12-28,13,605.64,0.04,7805.02,968.01,4.5,Completed
+SOC1215,Terry Wilson,East Frankstad,Pennsylvania,East,C,Type2,2024-02-28,2,275.77,0.03,8575.22,786.59,2.0,Completed
+SOC1216,Dustin Hubbard,East Troy,Oregon,East,D,Type3,2025-09-19,3,702.5,0.03,4082.64,2785.46,3.6,Completed
+SOC1217,Amy Ramirez,Lake Lynn,North Dakota,South,B,Type2,2024-05-18,6,648.67,0.05,720.63,4902.32,3.2,Cancelled
+SOC1218,Alexandra Jones,East Ryanville,Mississippi,South,C,Type3,2023-10-06,18,903.54,0.02,5131.98,1171.98,3.3,Completed
+SOC1219,Christopher Contreras,West Alyssatown,Nevada,North,C,Type1,2025-04-25,8,855.3,0.11,5674.57,3889.07,2.6,Cancelled
+SOC1220,Tammy Bryant,West Anthony,Georgia,North,C,Type1,2024-03-17,6,150.56,0.2,5063.82,3511.63,4.2,Pending
+SOC1221,Claudia Robinson,Tammyberg,New Hampshire,South,D,Type3,2023-06-26,16,264.44,0.2,879.49,889.42,1.6,Cancelled
+SOC1222,David Mclaughlin,Clinebury,Minnesota,North,C,Type3,2025-08-28,2,433.12,0.09,3840.98,-254.98,4.2,Pending
+SOC1223,Rachel Gross,East Kathleen,Wisconsin,North,A,Type1,2023-08-11,3,745.07,0.07,1015.13,1847.52,3.1,Cancelled
+SOC1224,Laura Bradshaw,Victoriabury,Washington,East,C,Type2,2025-11-14,11,13.99,0.04,9686.69,4695.6,4.5,Cancelled
+SOC1225,Casey Hernandez,Whitakerhaven,Nevada,West,D,Type2,2023-07-22,5,508.77,0.14,1843.4,-499.52,1.0,Completed
+SOC1226,Thomas Rose,West Jason,Delaware,North,A,Type1,2025-06-13,17,609.7,0.13,2676.44,2747.24,1.8,Completed
+SOC1227,Matthew Johnson,East Daniel,Nevada,North,A,Type2,2026-04-14,1,560.38,0.23,2858.07,2059.51,4.5,Completed
+SOC1228,Scott Rosales,Jasonstad,Missouri,South,C,Type3,2026-05-11,10,858.83,0.29,4026.97,2892.52,4.3,Pending
+SOC1229,Sean Johnson,Parkerton,Vermont,East,B,Type1,2026-04-30,17,15.09,0.2,7693.47,2647.33,4.2,Completed
+SOC1230,Janice Evans,North Donnatown,Louisiana,East,B,Type2,2025-01-07,16,298.73,0.08,2532.76,526.68,2.1,Pending
+SOC1231,Tyler Sanchez,Hensleyside,Kansas,South,D,Type3,2024-02-15,11,613.5,0.02,8199.77,3270.63,3.7,Pending
+SOC1232,Leslie Martinez,Mosleytown,New Jersey,South,D,Type2,2023-08-07,2,900.44,0.12,649.53,1543.06,3.6,Completed
+SOC1233,Steven Kelley,South Ashleyfort,Tennessee,West,B,Type3,2023-11-23,4,385.34,0.16,7106.19,534.33,2.4,Pending
+SOC1234,William Griffin,Adamhaven,Tennessee,North,D,Type2,2025-02-09,7,500.84,0.28,7735.42,1277.95,3.3,Pending
+SOC1235,Joshua Brennan,Kentton,Pennsylvania,South,A,Type1,2024-06-18,14,317.33,0.17,191.82,1082.61,2.1,Cancelled
+SOC1236,Ashlee Fernandez,Delgadobury,Mississippi,East,D,Type3,2025-12-26,13,78.19,0.16,2046.33,761.4,1.9,Pending
+SOC1237,Michael Velasquez,Ginaview,South Dakota,West,B,Type3,2023-12-23,6,351.79,0.13,3955.34,78.49,3.0,Completed
+SOC1238,Gabriella Oliver,West Ginastad,Arkansas,West,A,Type2,2023-06-03,1,242.76,,1995.02,4507.2,2.5,Pending
+SOC1239,Carl Townsend,Port Scott,Illinois,South,A,Type2,2023-10-07,14,261.4,0.01,8545.79,4985.41,3.3,Cancelled
+SOC1240,Ricardo Smith,New Thomas,Maine,South,D,Type2,2025-11-17,15,269.42,0.02,2781.15,3190.12,3.3,Cancelled
+SOC1241,Megan Marshall,Port Samuelbury,Alabama,South,B,Type3,2025-05-04,19,103.46,0.14,1970.01,4451.61,4.8,Pending
+SOC1242,James Rios,South Jonathan,Delaware,North,A,Type3,2025-02-18,14,946.24,0.12,1615.61,,4.8,Pending
+SOC1243,Christopher Ramirez,Port Joseph,Pennsylvania,West,A,Type2,2024-10-12,10,316.98,0.21,7253.6,162.5,4.6,Cancelled
+SOC1244,Christopher Davis,South Angela,Louisiana,North,C,Type2,2026-05-20,7,604.92,0.28,8616.46,2869.7,2.8,Cancelled
+SOC1245,Eric Baker,Velezside,Montana,South,B,Type3,2025-08-25,13,589.39,0.21,1012.63,-1.25,4.8,Cancelled
+SOC1246,Angela Serrano,Flynnborough,Montana,South,D,Type2,2025-11-20,13,368.69,0.23,9253.54,-45.52,1.6,Completed
+SOC1247,Gabriel Jones,Ramirezside,New Mexico,South,B,Type1,2026-05-10,6,683.21,0.17,8018.71,4775.13,2.7,Completed
+SOC1248,Sheri Williams,Bakerchester,Vermont,North,B,Type3,2025-04-18,17,508.04,0.09,1281.73,4451.73,1.9,Completed
+SOC1249,Kimberly Thomas,East Charlesstad,Maryland,East,B,Type3,2024-10-04,5,813.75,0.15,7260.15,3813.06,5.0,Cancelled
+SOC1250,Stephen Elliott,South Bonniemouth,Vermont,East,C,Type3,2025-02-28,15,370.16,0.05,9903.5,2677.34,2.3,Cancelled
+SOC1251,John Moore,Jonesberg,Maine,East,D,Type1,2025-05-10,12,339.53,0.12,3628.14,3379.73,4.7,Cancelled
+SOC1252,Michelle Arellano,Lisaview,Idaho,North,B,Type3,2023-07-20,13,524.15,0.21,7263.84,1144.15,2.6,Cancelled
+SOC1253,Mrs. Tracy Ramirez,Watkinsborough,Ohio,South,C,Type1,2024-09-02,8,312.03,0.11,806.08,,3.1,Pending
+SOC1254,Ethan Harris,Olsenshire,Arizona,East,C,Type1,2023-06-19,2,14.28,0.12,8846.04,3743.28,4.0,Completed
+SOC1255,Lisa Arnold,West Thomasfort,Nebraska,South,A,Type2,2023-07-31,4,830.96,0.26,5826.54,2278.96,4.0,Pending
+SOC1256,Christine Wilkins,Port Christina,Montana,West,A,Type1,2025-10-20,3,748.51,0.19,3256.16,4325.1,2.0,Cancelled
+SOC1257,Jessica Navarro,East Brendamouth,Michigan,West,D,Type1,2023-08-09,3,67.16,0.01,5428.21,1803.43,1.5,Cancelled
+SOC1258,Joseph Wood,Garciaville,West Virginia,North,A,Type2,2025-09-01,11,261.28,0.01,8750.89,-477.84,2.8,Completed
+SOC1259,Amanda Henderson,New Michael,Iowa,East,A,Type3,2024-02-29,10,145.23,0.22,2503.29,3020.6,1.1,Cancelled
+SOC1260,Jeffrey Bauer,Crystalburgh,Rhode Island,North,D,Type1,2025-06-14,17,776.01,0.29,1093.85,492.76,3.9,Completed
+SOC1261,Mrs. Natasha Thomas,Rojasmouth,South Carolina,South,C,Type2,2025-09-17,12,600.56,0.28,2414.57,1782.04,2.0,Pending
+SOC1262,Marcus Nielsen,Joseberg,Oklahoma,North,A,Type1,2025-11-04,2,157.32,0.01,1220.53,632.1,2.9,Pending
+SOC1263,Anthony Williams,Riosstad,Missouri,West,C,Type2,2026-05-09,4,918.8,0.13,4938.64,3802.61,4.3,Completed
+SOC1264,Brittany Kramer,Kimberlyborough,Connecticut,West,A,Type1,2023-06-05,12,271.16,0.12,5961.85,3366.1,3.0,Pending
+SOC1265,Andrew Torres,Mcguireview,New Mexico,East,B,Type3,2025-01-11,9,897.88,0.05,4477.42,3482.56,4.7,Pending
+SOC1266,Ronald Hale Jr.,Sandersside,Alabama,West,B,Type1,2024-01-09,17,514.5,0.19,686.02,1844.39,4.3,Completed
+SOC1267,Deborah Santos,Connerbury,Indiana,South,B,Type1,2024-04-04,6,371.27,0.05,5742.84,3119.84,2.9,Completed
+SOC1268,Dr. Robert Gill,West Eugene,Minnesota,North,B,Type2,2025-02-08,3,275.49,0.18,4269.0,-76.32,1.3,Cancelled
+SOC1269,Daniel Cook,South Timothy,Idaho,North,D,Type1,2025-01-01,3,915.8,0.22,7933.7,859.52,4.3,Pending
+SOC1270,Melissa Griffin,North Michelleland,Delaware,North,B,Type2,2025-10-20,17,225.92,0.1,8681.94,,3.1,Cancelled
+SOC1271,Melissa Lopez,Micheleton,New York,South,B,Type1,2024-05-31,16,499.15,0.07,9462.7,3668.3,1.4,Pending
+SOC1272,Tammie Price,New Andrea,Arkansas,West,D,Type2,2024-11-29,9,636.89,0.06,6277.34,2731.7,3.2,Completed
+SOC1273,Glenn Elliott,Danielburgh,Hawaii,East,C,Type3,2023-06-07,15,77.02,0.09,8889.82,116.34,1.4,Completed
+SOC1274,Sandra Schmidt,Jasonshire,Tennessee,East,B,Type3,2024-08-24,9,320.98,0.0,4024.13,4419.69,2.2,Pending
+SOC1275,Jennifer Landry,Port Joshua,Arizona,West,C,Type1,2024-08-03,15,12.27,,7574.61,1948.27,4.3,Pending
+SOC1276,Lauren Brady,North Debratown,New York,West,D,Type1,2025-08-12,6,793.88,,146.84,2498.01,4.1,Completed
+SOC1277,Karen Turner,Dyerville,Utah,West,A,Type1,2026-05-08,7,350.87,0.09,695.54,2042.27,2.1,Cancelled
+SOC1278,John Jones,West Thomas,Nevada,North,C,Type1,2024-01-07,17,210.64,0.17,6739.96,-485.42,3.7,Pending
+SOC1279,David Thompson,South Brittany,Connecticut,South,B,Type2,2025-04-13,4,458.39,0.18,9475.01,4969.05,2.7,Cancelled
+SOC1280,Mary Black,West Samueltown,Pennsylvania,East,A,Type1,2024-03-13,6,192.45,,7631.19,2087.35,1.6,Cancelled
+SOC1281,Lori White,Cynthiaside,Maine,South,C,Type1,2023-10-17,10,947.15,0.16,315.19,3615.36,2.2,Pending
+SOC1282,Brian Reyes,Ashleyland,Indiana,South,B,Type2,2026-04-12,14,995.77,0.02,9905.18,4451.03,3.8,Completed
+SOC1283,Maria Morrison,Jessicahaven,North Dakota,South,C,Type2,2024-11-19,18,618.27,0.16,6274.93,4867.33,2.6,Completed
+SOC1284,Carrie Wright,Cruzstad,Delaware,South,B,Type2,2024-05-27,13,818.66,0.3,1605.26,3833.97,4.6,Completed
+SOC1285,Mariah Walker,North Carrieside,Kansas,East,D,Type2,2024-09-22,15,591.84,0.12,2125.65,2162.14,1.1,Pending
+SOC1286,Derrick Barnes,Christophermouth,North Dakota,East,D,Type1,2024-12-02,6,655.34,0.09,7358.0,4081.56,2.4,Completed
+SOC1287,Kenneth Hansen,West Jadeshire,West Virginia,South,A,Type1,2024-09-04,14,789.27,0.06,3603.09,2217.84,1.5,Cancelled
+SOC1288,Glenn Cameron,Kimberlyhaven,Alabama,North,B,Type1,2024-10-08,10,443.52,0.24,9728.06,2338.86,1.4,Completed
+SOC1289,Rebecca Williams,West Ralph,Utah,East,C,Type2,2024-12-20,14,74.95,0.14,7531.5,2226.97,1.7,Pending
+SOC1290,Laura Reid,Ashleychester,Oregon,West,A,Type2,2026-02-12,4,27.66,0.24,6287.27,3901.9,2.1,Pending
+SOC1291,Ryan Mitchell,New Kendrastad,Georgia,North,C,Type1,2024-11-06,13,721.69,0.27,8013.16,3633.34,2.0,Completed
+SOC1292,Mark Waller,South Ericborough,West Virginia,East,D,Type2,2025-11-06,17,54.31,0.26,3420.26,704.15,1.3,Cancelled
+SOC1293,Lisa Smith,,Iowa,South,C,Type2,2023-08-01,6,689.23,0.26,3669.68,45.02,4.3,Cancelled
+SOC1294,Robert Sanchez,Thompsonborough,Arizona,West,A,Type2,2025-03-25,16,373.26,0.07,6785.35,1318.97,1.3,Cancelled
+SOC1295,Rebecca Eaton,Rodriguezville,Oregon,South,C,Type3,2025-01-25,9,291.88,0.16,8239.76,970.79,3.3,Cancelled
+SOC1296,Doris Stark,New Jamie,Maryland,North,D,Type1,2025-11-21,8,416.15,0.18,1307.52,367.97,4.9,Pending
+SOC1297,Frances Black,Robertstad,Pennsylvania,East,A,Type1,2025-08-11,5,186.91,0.05,8901.99,-351.79,2.2,Pending
+SOC1298,Angela Rodriguez,Barajasmouth,Kentucky,North,B,Type2,2024-05-15,19,984.52,0.22,320.3,1595.1,3.8,Cancelled
+SOC1299,Dawn Perry,New Charlesview,Oklahoma,South,A,Type1,2025-01-15,17,999.61,0.02,9880.94,-357.8,2.3,Completed
+SOC1300,Casey Bentley,Gabriellaborough,Wisconsin,East,D,Type3,2024-02-06,17,16.24,0.22,6631.0,616.56,3.4,Completed
+SOC1301,Francisco Velazquez,West Isaiahtown,Delaware,East,A,Type1,2024-04-12,2,710.37,0.08,9567.29,-152.65,2.3,Cancelled
+SOC1302,Ronald Cook,Debrahaven,Louisiana,North,D,Type1,2023-12-15,8,227.59,0.04,4590.78,3765.07,3.4,Pending
+SOC1303,Sylvia Crane,Mclaughlinton,Texas,East,D,Type2,2023-12-20,3,314.6,0.06,6549.41,2838.48,1.1,Completed
+SOC1304,Misty Walters,North Kyle,South Carolina,North,D,Type3,2026-03-29,4,968.77,0.13,6136.12,2288.43,2.4,Pending
+SOC1305,Donna Chapman,,Washington,West,A,Type2,2023-06-29,5,709.62,0.14,7465.81,4441.09,4.3,Cancelled
+SOC1306,Jessica Mcclain,Erictown,South Carolina,North,C,Type2,2025-09-08,11,313.34,0.14,4415.3,807.08,2.4,Pending
+SOC1307,Joann Chaney,Erikamouth,Texas,North,C,Type3,2025-12-08,3,243.33,0.14,2205.37,4010.9,1.8,Cancelled
+SOC1308,Jerry Barrett,West Cynthia,Tennessee,North,C,Type3,2025-02-08,9,690.47,0.2,9004.22,1841.64,1.1,Completed
+SOC1309,Diana Ferguson,Aaronberg,South Carolina,South,A,Type3,2025-09-28,8,374.2,0.04,4588.9,4402.73,2.7,Cancelled
+SOC1310,Mr. Dave Fernandez MD,Lake Steven,North Dakota,East,D,Type3,2023-11-01,19,224.12,0.11,1146.93,4613.56,2.5,Completed
+SOC1311,Jacob Davis,Chungfort,Florida,South,A,Type1,2023-09-11,7,29.98,0.1,1468.73,594.13,3.3,Completed
+SOC1312,Valerie Austin,East Amyside,Colorado,East,D,Type3,2024-09-19,8,466.56,0.03,6280.16,2523.04,3.3,Completed
+SOC1313,Robert Morris,Laurieport,West Virginia,West,A,Type3,2026-01-06,6,294.94,0.28,620.36,,2.5,Completed
+SOC1314,Deborah Oconnell,Lake Dawnhaven,West Virginia,North,A,Type1,2025-04-15,4,613.76,0.04,6429.77,208.87,2.8,Pending
+SOC1315,Jason Barnes,East Paul,Georgia,West,A,Type2,2023-09-30,2,188.98,0.3,1167.2,4378.27,4.9,Pending
+SOC1316,Mario Wilson,New Williamberg,Arizona,South,B,Type2,2025-09-27,19,766.53,0.08,7301.81,,3.3,Completed
+SOC1317,Christopher Collier Jr.,Lake Alison,Colorado,South,D,Type1,2024-07-13,5,511.87,0.11,2157.48,3115.08,4.1,Pending
+SOC1318,Jacqueline Moss,Curryview,Maine,South,C,Type2,2025-06-12,3,335.4,0.28,8011.62,,3.2,Cancelled
+SOC1319,Marc Hart,North Leah,Arkansas,West,A,Type1,2023-06-23,15,456.3,0.2,3550.65,2661.0,3.8,Completed
+SOC1320,Devin Walters,Yesenialand,Arizona,West,B,Type3,2025-03-09,6,257.17,0.16,6909.49,3783.98,4.6,Cancelled
+SOC1321,Brittany Rodriguez,East Victoriamouth,Massachusetts,South,B,Type3,2023-09-22,16,748.52,0.19,4852.86,,4.4,Completed
+SOC1322,Kelly Green,Tateton,Connecticut,East,A,Type1,2023-10-26,5,731.78,0.02,9960.77,4878.63,3.0,Cancelled
+SOC1323,Brandon Mahoney,Lake Marissa,Alaska,North,A,Type1,2026-01-17,17,224.78,0.02,4224.87,3410.53,4.3,Pending
+SOC1324,Nancy Barnett,Port Michelletown,Nebraska,South,D,Type2,2025-03-05,2,159.26,0.28,8660.83,920.21,4.3,Pending
+SOC1325,Nicole Clay,North Ruthshire,Ohio,West,B,Type1,2026-04-10,19,55.83,0.18,9148.75,356.23,2.5,Completed
+SOC1326,Jean Patel,Christophermouth,Arkansas,West,C,Type1,2025-05-06,7,359.71,0.23,6067.43,486.58,2.9,Pending
+SOC1327,Jerry Knight,Nicholsview,New Jersey,South,D,Type1,2025-04-27,2,487.17,0.27,2215.5,4513.37,1.1,Pending
+SOC1328,James Richards,Ashleyview,Ohio,West,D,Type3,2024-12-28,3,366.51,0.24,8379.11,4248.51,1.7,Completed
+SOC1329,Isabella Smith,Potterborough,Oklahoma,West,A,Type2,2024-06-12,18,617.66,0.07,8594.6,-6.24,2.2,Cancelled
+SOC1330,Diane Stewart,Carlaside,Indiana,North,B,Type2,2023-11-24,11,998.39,0.01,459.05,1806.1,4.3,Cancelled
+SOC1331,Kenneth Cox,South Williamfort,Nebraska,East,D,Type1,2026-01-06,8,137.28,0.1,9630.05,-408.98,4.1,Completed
+SOC1332,Robert Andrews,Edwardport,Vermont,East,C,Type1,2023-09-28,19,206.64,0.05,7362.71,4794.64,1.1,Cancelled
+SOC1333,Amy Harris,Port Tammy,Ohio,East,D,Type3,2024-04-01,7,419.57,0.08,3797.8,,3.8,Cancelled
+SOC1334,Nathan Morales,Paulport,New York,North,B,Type2,2024-07-29,19,478.72,0.28,7876.61,4603.95,4.1,Completed
+SOC1335,Adam Lester,Bennettside,Maine,East,C,Type1,2024-09-24,15,663.7,0.02,5172.62,2334.83,3.0,Pending
+SOC1336,John Frye,Roymouth,New Jersey,South,C,Type3,2024-12-16,12,916.35,0.17,488.48,3858.1,4.6,Cancelled
+SOC1337,Joseph Thomas,Larsonmouth,Nevada,North,D,Type2,2025-01-08,13,277.98,0.27,2039.66,4751.52,2.9,Pending
+SOC1338,Daniel Boyd,Robertsside,Missouri,North,C,Type3,2024-01-03,7,749.35,0.22,6153.74,2964.7,2.7,Cancelled
+SOC1339,Lori Hayes,Tammyfort,Michigan,South,B,Type3,2023-06-28,4,544.55,0.07,6728.27,1110.37,4.4,Cancelled
+SOC1340,Carol Craig,Johnsport,Nevada,East,A,Type2,2024-04-29,7,664.2,0.08,9120.06,3577.99,1.6,Cancelled
+SOC1341,James Robbins,East Robertmouth,New York,East,B,Type2,2023-06-22,7,744.36,0.06,7831.08,,2.8,Completed
+SOC1342,Andrew Brown,Lake Robert,Oregon,West,B,Type2,2025-12-24,19,21.15,0.09,7424.78,-384.57,4.5,Completed
+SOC1343,Michael Compton,Lucastown,Montana,East,C,Type2,2023-07-08,5,37.97,0.13,5583.6,538.1,2.0,Cancelled
+SOC1344,Michael Castaneda,Lake Kara,South Carolina,South,B,Type1,2025-09-12,18,389.31,0.28,1807.7,3581.58,2.3,Pending
+SOC1345,Karen Delgado,Danielmouth,Wyoming,North,C,Type2,2024-02-29,3,317.53,0.13,7543.31,2793.45,4.9,Pending
+SOC1346,Ashley Russell,Danamouth,New Jersey,West,C,Type1,2024-09-11,1,403.32,0.02,4556.29,4266.24,1.6,Pending
+SOC1347,Laura Rojas,Victoriaville,Connecticut,East,A,Type3,2025-01-08,14,963.03,0.02,1700.95,4159.25,2.3,Cancelled
+SOC1348,Andre Perkins,Lake Marcusport,Texas,South,C,Type1,2026-04-16,9,113.15,0.28,3818.28,1569.87,4.2,Cancelled
+SOC1349,Michael White,Duncanstad,North Carolina,North,B,Type3,2025-05-20,14,386.76,0.11,6787.65,515.08,2.9,Cancelled
+SOC1350,Janice Harrison,Fergusonport,Minnesota,West,A,Type1,2025-05-12,5,858.51,0.19,5440.28,-12.05,2.9,Cancelled
+SOC1351,Michael Webster,Rodriguezshire,Texas,West,A,Type1,2023-08-03,4,672.47,0.04,7579.49,1745.9,2.2,Pending
+SOC1352,Steven White,Silvaland,South Carolina,North,C,Type1,2026-04-16,4,336.73,0.1,7822.3,4460.93,4.2,Cancelled
+SOC1353,Elizabeth Brady,Lake Elizabethland,South Dakota,South,B,Type1,2025-06-18,8,821.21,0.15,9623.94,2249.19,1.7,Cancelled
+SOC1354,Steven Newman,Michelestad,Nebraska,West,D,Type2,2026-05-21,14,549.94,0.09,2253.93,2319.11,2.9,Completed
+SOC1355,Amanda Hunter,Lake Sharon,Mississippi,North,D,Type2,2025-09-09,18,842.79,0.03,2076.05,1138.39,2.5,Cancelled
+SOC1356,Michelle Manning,North Stacymouth,Wyoming,North,B,Type1,2024-12-08,4,475.0,0.08,6346.07,4855.28,2.4,Pending
+SOC1357,Lance Mcneil,Jennifermouth,Rhode Island,South,D,Type1,2023-06-05,4,501.2,0.11,3012.45,317.09,4.8,Completed
+SOC1358,Ashley Fields,,Massachusetts,South,B,Type1,2024-04-26,11,532.1,0.24,5919.46,3508.37,1.2,Pending
+SOC1359,Sarah Rush,Rowlandport,South Carolina,West,B,Type3,2023-06-24,1,260.19,0.0,1737.24,1801.81,1.3,Completed
+SOC1360,Chris Sandoval,Wilsonberg,Hawaii,East,C,Type2,2024-03-19,4,736.81,0.29,3748.46,3239.14,3.1,Completed
+SOC1361,James Peterson,Castrochester,New York,North,A,Type2,2023-10-24,10,90.3,0.04,4960.3,1324.79,4.3,Cancelled
+SOC1362,Elizabeth Hatfield,North Derekfurt,Nevada,North,C,Type1,2025-08-14,12,879.17,0.17,1001.07,1263.67,1.7,Cancelled
+SOC1363,Katherine Christensen,Turnerview,Wyoming,West,B,Type3,2024-10-05,12,517.99,0.28,5462.03,4206.9,2.0,Pending
+SOC1364,Jonathan Perez,South Lesliemouth,Oregon,South,A,Type3,2024-09-08,8,733.26,0.14,5795.17,1871.2,2.7,Pending
+SOC1365,Geoffrey Conner,Simmonsstad,Iowa,East,A,Type2,2024-09-18,1,574.66,0.28,5235.82,362.98,3.5,Pending
+SOC1366,Richard Johnson,North Richardbury,Connecticut,East,C,Type1,2025-04-25,14,802.57,0.11,505.9,962.09,4.4,Completed
+SOC1367,Robert Hunt,Harrisberg,Washington,South,B,Type3,2026-05-06,8,665.14,0.1,5259.82,-418.76,2.6,Pending
+SOC1368,Sarah Buchanan,Sherryborough,Wisconsin,North,A,Type2,2026-01-27,15,453.46,0.1,7988.04,961.86,2.8,Completed
+SOC1369,Margaret Hogan,Jonesshire,Colorado,East,A,Type2,2023-12-18,9,394.98,,7541.86,-222.41,3.0,Cancelled
+SOC1370,Jessica Villegas,East Francisco,Indiana,South,C,Type1,2023-07-07,14,798.03,0.26,2361.53,561.19,2.1,Cancelled
+SOC1371,Amber Chandler,Codyshire,Georgia,North,C,Type2,2026-02-10,6,138.93,0.2,1512.8,4704.73,3.1,Cancelled
+SOC1372,Brent Bryant,North Alexis,Michigan,South,B,Type3,2025-01-14,14,971.0,0.25,2482.57,1210.32,3.4,Pending
+SOC1373,Mr. Austin Hernandez,Port Maryview,Ohio,North,A,Type1,2024-11-15,7,871.6,0.1,8330.64,3704.37,1.3,Cancelled
+SOC1374,Alejandra Shepherd,Angelashire,Florida,West,A,Type3,2024-07-25,18,494.05,0.18,7486.8,2150.3,1.6,Pending
+SOC1375,Leah Liu,West Emma,Oklahoma,East,A,Type3,2024-02-07,7,645.59,0.02,5889.73,4435.4,1.1,Completed
+SOC1376,Kendra Lee,Nicoleport,Wisconsin,West,B,Type2,2025-06-20,13,825.35,0.0,8234.48,2663.3,2.8,Cancelled
+SOC1377,Sheila Davis,East Franciscochester,Indiana,North,C,Type2,2025-04-08,15,856.02,0.03,8292.77,1468.48,1.9,Cancelled
+SOC1378,Carlos Gay PhD,North Paula,Idaho,South,A,Type1,2023-10-28,18,713.43,0.27,9610.77,1555.1,5.0,Pending
+SOC1379,Marcus Allen,Figueroamouth,Arkansas,West,C,Type3,2024-01-22,3,643.13,0.07,469.91,4095.78,3.5,Cancelled
+SOC1380,Peter Bautista,East Ginashire,Maine,East,D,Type1,2025-05-21,12,982.18,0.07,1158.35,4036.6,3.7,Pending
+SOC1381,Jared Conley,Port Dennis,Montana,South,C,Type2,2025-01-11,1,345.23,0.2,9672.3,4087.77,1.8,Completed
+SOC1382,James Bell,Reyesfurt,Kentucky,South,C,Type1,2025-05-01,14,592.79,0.02,7731.81,2019.75,1.4,Cancelled
+SOC1383,Nicole Black,East Jonathanland,Kentucky,East,D,Type3,2025-04-28,19,52.94,0.15,9395.02,1313.76,3.6,Pending
+SOC1384,Mary Stevens,North Joseph,California,North,D,Type2,2025-07-05,15,466.74,0.1,3574.56,2212.5,4.8,Pending
+SOC1385,Olivia Combs MD,Michaelland,Vermont,North,A,Type3,2025-10-14,4,470.19,0.2,6687.3,2513.34,4.4,Completed
+SOC1386,David Mckinney,Warrenville,New York,North,D,Type1,2024-01-07,4,629.14,0.1,4523.54,4769.18,3.4,Pending
+SOC1387,Jared Rios,Hannahshire,Tennessee,South,A,Type2,2025-01-23,18,591.36,0.17,3646.66,2499.1,4.2,Pending
+SOC1388,Kurt Robertson,Taylorport,Ohio,West,B,Type3,2024-07-30,3,80.92,0.29,9651.58,195.46,2.1,Completed
+SOC1389,Melody Morales,Stanleychester,Washington,North,C,Type2,2024-02-07,7,839.63,0.3,2591.06,2573.25,2.7,Completed
+SOC1390,Cory Mendez,South Charlesberg,Connecticut,East,C,Type1,2025-12-05,9,533.33,0.07,2779.34,3772.4,2.9,Cancelled
+SOC1391,Brittany Ferguson,Mccallville,North Carolina,East,A,Type2,2025-05-26,5,84.72,0.07,1316.06,854.89,4.8,Cancelled
+SOC1392,Adrian Campbell,Cooperborough,Arizona,West,C,Type2,2025-04-26,19,827.32,0.15,4072.7,1362.96,3.3,Pending
+SOC1393,Jill Mcbride,Lake Austin,Vermont,East,D,Type2,2025-12-16,13,604.18,0.02,2944.11,4680.99,1.3,Completed
+SOC1394,Samantha Wolf,New Monica,Kentucky,South,A,Type2,2026-03-22,6,846.37,0.29,5365.67,4644.43,3.8,Completed
+SOC1395,John Lopez,New Danielport,New Hampshire,North,D,Type3,2025-09-11,19,897.75,0.07,7068.92,-9.6,1.0,Pending
+SOC1396,Danielle Wells,North Justinview,Illinois,East,B,Type2,2023-07-11,2,843.79,0.21,9751.37,4802.5,1.1,Pending
+SOC1397,Angela Brown,New Cheryl,Connecticut,South,C,Type3,2024-03-27,6,990.84,0.21,4387.15,3360.66,1.4,Completed
+SOC1398,Miguel Reid,Holtton,Michigan,East,D,Type3,2026-04-03,2,506.2,0.02,1432.89,4524.96,4.2,Completed
+SOC1399,David Francis,Kathrynbury,Pennsylvania,East,A,Type3,2024-06-21,4,28.6,0.11,7075.72,2102.85,2.3,Cancelled
+SOC1400,Amber Wallace,Clarkport,Louisiana,South,B,Type1,2024-05-26,15,993.7,0.15,7562.88,2689.49,4.1,Completed
+SOC1401,Joshua Jackson,Gregoryborough,New Jersey,West,D,Type1,2025-12-24,6,758.57,0.23,2112.74,543.14,2.2,Completed
+SOC1402,Ashley Burke,Nathanstad,West Virginia,North,A,Type2,2024-01-10,8,350.67,0.24,3168.78,833.63,1.3,Cancelled
+SOC1403,Adam Marshall,Jasonport,Colorado,North,B,Type3,2023-11-06,17,53.48,,2287.61,266.93,4.2,Pending
+SOC1404,Maria Murray,East Daniel,Virginia,East,D,Type3,2024-09-04,9,590.79,0.22,7540.43,921.48,3.6,Pending
+SOC1405,Danielle Lambert,Port Antoniobury,North Carolina,East,B,Type2,2024-08-04,2,690.42,0.11,3580.23,-273.73,3.0,Cancelled
+SOC1406,Andrea Martin DVM,Smithfort,Nebraska,West,C,Type3,2025-01-29,4,655.57,0.25,9949.25,4824.36,2.8,Cancelled
+SOC1407,Thomas Smith,Jimenezview,South Carolina,West,A,Type3,2025-01-16,7,169.43,0.22,5704.31,3194.27,3.2,Pending
+SOC1408,Patricia Richardson,Sheltonshire,Alaska,South,D,Type1,2026-01-08,13,16.83,0.09,7901.53,-193.66,1.1,Cancelled
+SOC1409,James Brown,East David,Alaska,South,B,Type1,2023-09-30,1,87.91,0.13,3807.22,1407.8,4.4,Cancelled
+SOC1410,Dean Medina,,Missouri,West,B,Type2,2023-12-17,4,555.1,0.07,6021.92,2928.3,1.6,Cancelled
+SOC1411,Roger Smith,East Ronald,Missouri,South,B,Type2,2024-05-10,11,914.69,0.01,2383.11,2132.57,4.4,Cancelled
+SOC1412,Taylor Case,North Dustin,Iowa,East,B,Type2,2024-10-08,19,323.08,0.03,5644.02,-292.28,2.7,Pending
+SOC1413,Gabriela Key,,Florida,East,A,Type1,2023-12-22,4,166.57,0.04,750.68,3907.23,3.7,Completed
+SOC1414,Sherry Ryan,Riveraberg,Washington,West,D,Type2,2023-06-01,11,477.78,0.11,8646.52,3170.82,3.7,Completed
+SOC1415,Stephen Pitts,Howellland,Arkansas,North,C,Type3,2025-04-12,19,147.49,0.04,1057.8,2402.85,1.3,Cancelled
+SOC1416,Anthony Carlson,Williamsport,Oregon,West,C,Type2,2026-04-01,19,369.72,0.22,2425.11,-191.88,1.4,Completed
+SOC1417,Michael Bryan,Avilastad,Arizona,South,D,Type2,2024-12-05,7,85.19,0.22,7419.79,4888.02,4.1,Pending
+SOC1418,Nicole Frost,North Willieburgh,Maryland,North,D,Type3,2025-11-22,1,626.68,0.07,5088.51,664.13,1.8,Completed
+SOC1419,James Warren,Russellberg,Mississippi,West,A,Type3,2024-01-15,17,265.33,0.09,9530.06,3008.07,2.2,Completed
+SOC1420,Benjamin Anderson,Goodmanhaven,Missouri,West,B,Type1,2023-10-30,16,47.67,0.1,796.45,1753.56,3.2,Completed
+SOC1421,Anthony Benitez,Daniellehaven,Pennsylvania,East,C,Type3,2024-01-13,18,760.25,0.1,7893.51,1203.11,3.0,Pending
+SOC1422,Jeremy Flores,Gilbertland,Kentucky,North,C,Type2,2024-06-05,7,119.7,0.09,7366.76,3901.49,3.8,Completed
+SOC1423,Amanda Hunter,South Clinton,New York,East,B,Type1,2024-05-20,6,816.1,0.01,2875.03,2317.3,2.6,Pending
+SOC1424,Caroline Smith,Paulmouth,Massachusetts,South,B,Type2,2025-02-23,4,646.77,0.08,2537.86,3777.3,1.1,Cancelled
+SOC1425,Jennifer Townsend,Scottmouth,Massachusetts,North,A,Type1,2025-09-11,7,823.66,0.02,3278.31,393.37,3.0,Completed
+SOC1426,Diana Freeman,Kylebury,Washington,East,B,Type1,2024-09-01,17,763.09,0.22,4222.2,3104.17,4.8,Cancelled
+SOC1427,Robert Holland,Fullermouth,Pennsylvania,East,B,Type1,2024-10-07,17,565.98,0.19,7431.49,3014.82,2.5,Cancelled
+SOC1428,Mary Mcmillan,Manuelview,Hawaii,South,D,Type2,2023-12-07,6,370.83,0.14,5938.16,399.85,3.6,Cancelled
+SOC1429,Pamela Powell,Donaldland,Kentucky,North,D,Type2,2025-05-30,15,195.18,0.08,3028.53,2465.89,4.9,Cancelled
+SOC1430,Patricia Strickland,New Keithmouth,Hawaii,West,A,Type1,2024-07-31,19,528.87,0.22,435.33,3834.83,4.0,Cancelled
+SOC1431,Cory Jones,South Danstad,Maine,East,D,Type3,2025-09-28,14,395.86,0.07,8519.6,-146.7,1.1,Cancelled
+SOC1432,Lori Webster,North Nicole,Kansas,North,D,Type1,2024-12-26,9,502.32,0.02,5376.17,1919.35,3.2,Completed
+SOC1433,Michael Coleman,Kristinmouth,Alabama,West,A,Type2,2023-07-19,1,814.99,0.03,8897.12,4662.66,2.8,Pending
+SOC1434,Sandra Campbell,Port Elizabeth,Arkansas,South,A,Type2,2025-07-24,3,137.07,0.06,1037.51,1246.74,4.8,Pending
+SOC1435,Sheila Riddle,Gabrielaborough,Connecticut,East,A,Type3,2023-08-03,9,409.57,0.01,2358.48,335.47,4.4,Completed
+SOC1436,Leslie Bailey,East George,Nebraska,North,B,Type1,2023-08-15,9,834.66,0.24,5176.4,1143.91,4.0,Cancelled
+SOC1437,Dr. Isaiah Hill DDS,Harrisonmouth,South Dakota,West,A,Type3,2024-10-22,17,687.37,,3374.09,4778.11,2.6,Pending
+SOC1438,Molly Schmidt,West Adamhaven,Maryland,North,C,Type2,2023-11-25,9,272.62,0.03,3264.58,-332.18,2.8,Pending
+SOC1439,Mrs. Susan Adkins,,Georgia,North,C,Type2,2025-07-24,13,151.54,0.21,7934.73,941.39,4.1,Pending
+SOC1440,Tracy Jenkins,Erikashire,North Dakota,West,A,Type2,2025-10-26,14,17.96,0.29,2792.68,1674.8,2.1,Cancelled
+SOC1441,Amber Reyes,West Wendyfort,Delaware,East,D,Type1,2025-02-06,17,769.25,0.09,3073.22,3183.44,2.2,Pending
+SOC1442,Tiffany Sanchez,Garymouth,Washington,North,B,Type1,2023-11-15,14,947.96,0.27,3156.8,4493.28,2.1,Pending
+SOC1443,Katie Dennis,Andreaview,Utah,West,C,Type1,2024-10-12,17,953.54,0.24,3059.1,311.35,4.0,Cancelled
+SOC1444,Charles Thompson,Katherinestad,Mississippi,South,B,Type1,2024-10-30,6,48.74,0.14,2009.16,271.5,2.4,Pending
+SOC1445,Alexandra Jenkins,Port Gregoryshire,Maryland,South,B,Type3,2026-02-14,15,964.86,0.02,7223.46,4680.44,4.7,Completed
+SOC1446,Elizabeth Robertson,Cannonview,Utah,West,A,Type3,2025-12-19,2,737.38,,3474.33,3513.06,4.8,Completed
+SOC1447,Alex Reese,East Adrianaborough,Michigan,South,A,Type1,2025-07-20,3,308.31,0.24,2978.57,1535.52,1.7,Pending
+SOC1448,William Rosales,Tiffanystad,Michigan,East,D,Type2,2023-10-08,17,825.26,0.25,8291.47,1652.79,3.4,Pending
+SOC1449,Jean Wang,New Keith,Vermont,North,B,Type1,2025-12-05,3,772.64,0.0,5313.07,2178.75,3.4,Pending
+SOC1450,Amanda Hall,Lake Nicolefort,Montana,North,C,Type2,2024-09-22,10,546.29,0.09,5894.53,827.84,2.7,Completed
+SOC1451,Zachary Mccoy,Hallland,Maryland,North,C,Type3,2023-10-18,7,181.4,0.11,6027.49,1943.22,2.3,Cancelled
+SOC1452,Mary Jackson,Smithmouth,Nevada,South,A,Type2,2023-10-07,9,892.58,0.18,6223.61,1325.02,4.8,Pending
+SOC1453,Cristina Alvarez,Lake Christiechester,Nebraska,South,C,Type2,2026-02-05,13,536.64,0.05,4252.0,-425.83,1.9,Completed
+SOC1454,Madeline Love,Port Victor,Kansas,North,B,Type1,2025-04-09,14,179.12,0.07,6022.83,2762.75,4.4,Cancelled
+SOC1455,Kristina Williams,New Lindsey,Maine,West,C,Type2,2024-11-18,18,465.3,0.3,8374.14,1738.25,2.7,Cancelled
+SOC1456,Samantha Mcgee,Lake Jonathanport,Kansas,South,D,Type3,2025-11-27,5,645.64,0.23,6240.74,1339.84,3.4,Cancelled
+SOC1457,Tiffany Taylor,West Ericafurt,Texas,East,C,Type2,2024-02-07,11,389.94,0.24,3567.35,32.42,4.5,Pending
+SOC1458,Angela Vaughn,South Craigville,Washington,North,A,Type2,2025-07-04,4,821.33,0.28,1188.6,1930.44,3.2,Pending
+SOC1459,Christopher Daniels,Lewistown,Missouri,East,D,Type1,2024-12-14,7,770.73,0.29,3983.01,2786.36,2.4,Completed
+SOC1460,Lindsey Grimes,New Shannon,Georgia,West,A,Type3,2024-01-12,4,934.18,0.17,9832.69,-34.7,3.9,Pending
+SOC1461,Nicholas Daniels,Collinsport,Alaska,South,C,Type1,2023-08-04,16,49.53,0.01,5928.9,1929.81,1.9,Pending
+SOC1462,Brandon Barker,New Jennifer,Minnesota,West,D,Type2,2025-11-08,1,827.2,0.27,9889.99,2727.42,2.8,Cancelled
+SOC1463,Kristi Hoffman,North Collinbury,Wisconsin,West,C,Type3,2026-05-01,16,470.56,0.08,2165.75,2593.15,2.8,Cancelled
+SOC1464,Robert Anderson,West Hannahmouth,Maryland,West,B,Type2,2025-07-31,8,410.01,0.22,2196.22,3935.81,4.6,Cancelled
+SOC1465,Ashlee Morgan,South Brittany,Montana,South,B,Type3,2025-08-18,7,485.27,0.12,3337.97,4618.18,3.6,Cancelled
+SOC1466,Brandon Garcia,South Grantmouth,Delaware,North,A,Type1,2024-11-24,13,981.48,0.25,8948.55,628.44,4.5,Pending
+SOC1467,John Mccann,Lake Katiestad,Maryland,North,A,Type2,2026-05-27,16,871.04,0.15,247.02,2236.2,1.7,Pending
+SOC1468,Kimberly Ross,Lindseymouth,Montana,North,C,Type3,2023-10-21,11,227.43,0.12,6514.55,3812.78,3.0,Completed
+SOC1469,Courtney Bryant,West Elizabeth,Florida,North,A,Type2,2025-05-05,14,45.86,0.02,6650.27,3391.5,1.4,Pending
+SOC1470,Edward Gill,West Leslieton,Colorado,North,A,Type2,2026-03-31,7,50.47,,917.58,-420.92,4.5,Pending
+SOC1471,Gloria Huang,Porterport,California,West,C,Type3,2025-02-23,14,443.08,0.21,9310.68,-116.38,3.6,Cancelled
+SOC1472,Eric Ford,West Christinabury,Massachusetts,South,D,Type2,2024-12-21,18,626.06,0.11,6996.03,249.7,3.2,Pending
+SOC1473,Julia Torres,,Missouri,South,B,Type3,2024-02-04,15,792.25,0.17,4420.62,1398.14,3.1,Cancelled
+SOC1474,Robert Valdez,Lake Jennifer,Virginia,North,D,Type2,2024-12-17,7,221.79,0.09,9755.08,4751.88,4.7,Completed
+SOC1475,Jacqueline Day MD,West Jeffery,North Dakota,East,C,Type1,2026-02-13,3,718.41,0.16,5317.85,4799.54,4.9,Completed
+SOC1476,Gina Cannon,Port Linda,New Mexico,North,A,Type3,2024-03-26,12,283.51,0.06,3352.13,3902.9,3.6,Completed
+SOC1477,Daniel Brown,,North Dakota,East,D,Type1,2023-06-01,11,82.79,0.21,5271.07,826.54,4.2,Completed
+SOC1478,Brian Davis,Barnesmouth,Minnesota,North,B,Type2,2024-01-08,6,210.74,0.22,7039.03,832.53,4.2,Completed
+SOC1479,Sierra Patrick,New Patrick,Kansas,West,D,Type2,2025-09-17,14,140.12,0.11,9720.65,4796.77,2.8,Completed
+SOC1480,Chad Macias,Maysport,Hawaii,South,B,Type3,2025-09-26,1,634.23,0.24,4548.46,3888.89,5.0,Pending
+SOC1481,Heather Preston,Port Davidfurt,South Carolina,East,B,Type3,2024-12-08,12,505.57,0.21,3757.05,3725.19,4.7,Cancelled
+SOC1482,Christopher Hall,Denisemouth,New Jersey,West,B,Type2,2025-03-03,9,220.35,0.09,9363.68,2954.2,2.4,Cancelled
+SOC1483,Jasmine Martin,West Jeffreyville,Montana,North,B,Type2,2025-04-13,5,209.67,0.0,7805.82,2521.87,2.9,Pending
+SOC1484,Stephanie Winters,Jesseborough,Mississippi,West,C,Type1,2023-07-16,2,247.92,0.28,4623.04,4881.15,4.0,Pending
+SOC1485,Leslie Estrada,New Bethanyburgh,Kentucky,North,A,Type2,2026-05-09,8,668.17,0.24,3777.73,229.09,4.6,Completed
+SOC1486,Eric Douglas,New Heather,Florida,West,C,Type2,2026-03-04,13,939.0,0.01,4195.14,1707.09,4.0,Pending
+SOC1487,Amanda Hanna,,Arkansas,West,B,Type3,2024-08-03,19,290.06,0.05,252.98,-161.22,4.4,Completed
+SOC1488,Ashley Martinez,Rioshaven,Florida,East,D,Type2,2024-10-09,8,191.34,0.17,4763.66,4160.71,1.4,Completed
+SOC1489,Dr. Richard Miller,Mosleyberg,Wyoming,East,C,Type1,2025-09-23,1,942.22,0.11,711.65,1579.31,2.8,Completed
+SOC1490,Jeffrey Barker,Chelseamouth,Hawaii,East,B,Type3,2024-04-16,2,323.89,0.04,6842.43,4199.39,1.2,Pending
+SOC1491,Marcus Rivera,Toddbury,Kansas,North,A,Type2,2023-09-20,17,414.34,0.22,9243.62,2757.36,3.7,Cancelled
+SOC1492,Tracey Mueller,Carlaland,Missouri,West,B,Type1,2024-12-25,11,409.67,0.3,9820.88,4395.37,4.7,Cancelled
+SOC1493,Kathleen Roberts,Campbellfort,South Carolina,East,B,Type3,2025-10-28,6,877.36,0.26,6410.28,1306.94,3.7,Cancelled
+SOC1494,Catherine Smith,Ramosmouth,Indiana,West,C,Type1,2025-05-07,3,445.88,0.19,3638.46,1696.44,4.0,Pending
+SOC1495,Rickey Myers,North Jacqueline,Idaho,West,C,Type1,2024-07-13,16,690.18,0.15,5475.83,578.32,4.1,Completed
+SOC1496,Sarah Gray,,Alabama,North,C,Type2,2025-06-26,10,171.34,0.15,8598.28,2064.71,4.5,Cancelled
+SOC1497,Thomas Patterson,Nancyport,Colorado,East,B,Type1,2025-01-05,5,156.35,0.13,7037.0,4901.09,1.5,Completed
+SOC1498,Felicia Clark,Debratown,Wisconsin,West,A,Type3,2023-08-13,14,430.57,0.25,5153.46,1701.75,4.8,Completed
+SOC1499,Michael Blackwell,Annaview,South Dakota,West,C,Type3,2024-07-01,17,116.78,0.21,2661.67,2984.8,3.7,Cancelled
+SOC1500,Adrian Long,East Tarafurt,Alabama,North,A,Type1,2024-08-20,15,770.73,0.27,6043.67,551.79,1.0,Pending
+SOC1501,Alejandra Andrews,New Blakeborough,South Carolina,North,C,Type1,2026-04-07,18,558.01,0.1,1501.93,3692.08,3.0,Pending
+SOC1502,Brandon Parsons,,California,North,C,Type3,2026-01-02,13,590.6,0.24,5174.86,2811.75,2.3,Cancelled
+SOC1503,Joseph Diaz,Kristaport,Maine,South,C,Type2,2024-08-10,14,355.73,0.01,7280.66,468.95,1.3,Pending
+SOC1504,Miranda Nguyen,Smithland,Virginia,East,D,Type3,2025-06-13,19,520.3,0.29,1726.04,,3.1,Completed
+SOC1505,Andres Russell,Cynthiaborough,Maine,West,B,Type3,2025-07-11,7,218.36,0.1,6978.24,2904.04,1.3,Pending
+SOC1506,Jose Arnold,Rhodesfort,Alabama,West,A,Type2,2026-02-18,7,564.19,0.08,1568.85,2986.08,1.7,Completed
+SOC1507,Lawrence Kramer,Lopezfort,Arkansas,North,C,Type1,2024-10-16,9,729.09,0.14,8330.44,3173.65,1.3,Cancelled
+SOC1508,Ian Rice,Annettestad,Pennsylvania,North,B,Type1,2025-04-23,6,168.17,0.01,8733.28,2541.65,3.3,Completed
+SOC1509,Jessica Estrada,Lake Kirsten,Utah,South,C,Type1,2023-06-28,14,509.43,0.22,4603.55,2863.5,1.3,Completed
+SOC1510,Joseph Nixon,New Thomasmouth,Nebraska,South,C,Type3,2023-12-20,8,127.17,0.23,6691.06,1228.41,3.4,Completed
+SOC1511,Monica Smith,Lake Brandon,Louisiana,North,D,Type2,2026-02-17,1,440.84,0.03,984.26,483.38,3.7,Pending
+SOC1512,James Cabrera,Ericmouth,Arkansas,North,D,Type1,2025-05-08,16,329.74,0.25,235.4,-379.62,3.9,Cancelled
+SOC1513,Ashley Orozco,East Susanmouth,South Dakota,West,B,Type2,2024-07-27,15,816.77,0.28,1771.32,-401.16,3.9,Pending
+SOC1514,Michelle Washington,Gomezburgh,Missouri,North,D,Type3,2026-03-22,14,223.44,0.23,6909.83,-241.9,4.5,Completed
+SOC1515,Melanie Maxwell,North Mallory,Connecticut,East,B,Type1,2025-12-10,16,104.86,0.19,5702.03,3342.92,4.3,Completed
+SOC1516,John Contreras,Christopherhaven,Louisiana,East,A,Type1,2025-10-18,6,441.37,0.25,4213.79,1198.33,4.2,Completed
+SOC1517,Travis Abbott,Williammouth,Mississippi,West,B,Type1,2025-02-12,4,634.91,0.28,7349.68,2429.08,1.8,Completed
+SOC1518,Angela Adams,Lake Lucasstad,Montana,West,B,Type1,2026-04-12,16,536.97,0.29,6424.67,2404.75,2.5,Cancelled
+SOC1519,Frank Russell,Smithberg,Georgia,West,A,Type3,2025-12-14,4,109.79,0.1,5242.71,4398.7,1.8,Pending
+SOC1520,Timothy Montoya,Frankfort,Alaska,North,A,Type1,2023-07-23,10,137.35,0.01,1596.09,1750.65,4.6,Completed
+SOC1521,Natalie Mcclain,Rogerschester,Nevada,East,A,Type3,2024-06-19,17,739.26,0.12,3745.76,928.16,2.3,Cancelled
+SOC1522,Lindsay Rodriguez,North Joannmouth,South Dakota,West,B,Type3,2025-01-13,11,744.86,0.29,5674.97,1665.01,3.7,Pending
+SOC1523,Tina Austin,Wolfeberg,Vermont,West,B,Type2,2024-08-01,7,989.34,0.07,3506.41,,2.8,Completed
+SOC1524,Tammy Lambert,Ambertown,Idaho,South,A,Type3,2025-03-12,11,406.22,0.25,4001.1,-60.37,3.0,Completed
+SOC1525,Benjamin Hughes,Keithtown,New York,South,D,Type2,2025-02-20,2,66.96,0.17,7760.3,3200.74,4.8,Completed
+SOC1526,Nicole Pollard,Lake Christine,Minnesota,West,C,Type3,2023-09-21,19,906.52,0.22,6692.47,6.7,2.4,Completed
+SOC1527,Eric Velasquez,Garciamouth,Alaska,East,B,Type3,2025-05-23,6,433.94,0.2,6642.62,1489.15,1.6,Pending
+SOC1528,Jason Moore,Port Adrianaburgh,Florida,North,C,Type3,2026-05-17,11,473.5,0.2,8813.5,1717.78,3.6,Cancelled
+SOC1529,Luke Pugh,Sandrachester,Minnesota,South,D,Type2,2024-01-25,6,621.51,0.07,4690.27,1532.89,3.1,Completed
+SOC1530,Dr. Kyle Paul DDS,Lake Kevin,Montana,South,B,Type1,2025-10-08,10,358.48,0.21,8225.15,3753.4,1.0,Completed
+SOC1531,Timothy Hill,Scottland,Indiana,East,A,Type1,2023-12-09,6,535.93,0.21,2466.37,387.19,3.6,Cancelled
+SOC1532,Lisa Brooks,New Glenfurt,Indiana,South,B,Type2,2024-09-27,1,595.21,0.09,8143.6,1338.76,2.5,Pending
+SOC1533,Theresa Brown,Wrighttown,Nebraska,East,B,Type3,2024-01-14,12,34.58,0.25,832.18,2272.74,1.6,Cancelled
+SOC1534,Trevor Fitzgerald,Johnmouth,California,East,A,Type3,2025-07-27,1,498.25,0.08,7377.77,741.81,1.9,Completed
+SOC1535,Sabrina Galvan,North Ninaside,Rhode Island,North,D,Type3,2023-09-18,18,607.09,0.22,6265.91,,3.6,Pending
+SOC1536,Kevin Madden,North Joshuafurt,Montana,North,C,Type3,2023-09-07,15,163.27,0.14,9523.86,,2.6,Completed
+SOC1537,Deborah Miles,Gregoryburgh,Washington,East,A,Type2,2023-09-20,13,207.17,0.0,2193.66,4206.14,4.3,Pending
+SOC1538,Timothy Cohen,Port Kristinafort,Texas,East,C,Type1,2024-01-09,13,855.83,0.25,8272.34,,1.4,Pending
+SOC1539,Robert Best,West Courtney,Nevada,East,C,Type3,2023-08-20,17,114.92,0.01,3124.05,762.77,4.3,Completed
+SOC1540,Ms. Samantha Quinn,Coleland,West Virginia,South,D,Type3,2024-01-25,15,74.71,0.23,8867.33,613.86,3.4,Pending
+SOC1541,Michael Todd,Cainhaven,Texas,North,D,Type3,2023-10-13,7,967.03,0.19,4791.17,1065.12,4.4,Pending
+SOC1542,Ashley Cunningham,West Eric,Tennessee,East,B,Type1,2025-12-10,3,355.1,0.07,1181.96,2802.67,4.1,Completed
+SOC1543,Wayne Williams,Laurieton,Oklahoma,South,B,Type3,2026-01-29,8,131.12,0.28,856.05,4547.35,3.5,Completed
+SOC1544,Michael Anderson,West Joeltown,Pennsylvania,North,D,Type2,2025-06-18,6,645.24,0.07,2263.57,4471.29,3.4,Cancelled
+SOC1545,Tyler Chase,South Brendahaven,California,East,D,Type2,2025-04-22,3,43.36,0.12,3874.12,627.78,1.9,Cancelled
+SOC1546,Kayla Matthews,Stanleymouth,Virginia,South,A,Type2,2025-05-24,17,775.44,0.06,6999.81,1571.52,2.0,Pending
+SOC1547,Sergio Harper,Lake Tylermouth,California,North,A,Type3,2025-06-17,9,230.46,0.28,3576.33,4186.92,4.7,Completed
+SOC1548,Amy Allen,Richardborough,Alaska,West,D,Type2,2023-07-11,10,402.23,0.28,2911.7,4620.82,1.7,Completed
+SOC1549,Michael Smith,Jonesbury,Nevada,West,B,Type3,2024-04-16,7,390.12,0.09,9806.65,3365.22,5.0,Completed
+SOC1550,Michael Mcintyre,East Jennifer,Delaware,East,D,Type3,2024-12-20,10,870.91,0.19,3460.24,3694.15,4.3,Completed
+SOC1551,Samantha Grant,Port Sarah,Connecticut,North,D,Type3,2026-04-14,12,874.87,0.13,8149.78,3615.68,3.4,Cancelled
+SOC1552,Carrie Edwards,Rhondaport,Ohio,East,D,Type1,2023-08-30,12,574.44,0.23,1704.1,397.61,4.3,Completed
+SOC1553,Jacob Gamble,Garybury,California,North,D,Type2,2024-01-08,9,925.42,0.21,3880.23,-237.11,2.9,Completed
+SOC1554,Brian Scott,North Charles,Maryland,South,C,Type2,2026-02-11,7,601.04,0.07,616.0,4149.13,4.1,Cancelled
+SOC1555,John Miranda,North Timothyberg,Virginia,West,D,Type1,2024-11-01,4,50.91,0.26,8274.53,651.52,1.9,Pending
+SOC1556,Raymond Garcia,East Sherri,Wyoming,East,B,Type1,2025-12-07,3,444.43,0.09,4024.75,4902.96,1.7,Completed
+SOC1557,Wesley Barrett,Lake Carolville,Texas,North,B,Type3,2026-01-17,9,158.0,0.11,3659.93,4321.66,2.8,Pending
+SOC1558,Stephanie Lee,Briggsville,Minnesota,South,C,Type3,2024-10-06,9,150.55,0.01,9907.67,3275.47,4.0,Cancelled
+SOC1559,Krystal Cunningham,Lake Brooke,Georgia,North,D,Type1,2026-01-26,5,835.58,0.29,5428.56,4207.12,3.1,Pending
+SOC1560,Amanda Miller,Bensonview,Nebraska,West,A,Type1,2024-10-21,6,59.01,0.06,1589.1,2705.31,3.9,Pending
+SOC1561,Jamie King,Sandersmouth,Nebraska,West,C,Type3,2025-08-06,12,800.84,0.21,5224.48,2178.39,4.4,Cancelled
+SOC1562,Amy Gonzalez,Lake Keith,Montana,South,D,Type2,2024-08-21,10,793.96,0.09,918.8,1924.61,2.9,Pending
+SOC1563,John Brooks,West Chris,Washington,South,A,Type3,2025-12-14,1,852.69,0.23,7302.68,4508.98,3.4,Cancelled
+SOC1564,Andrew Hill,North Christopher,Massachusetts,South,C,Type1,2024-11-20,1,22.81,0.02,313.56,1539.3,2.2,Pending
+SOC1565,Brianna Watkins,Michaelberg,Missouri,West,A,Type3,2023-08-17,3,78.21,,7556.33,3900.63,4.0,Cancelled
+SOC1566,Sheila Parker,Dawnshire,Iowa,South,B,Type2,2026-02-06,11,325.8,0.26,1482.22,4249.9,4.5,Cancelled
+SOC1567,Ronald Gallegos,Campbellville,New York,North,A,Type2,2024-04-04,12,31.35,0.2,9167.93,876.32,2.0,Completed
+SOC1568,Jennifer Nicholson,Heatherchester,Wyoming,North,A,Type1,2023-11-16,1,915.68,0.16,9540.5,3139.47,3.4,Pending
+SOC1569,Corey Herrera,Jenniferton,Louisiana,North,B,Type2,2023-12-02,19,864.38,,3817.56,-54.17,3.6,Cancelled
+SOC1570,Dawn Zhang,East Angela,Louisiana,South,C,Type2,2025-08-04,16,307.51,0.22,7395.73,2326.06,1.5,Cancelled
+SOC1571,Nicole Sanders,Port Crystalshire,Connecticut,East,A,Type3,2024-03-30,12,253.88,0.07,9897.94,1257.91,2.3,Completed
+SOC1572,Christina Ford,Christinaview,Washington,East,C,Type1,2024-05-05,17,70.89,0.19,8740.71,4803.98,1.9,Completed
+SOC1573,Andrea Walker,Spencerberg,Colorado,West,B,Type3,2024-09-29,3,415.22,0.01,9399.94,4432.17,2.7,Completed
+SOC1574,Marcia Rodriguez,Lake Seanville,South Carolina,South,D,Type1,2025-07-20,18,804.45,0.2,9554.92,-218.3,4.9,Cancelled
+SOC1575,James Padilla,New Valerieville,Arkansas,North,B,Type2,2026-02-07,12,902.61,0.24,8581.98,1098.29,2.9,Completed
+SOC1576,Tiffany Roberts,Davidville,Arizona,East,C,Type1,2023-09-27,14,507.7,0.13,4591.63,-197.79,1.5,Pending
+SOC1577,Kevin Cabrera,Port Angela,Idaho,East,A,Type2,2025-05-21,18,643.46,0.12,6191.62,4846.01,4.5,Cancelled
+SOC1578,Michael Perkins,Christinaland,Connecticut,North,D,Type2,2024-07-28,2,233.71,0.12,5008.88,121.2,3.0,Pending
+SOC1579,Holly Smith,East Roberthaven,Alabama,East,A,Type3,2024-09-08,10,156.67,0.0,7572.96,1865.32,4.9,Cancelled
+SOC1580,Roger Keith,East Alexanderbury,New Hampshire,South,B,Type3,2023-08-15,4,36.94,0.07,5329.4,2992.4,4.6,Cancelled
+SOC1581,Rebecca Prince,Paulstad,Tennessee,North,C,Type2,2024-08-30,8,276.19,0.01,7733.5,3538.87,1.3,Pending
+SOC1582,Chad Flores,New Darrylmouth,South Dakota,South,C,Type3,2025-05-16,2,318.91,0.2,3173.75,,3.7,Cancelled
+SOC1583,Mary Jones,Lake Aaronland,Delaware,West,C,Type3,2024-05-07,16,702.28,0.15,614.07,1124.98,3.5,Cancelled
+SOC1584,Virginia Sherman,Candicefort,Connecticut,South,B,Type2,2023-12-18,6,840.29,0.12,8595.88,4445.19,1.0,Pending
+SOC1585,Ashley Reese,Clarkburgh,Virginia,South,D,Type1,2026-02-27,10,591.99,0.24,8564.43,2001.8,4.6,Cancelled
+SOC1586,Kathleen Franklin,Maddoxfort,Nebraska,North,D,Type2,2024-05-10,9,489.55,0.29,7614.32,262.94,4.4,Pending
+SOC1587,Dr. Raymond Crawford,Wolfebury,Pennsylvania,North,C,Type1,2024-04-04,7,245.94,0.22,5869.29,3076.45,5.0,Completed
+SOC1588,William Stephenson,West Anthonymouth,Michigan,West,D,Type3,2024-03-06,7,352.77,0.02,6329.17,492.6,1.3,Pending
+SOC1589,Cheryl Chapman,New Bethmouth,Arkansas,South,B,Type2,2025-11-28,9,692.74,0.13,3084.09,554.33,2.8,Completed
+SOC1590,Kathleen Hanson,Lake Cameron,California,West,C,Type1,2025-01-29,9,736.01,0.11,4770.66,3192.27,1.7,Completed
+SOC1591,Kenneth Harris,Fullerfurt,North Dakota,North,C,Type1,2023-07-25,4,769.66,0.26,8703.46,,4.1,Completed
+SOC1592,Rodney Ramirez,South Hailey,Maine,West,B,Type2,2024-11-08,9,186.71,0.18,8828.63,-286.14,2.9,Completed
+SOC1593,Sydney Fleming,Madisonchester,North Carolina,West,B,Type3,2024-10-18,4,887.1,0.3,5939.73,1857.87,4.6,Pending
+SOC1594,Daniel Kelly,South Louisfort,Delaware,North,B,Type1,2024-07-30,1,232.0,0.2,3703.65,2884.87,4.1,Pending
+SOC1595,Kristen Copeland,North Holly,South Carolina,South,B,Type2,2025-02-11,10,188.03,0.02,9530.57,,3.0,Pending
+SOC1596,Sandra Kelly,Mossbury,South Dakota,East,B,Type2,2023-11-02,3,271.88,0.22,2391.05,3052.01,1.5,Pending
+SOC1597,Ashley Ramirez,Robertburgh,Pennsylvania,South,D,Type3,2025-03-17,9,718.32,0.11,7346.38,4081.21,3.4,Cancelled
+SOC1598,Katherine Walker,Moniqueberg,Rhode Island,North,B,Type1,2023-12-24,19,31.62,0.08,8692.23,648.34,3.7,Cancelled
+SOC1599,Erica Brooks,Hannahfurt,Montana,East,A,Type2,2025-06-15,13,977.81,0.17,9591.89,130.23,2.5,Cancelled
+SOC1600,Nicholas Smith,Kyliemouth,Rhode Island,East,B,Type1,2025-11-09,7,791.16,0.2,453.2,3231.34,1.9,Cancelled
+SOC1601,Catherine Rivera,South Benjamin,Wyoming,North,A,Type2,2023-06-13,17,974.16,0.26,6250.46,2100.86,2.5,Completed
+SOC1602,Anna Baker,East Jose,Alabama,East,B,Type2,2026-01-12,15,792.2,0.07,2541.08,911.88,3.4,Pending
+SOC1603,Anita Huff,Burkefort,Indiana,West,D,Type3,2026-05-16,15,239.32,,1268.85,2976.14,3.6,Completed
+SOC1604,Lisa James,East Wayne,Wyoming,South,B,Type1,2024-10-27,14,158.62,0.17,1773.68,2515.46,4.5,Pending
+SOC1605,Kirsten Wilkinson,Morganside,Kentucky,North,B,Type2,2023-10-25,12,215.92,0.13,491.2,1035.13,1.3,Pending
+SOC1606,Cynthia Burton,New Jacquelineland,Georgia,West,B,Type3,2026-02-28,4,121.1,0.0,4110.02,1762.4,3.8,Pending
+SOC1607,Tammy Allen,Robertmouth,Alabama,South,A,Type3,2023-07-24,8,753.8,0.16,3883.5,337.64,4.6,Completed
+SOC1608,Kim Vang,Hernandezberg,Oregon,West,C,Type2,2024-07-03,11,128.44,0.1,3986.82,4733.05,3.4,Cancelled
+SOC1609,Michael Pierce,West Jillchester,Delaware,East,C,Type3,2025-12-12,17,149.96,0.03,6570.17,-419.07,3.6,Completed
+SOC1610,Eric Camacho,Ashleyview,Washington,East,C,Type2,2023-10-21,15,459.89,0.22,1533.53,,2.7,Cancelled
+SOC1611,Jonathan Richardson,Lake John,South Carolina,North,A,Type2,2025-09-03,15,469.28,0.22,5243.42,1938.11,4.5,Pending
+SOC1612,Alexis Wells,West Gina,Georgia,North,A,Type2,2024-12-25,1,925.12,0.27,2978.9,-350.61,3.3,Pending
+SOC1613,Heidi Espinoza,Elizabethborough,New Mexico,South,A,Type2,2024-05-14,4,499.64,0.01,3781.33,2737.63,2.6,Cancelled
+SOC1614,Matthew Romero,Williammouth,Texas,West,C,Type1,2025-02-19,6,432.59,0.08,6190.94,4710.57,3.0,Pending
+SOC1615,Jason Carson,Stevenberg,Mississippi,West,C,Type1,2024-07-14,7,242.72,0.19,6851.16,187.52,1.2,Pending
+SOC1616,Laura Smith,West Kenneth,Alabama,South,B,Type2,2024-12-09,6,256.77,0.26,5327.82,4165.97,4.1,Completed
+SOC1617,Jessica Hawkins,Myersfort,Virginia,South,C,Type2,2026-04-24,9,156.11,0.04,8874.25,441.42,1.4,Cancelled
+SOC1618,Nicole Gutierrez,Jonathanbury,Indiana,West,C,Type1,2024-07-22,6,391.81,0.07,3654.91,4479.97,2.7,Completed
+SOC1619,Allison Jackson,East Alexandraport,Texas,West,C,Type2,2024-02-23,15,684.82,0.17,8094.76,1349.03,2.9,Pending
+SOC1620,Michael Holmes,Jacquelinemouth,Massachusetts,East,D,Type3,2026-03-23,17,715.32,,744.22,1945.03,3.7,Pending
+SOC1621,Laura Jones,Lake Coreyville,Minnesota,North,B,Type3,2023-12-10,1,660.47,0.07,9760.77,4874.41,2.5,Cancelled
+SOC1622,Danielle Webster,Johnsonstad,South Carolina,West,B,Type2,2025-03-08,16,652.76,0.18,4689.16,4821.53,1.3,Cancelled
+SOC1623,Joanna Ward,,Indiana,East,D,Type2,2025-05-05,16,610.55,0.11,8256.94,4399.09,1.1,Cancelled
+SOC1624,Tommy Miller,Jeremyland,Nebraska,West,B,Type3,2025-04-18,7,703.77,0.19,4122.07,2296.82,4.2,Pending
+SOC1625,Matthew Martin,Maryville,Montana,North,A,Type2,2025-12-04,15,338.54,0.13,3293.2,2847.29,2.0,Pending
+SOC1626,Sara Woods,North Jonathon,Arkansas,North,D,Type2,2023-12-07,19,643.96,0.27,1195.29,1809.55,1.8,Pending
+SOC1627,Garrett Harmon,New Steven,Rhode Island,South,B,Type2,2025-06-23,2,414.97,0.27,6967.61,2450.0,4.0,Pending
+SOC1628,Amy Thomas,Hansonville,Arkansas,South,D,Type2,2024-12-08,4,459.7,0.3,2591.89,2590.56,2.9,Completed
+SOC1629,Rachel Jimenez,Suttonside,California,East,B,Type2,2026-01-31,15,624.32,0.03,2724.2,420.82,4.4,Pending
+SOC1630,Taylor Carlson,,Louisiana,West,C,Type1,2026-04-23,11,919.27,,195.94,2706.78,4.9,Pending
+SOC1631,Tiffany Navarro,East Adrienne,Connecticut,North,B,Type3,2026-03-26,2,392.97,0.14,2765.93,1642.3,3.0,Completed
+SOC1632,Noah Peters,Port Ryan,Oregon,South,B,Type3,2023-07-18,18,808.88,0.2,7866.02,294.36,1.7,Cancelled
+SOC1633,Peter Hill,Elizabethstad,Illinois,East,C,Type3,2026-01-07,16,178.65,0.07,1775.21,1636.74,2.7,Pending
+SOC1634,Lindsey Navarro,West Nathan,Arkansas,South,D,Type3,2024-12-08,14,691.66,0.01,3224.89,-275.82,2.1,Pending
+SOC1635,Adam Myers,Juanborough,New Jersey,East,D,Type2,2023-08-11,5,997.26,0.24,3582.76,4962.8,1.8,Cancelled
+SOC1636,Amanda Banks,West Nicolestad,New Hampshire,East,B,Type3,2025-10-26,4,657.11,0.3,8519.53,631.35,2.7,Cancelled
+SOC1637,Jonathan Moore,Johnsonchester,Missouri,South,A,Type3,2024-10-21,10,448.93,0.09,1296.65,4057.91,4.2,Cancelled
+SOC1638,Alexandra Saunders,Morristown,Pennsylvania,East,C,Type1,2025-04-06,10,363.99,0.23,711.79,73.48,4.8,Pending
+SOC1639,Deborah Floyd,Markville,Michigan,North,C,Type1,2024-01-25,10,298.1,0.16,981.58,4560.02,2.7,Pending
+SOC1640,Jeanette Rivera,Sullivanbury,Kentucky,West,C,Type3,2024-01-20,10,836.63,0.21,3640.28,1448.31,2.0,Pending
+SOC1641,David Bryant,Peterview,Washington,West,B,Type2,2024-10-26,1,464.91,0.11,1282.57,4301.94,1.0,Completed
+SOC1642,Terry Sanchez,Lisamouth,Rhode Island,North,D,Type1,2026-04-01,18,269.2,0.2,7487.35,816.98,2.5,Pending
+SOC1643,Alan Short,Port Erinborough,North Carolina,West,D,Type1,2024-05-18,10,799.38,0.11,2614.17,4891.6,4.0,Cancelled
+SOC1644,Brianna Robertson,Lake Justin,Hawaii,West,B,Type2,2026-04-04,18,297.0,0.07,4366.14,872.2,1.2,Completed
+SOC1645,Juan Mckenzie,Lake Miachester,North Dakota,West,B,Type2,2024-01-10,5,82.63,0.03,4252.39,3018.9,2.2,Completed
+SOC1646,John Hunter,East Kathy,North Carolina,West,C,Type2,2025-02-03,2,455.94,0.05,1073.41,751.94,4.6,Completed
+SOC1647,Dominique Anderson,Reedhaven,North Carolina,South,C,Type2,2023-07-28,4,877.81,0.07,8393.82,2218.0,1.5,Cancelled
+SOC1648,Carol Mack,Jasonborough,Utah,West,C,Type1,2026-05-02,14,48.68,0.22,9427.96,2115.49,2.7,Cancelled
+SOC1649,Hannah Malone,Lambbury,West Virginia,North,C,Type3,2023-10-06,3,176.0,0.23,5329.38,,4.1,Cancelled
+SOC1650,Grant Middleton,Karenview,Delaware,East,B,Type3,2025-12-17,1,508.6,0.07,1170.65,1608.32,2.0,Completed
+SOC1651,Paige Pierce,Sanfordview,North Dakota,South,D,Type2,2023-10-28,19,632.21,0.27,9757.65,1257.78,4.1,Pending
+SOC1652,George Davis,Walkerside,Nevada,North,C,Type3,2023-07-18,15,192.94,0.12,110.87,2309.57,4.9,Completed
+SOC1653,Judith Mitchell,Veronicastad,West Virginia,East,D,Type1,2026-03-08,15,649.61,0.24,9413.13,2014.74,1.3,Pending
+SOC1654,Steven Martin,Wintersport,Missouri,West,C,Type1,2024-08-28,19,84.8,0.07,5564.78,3084.31,4.6,Cancelled
+SOC1655,Karen Rios,Harrisonstad,Tennessee,South,C,Type3,2024-11-22,17,889.45,0.22,5202.54,1897.57,2.5,Completed
+SOC1656,Melanie Cooper,New Kenneth,Connecticut,East,D,Type2,2026-03-28,5,837.78,0.13,8570.85,3946.12,1.9,Completed
+SOC1657,April Gardner,North Rebecca,Ohio,West,D,Type3,2023-08-28,9,215.06,0.03,9774.64,317.41,3.6,Cancelled
+SOC1658,Crystal Graham,Cabreraside,Colorado,West,C,Type1,2024-03-16,11,605.49,0.03,4739.94,3080.87,4.2,Cancelled
+SOC1659,Sandra Sanders,Lake Katie,Oklahoma,West,A,Type1,2025-08-05,4,773.77,0.05,6675.38,2152.84,1.1,Completed
+SOC1660,Anthony Williams,Sloanburgh,Mississippi,East,B,Type2,2025-10-04,18,152.39,0.21,2751.16,2662.83,2.0,Pending
+SOC1661,Evan Preston,Tammyfurt,Arizona,North,A,Type2,2023-08-05,1,60.42,0.11,9994.47,3568.45,1.2,Cancelled
+SOC1662,Joseph Carr,West Amandafort,Oklahoma,East,A,Type1,2024-07-05,16,236.47,0.29,6882.98,1951.36,1.2,Completed
+SOC1663,Michael Marshall,West Kathrynborough,Maryland,East,D,Type1,2024-07-18,14,940.44,0.2,4567.27,4018.66,3.7,Completed
+SOC1664,Erin Liu,,Wisconsin,West,A,Type1,2023-09-17,8,508.94,0.0,4678.16,1237.57,3.3,Cancelled
+SOC1665,Ronald Vargas,Wilsonborough,Kansas,South,A,Type2,2023-10-01,4,561.43,0.03,8960.03,2923.3,2.6,Cancelled
+SOC1666,Wanda Johnson,Port Brenda,Nebraska,South,D,Type1,2024-11-27,18,727.59,0.23,8486.44,849.4,2.7,Completed
+SOC1667,Mallory Short,Crystalside,Wisconsin,East,B,Type1,2025-10-19,18,203.2,0.08,1654.01,1104.13,1.4,Cancelled
+SOC1668,Melanie Gonzalez,Lake Randyville,Indiana,East,B,Type2,2024-01-12,2,503.88,0.25,3373.27,519.29,2.7,Completed
+SOC1669,Daniel Lopez,South Vickiemouth,Michigan,North,C,Type2,2026-02-20,8,452.71,,2932.85,3134.23,2.5,Cancelled
+SOC1670,Dr. Kenneth Mason,Ericachester,Minnesota,North,A,Type3,2025-06-21,19,436.23,0.17,3355.06,4777.78,4.3,Pending
+SOC1671,Dakota Schmitt,South Brian,South Carolina,North,D,Type1,2025-10-02,9,956.42,0.02,2626.46,,4.0,Completed
+SOC1672,Shannon Morales,North Peter,Kentucky,South,B,Type3,2024-04-01,1,907.5,0.02,298.39,1490.35,2.4,Completed
+SOC1673,Brittany Bennett,Lake Bradleyberg,Nevada,North,A,Type3,2025-11-10,7,839.62,0.0,9608.33,-78.07,4.3,Pending
+SOC1674,Peggy Flores,Scottfurt,West Virginia,South,B,Type1,2024-10-25,9,247.57,0.26,9796.74,4488.52,3.8,Completed
+SOC1675,Lisa Yoder,Ashleystad,Michigan,North,C,Type3,2025-03-18,19,938.04,0.27,5671.27,74.27,3.7,Completed
+SOC1676,Holly Murphy,West Kathryn,Delaware,East,C,Type3,2024-09-09,11,602.25,0.16,3626.81,1056.61,2.9,Pending
+SOC1677,Max Bailey,Hobbsland,California,South,D,Type1,2024-05-15,14,168.89,0.1,2530.93,217.39,3.5,Cancelled
+SOC1678,Jonathan Rowe MD,Warrenstad,Wyoming,East,C,Type3,2024-01-26,2,164.63,0.17,5144.91,4512.95,4.9,Completed
+SOC1679,Brian Arnold,Newmantown,Arkansas,South,C,Type2,2025-08-26,19,218.74,0.15,9065.42,3688.42,1.6,Pending
+SOC1680,Dr. Martin Martinez,North Ryanton,New Jersey,North,D,Type3,2024-01-07,18,259.53,0.27,9657.8,4627.13,4.1,Cancelled
+SOC1681,Phillip Anthony,North Danielle,Kentucky,West,D,Type1,2024-07-31,3,935.9,0.07,8251.73,-267.41,2.4,Completed
+SOC1682,Brian Miller,Lake Charlesville,Pennsylvania,East,C,Type2,2024-11-12,19,720.91,0.29,2021.86,2845.8,4.4,Pending
+SOC1683,James Mccullough,Huntborough,Minnesota,North,D,Type2,2026-04-08,4,940.37,0.01,2605.69,3604.87,3.3,Pending
+SOC1684,John Robinson,Nguyenview,Ohio,North,D,Type3,2025-02-24,13,418.93,0.24,4192.53,3049.03,4.2,Completed
+SOC1685,Cynthia Levine,Port Amystad,Nevada,East,A,Type1,2024-01-25,15,367.64,0.26,5338.96,662.75,4.4,Pending
+SOC1686,Megan Thompson,Julianstad,Oklahoma,East,B,Type2,2025-11-24,1,840.47,0.07,2119.54,4152.85,4.8,Completed
+SOC1687,Michael Stone,Williamsonshire,Montana,West,A,Type2,2026-03-06,19,467.46,0.01,459.48,3544.41,3.9,Pending
+SOC1688,Samantha Cummings,Josephchester,Florida,South,D,Type3,2025-03-10,10,72.05,0.1,4775.28,1460.0,2.2,Completed
+SOC1689,Jamie Molina,Tonytown,New Hampshire,North,D,Type3,2024-08-13,17,128.89,0.01,6546.79,-110.35,2.3,Pending
+SOC1690,Thomas Zavala,,West Virginia,East,B,Type1,2025-08-17,19,685.05,0.08,9799.3,312.75,3.7,Cancelled
+SOC1691,Seth Choi,Bennettberg,Alabama,West,C,Type3,2024-12-15,7,860.85,0.01,6055.87,2439.4,1.9,Cancelled
+SOC1692,Zachary Todd,New Franklinmouth,Alabama,East,C,Type3,2023-09-29,12,367.63,0.1,2712.66,3958.42,3.2,Cancelled
+SOC1693,James Woods,West Tinaville,Indiana,South,A,Type1,2023-10-03,4,408.78,0.12,7257.14,1212.55,3.7,Cancelled
+SOC1694,Pamela Carr,Carrmouth,Indiana,South,B,Type1,2024-02-18,7,213.76,0.01,1157.68,3423.01,3.0,Pending
+SOC1695,Robert Goodwin,Julieview,Kansas,West,A,Type3,2024-06-02,10,990.74,0.13,6867.82,4779.28,2.7,Completed
+SOC1696,Jennifer Lucero,North Greg,Oklahoma,North,D,Type1,2024-06-16,1,126.78,0.27,4469.75,-227.95,2.7,Completed
+SOC1697,Julie Little,New Chad,Nebraska,South,A,Type1,2024-10-11,9,628.14,0.26,9652.83,-173.94,2.8,Pending
+SOC1698,Austin Kaufman,East Patrickton,Hawaii,West,B,Type2,2026-04-16,11,559.92,0.25,7250.6,-298.34,1.6,Completed
+SOC1699,Matthew Summers,Jonesview,South Dakota,North,D,Type3,2024-11-29,6,76.87,0.16,4638.01,4426.99,2.4,Completed
+SOC1700,Theresa Fletcher,Port Daniel,South Dakota,West,B,Type1,2026-02-23,2,690.27,0.08,6892.79,1755.81,3.3,Cancelled
+SOC1701,David Lam,East Tracy,Indiana,East,C,Type3,2023-06-05,6,689.76,0.06,1322.97,1442.5,3.9,Pending
+SOC1702,Christopher Alvarez,Port Lisa,Oklahoma,North,C,Type1,2025-06-08,9,890.23,0.17,9484.71,1525.29,3.6,Cancelled
+SOC1703,John Soto,West Shannon,New Mexico,North,D,Type2,2025-05-07,6,938.71,0.04,6763.73,1265.58,1.2,Completed
+SOC1704,Daniel Chavez,East Michael,Indiana,West,C,Type2,2024-06-21,18,962.13,0.06,1749.83,-171.18,1.3,Completed
+SOC1705,Eric Hodge,Jillianmouth,New York,West,C,Type3,2025-08-23,5,301.96,0.12,3463.19,4134.42,1.5,Cancelled
+SOC1706,Regina Mullen,Lake Nathan,Illinois,North,A,Type1,2026-04-19,9,121.87,0.11,5450.52,,1.7,Completed
+SOC1707,Robert Davis,North Monicaside,Mississippi,South,C,Type2,2023-12-23,12,87.21,0.0,1938.26,153.54,4.9,Cancelled
+SOC1708,Christopher Morgan,Williamview,Kentucky,South,C,Type2,2023-06-27,7,294.62,0.29,9199.51,1121.55,1.9,Cancelled
+SOC1709,Javier Franco,Lake Hollychester,Pennsylvania,North,B,Type1,2024-07-09,13,499.78,0.24,3324.99,1520.29,4.0,Completed
+SOC1710,Andrew Murray,North Kayla,Utah,West,D,Type3,2023-11-01,12,572.88,0.17,8650.0,2327.61,2.9,Completed
+SOC1711,Michelle Wu,Coxborough,Delaware,West,C,Type1,2026-05-27,8,261.63,0.05,6971.17,4017.48,2.7,Completed
+SOC1712,Adam Torres,North Cheyennestad,Connecticut,South,C,Type1,2024-05-30,16,817.77,0.05,7505.39,3952.21,1.4,Completed
+SOC1713,Jerry Williams,East Karen,Montana,South,C,Type3,2025-02-19,15,272.37,0.2,1714.44,4577.82,4.0,Cancelled
+SOC1714,Barry Thompson,South Thomas,Wisconsin,South,B,Type3,2024-11-06,12,659.59,0.09,9281.51,1642.75,1.5,Cancelled
+SOC1715,John Mcclure,Lake Leroyfort,Wyoming,West,D,Type3,2024-06-15,14,413.4,0.2,316.45,3096.21,3.2,Completed
+SOC1716,Kimberly Mcintyre,Lake Josephton,New Hampshire,North,A,Type2,2025-05-18,1,592.96,0.28,1152.46,3532.07,2.2,Cancelled
+SOC1717,Joyce Vasquez,Murphybury,California,West,C,Type1,2026-04-16,10,21.8,0.25,2362.71,1323.38,4.0,Pending
+SOC1718,Timothy Thomas,Hendrickstown,Pennsylvania,South,D,Type2,2023-10-29,9,16.19,0.21,7706.61,1176.84,4.3,Cancelled
+SOC1719,Gabrielle Jordan,West Ericborough,Washington,South,C,Type3,2023-07-04,12,508.49,0.16,9485.4,2046.42,4.8,Cancelled
+SOC1720,Tyler Clayton,Harrisonbury,Arizona,East,C,Type3,2024-07-09,18,503.19,0.05,6258.81,4766.86,3.7,Cancelled
+SOC1721,Pamela Roberts,Victorbury,Florida,South,C,Type1,2024-09-09,5,192.13,0.25,5025.26,2556.98,1.7,Pending
+SOC1722,Mr. Mark Lane,Rachelville,New York,North,A,Type2,2023-08-19,18,884.22,0.07,6522.4,536.42,4.4,Completed
+SOC1723,Eric Taylor,Maryport,Alabama,East,C,Type2,2024-10-26,15,403.66,0.24,354.59,3131.78,2.1,Pending
+SOC1724,Austin Johnson,West Catherinestad,Wisconsin,North,D,Type1,2023-05-28,16,229.4,0.06,309.05,-454.68,4.5,Cancelled
+SOC1725,Ronald Young,New Sherrihaven,Massachusetts,South,C,Type1,2025-07-06,9,302.95,0.23,6400.74,2669.68,2.5,Cancelled
+SOC1726,Rhonda Miller,South Robertton,Minnesota,West,C,Type2,2023-10-22,4,95.96,0.05,9022.92,898.83,5.0,Completed
+SOC1727,Robert Davis,Calderonmouth,Alabama,South,A,Type2,2025-03-19,17,868.76,0.09,4567.27,2770.5,1.4,Pending
+SOC1728,Donna Miller,Samuelmouth,Pennsylvania,West,C,Type1,2025-01-29,8,457.0,0.03,5797.89,-175.96,3.9,Completed
+SOC1729,Laura Wallace,Justinberg,Massachusetts,North,A,Type1,2024-05-15,14,387.44,0.05,1345.63,4678.15,4.1,Pending
+SOC1730,Holly Vazquez,Murrayshire,New Hampshire,North,B,Type2,2026-02-23,4,479.48,0.01,153.58,2380.34,3.9,Pending
+SOC1731,Leah Mcdonald,Lake Angelamouth,New Hampshire,North,B,Type1,2025-09-24,16,310.83,0.06,4559.25,1685.64,2.7,Cancelled
+SOC1732,Juan Myers,Stevenchester,California,South,B,Type3,2024-11-15,13,549.29,0.16,1789.12,264.73,1.4,Cancelled
+SOC1733,Carlos Ray,Port Daniel,North Carolina,South,C,Type1,2024-07-26,14,198.55,,1877.84,-304.5,4.1,Cancelled
+SOC1734,Danielle Kelly,West Melissa,North Carolina,West,A,Type1,2023-07-31,14,296.32,0.01,8266.63,-115.19,3.1,Pending
+SOC1735,Guy Ramirez,Leachton,Idaho,West,C,Type3,2024-09-11,11,35.68,0.18,8640.33,4108.14,3.1,Pending
+SOC1736,Mark Whitehead,Katherineville,South Carolina,North,D,Type3,2024-02-21,10,131.55,0.27,8332.56,1646.4,3.0,Cancelled
+SOC1737,Sara Porter,Susanview,Florida,East,D,Type3,2024-03-15,9,99.94,0.09,6364.19,3673.29,2.1,Cancelled
+SOC1738,Robert Jones,Zacharyview,Minnesota,South,A,Type3,2025-01-10,15,957.58,0.18,8151.08,2790.69,2.3,Cancelled
+SOC1739,Albert Jones,New Cindy,Wyoming,North,A,Type2,2024-10-02,8,803.57,0.19,5793.71,2620.89,4.5,Cancelled
+SOC1740,Edward Parker,North Jenniferland,Missouri,South,D,Type2,2025-01-26,7,937.15,0.27,957.33,911.81,3.6,Cancelled
+SOC1741,William Willis,New Chelseychester,Oklahoma,East,C,Type1,2024-09-01,8,882.05,0.11,2645.26,-76.48,4.9,Cancelled
+SOC1742,Jason Henry,Toddfurt,South Carolina,East,C,Type2,2026-01-24,17,847.84,0.09,6591.48,2705.06,3.3,Cancelled
+SOC1743,Kimberly Frank,Vanessaland,Delaware,East,A,Type2,2025-12-18,3,800.39,0.12,5327.78,931.38,3.6,Cancelled
+SOC1744,Cheryl Gonzales,East Kirsten,Rhode Island,North,A,Type2,2024-04-06,14,546.0,0.01,1182.06,4645.46,4.0,Cancelled
+SOC1745,Barry Quinn,Caseyberg,Idaho,West,C,Type3,2024-07-17,12,751.63,0.19,9909.79,3523.49,2.3,Completed
+SOC1746,Rhonda Aguilar,Lake Coletown,Maryland,South,A,Type2,2025-08-21,19,690.68,0.14,6715.92,-73.49,3.4,Cancelled
+SOC1747,Charles Lee,West Matthew,Illinois,South,D,Type2,2024-07-16,7,615.03,0.04,6158.43,3061.19,4.3,Completed
+SOC1748,Laura Osborne,North Teresastad,Ohio,South,D,Type3,2024-05-25,17,863.5,0.21,9884.37,-493.22,2.7,Cancelled
+SOC1749,Arthur Crawford,Brockborough,Louisiana,West,A,Type1,2023-07-16,5,978.81,0.12,325.6,-312.47,4.9,Pending
+SOC1750,Joseph Best,New Teresahaven,Missouri,North,C,Type2,2023-08-05,12,938.77,0.09,5777.44,2244.13,2.6,Cancelled
+SOC1751,Lindsey Nguyen,North Codystad,Washington,North,D,Type2,2025-08-22,19,226.27,0.29,3861.35,4288.34,2.5,Completed
+SOC1752,Amy Brown,,Nebraska,East,C,Type1,2024-02-04,13,409.13,0.13,914.62,3757.46,3.6,Pending
+SOC1753,Richard Strickland,South Raymond,Rhode Island,West,A,Type2,2026-04-12,19,119.82,0.14,9402.8,-251.97,2.9,Pending
+SOC1754,Lisa Brady,South Johnathantown,Washington,East,A,Type3,2025-02-14,17,153.32,0.0,3662.55,2025.5,5.0,Pending
+SOC1755,Erika Matthews,Dixonburgh,North Dakota,East,C,Type3,2024-11-25,3,494.59,0.05,5701.41,3120.74,1.5,Completed
+SOC1756,Natasha Jones,New Sonyaberg,Maine,North,D,Type2,2024-03-04,13,544.12,0.26,2306.23,880.94,1.5,Completed
+SOC1757,Bryan Anderson,Schneiderville,Louisiana,North,A,Type3,2024-03-28,6,512.43,0.01,5517.92,1131.06,1.1,Cancelled
+SOC1758,Stephanie Murray,South Alexander,Florida,North,A,Type3,2024-06-09,11,895.57,0.21,8391.03,1.21,4.8,Completed
+SOC1759,Bradley Figueroa,East Meganmouth,Iowa,North,B,Type2,2024-07-02,3,834.54,0.18,1060.43,4398.97,3.4,Pending
+SOC1760,Lori Harper,Barneshaven,North Carolina,North,D,Type3,2025-03-11,3,658.54,0.2,5257.53,-311.48,4.3,Completed
+SOC1761,Chad Thompson,Port Johnton,Washington,West,D,Type2,2024-04-27,8,258.24,0.23,3964.26,3592.1,4.4,Completed
+SOC1762,Kimberly Hernandez,,Colorado,West,B,Type1,2024-12-08,19,764.13,0.11,9459.19,1326.48,3.7,Pending
+SOC1763,Tyler Phillips,East Kevinfurt,Kentucky,North,B,Type2,2024-10-21,18,163.29,0.19,3295.56,4364.76,2.1,Cancelled
+SOC1764,Jose Atkins,Natalieville,Michigan,North,C,Type2,2026-02-24,8,339.56,0.09,5550.06,1183.43,4.9,Completed
+SOC1765,Holly Lyons,East Evanland,South Dakota,North,A,Type1,2025-05-03,14,572.63,0.12,7869.21,4616.34,2.2,Completed
+SOC1766,John Wilson,West Benjaminville,Iowa,South,B,Type1,2025-05-18,17,555.19,0.24,8920.62,1219.15,2.9,Pending
+SOC1767,Denise Jordan,Butlerburgh,Arkansas,North,C,Type2,2026-02-06,5,209.32,0.25,980.64,824.14,3.9,Cancelled
+SOC1768,Jose Dean,Christinachester,Ohio,East,B,Type1,2026-04-06,12,830.8,0.02,7456.2,4070.14,1.2,Cancelled
+SOC1769,Kyle Freeman,Douglasmouth,Montana,West,D,Type3,2023-11-04,11,50.14,0.23,7740.7,592.9,1.3,Cancelled
+SOC1770,Kyle Fox,East Kimberly,Illinois,North,C,Type1,2024-10-22,10,135.39,0.1,7318.19,599.21,4.9,Cancelled
+SOC1771,April Jefferson,Port David,Washington,East,D,Type2,2025-04-02,11,593.03,0.23,2189.46,81.12,2.6,Pending
+SOC1772,Mrs. Jessica Newton DDS,West Tyrone,Nevada,South,C,Type3,2024-06-11,12,456.87,0.18,1587.57,925.27,4.0,Pending
+SOC1773,Chelsea Cooper,Laurastad,Arizona,East,D,Type2,2023-08-02,19,38.22,0.25,3235.8,3983.52,2.2,Cancelled
+SOC1774,Edward Jones,Kennethborough,Colorado,North,C,Type3,2026-04-02,16,997.37,0.05,9722.34,2269.1,1.4,Pending
+SOC1775,Briana Mcguire,,Wisconsin,North,B,Type3,2024-12-27,17,995.63,0.25,2639.22,437.03,5.0,Completed
+SOC1776,Lisa Smith,Port Tommytown,Michigan,North,B,Type3,2024-04-18,7,373.84,0.16,6665.49,742.73,2.6,Completed
+SOC1777,Tracy Morgan,North Keith,Kentucky,East,A,Type2,2025-12-10,12,22.79,0.28,7699.18,1237.83,4.8,Cancelled
+SOC1778,Michael Flynn,Kimberlyberg,North Carolina,East,C,Type3,2025-04-08,1,628.53,0.05,6244.68,-491.29,4.7,Cancelled
+SOC1779,Christina Michael,New Davidborough,New Jersey,North,C,Type3,2024-02-02,6,129.18,0.03,5108.08,3470.02,3.6,Completed
+SOC1780,Cynthia Woods,Elliottview,Mississippi,South,A,Type1,2024-12-11,5,959.27,,9461.67,4700.45,4.4,Cancelled
+SOC1781,Maria Sanchez,Port Aprilstad,Wisconsin,South,C,Type3,2026-05-19,19,436.36,0.0,8713.18,3799.12,1.4,Pending
+SOC1782,Elizabeth Fernandez,North Kevin,Georgia,East,D,Type2,2024-01-03,5,799.64,0.22,2787.52,2410.35,1.7,Completed
+SOC1783,Rodney Estrada,Burtonburgh,Massachusetts,West,B,Type1,2024-11-06,10,480.75,0.06,9749.98,1474.51,5.0,Pending
+SOC1784,Rebecca Anderson,East Brandon,Iowa,North,C,Type2,2024-10-29,4,172.9,0.21,4103.98,4889.84,4.1,Pending
+SOC1785,Diana Owens,Port William,Illinois,North,B,Type3,2024-05-20,5,495.29,0.26,7913.98,678.0,3.0,Cancelled
+SOC1786,Kenneth Martinez,West Sarahton,Virginia,West,D,Type3,2024-10-02,17,870.24,0.01,3134.51,-9.04,2.7,Cancelled
+SOC1787,Gregory Smith,Whitehaven,Kentucky,North,B,Type2,2024-01-23,8,581.1,0.11,9121.54,3128.64,1.0,Cancelled
+SOC1788,Amy Johnson,Ibarraburgh,Maine,East,C,Type3,2024-12-30,1,805.29,0.17,9220.73,2301.36,2.8,Pending
+SOC1789,Christine Farley,Perezton,Indiana,East,B,Type2,2026-01-20,15,844.17,0.19,689.79,2446.04,3.3,Cancelled
+SOC1790,Lisa Brown,Port Christianshire,New Hampshire,South,A,Type3,2025-01-06,4,146.56,0.24,1228.58,3686.67,1.9,Completed
+SOC1791,Christopher Lam,Perkinsshire,Mississippi,North,C,Type1,2025-04-24,15,712.3,0.21,6213.42,1948.07,4.9,Cancelled
+SOC1792,Pamela West,Port Tanyashire,North Dakota,West,B,Type2,2025-10-29,4,154.85,0.05,9426.83,-219.03,3.9,Cancelled
+SOC1793,Edward Clark,East Peterland,Utah,South,A,Type3,2024-01-20,8,495.49,0.02,1726.86,141.07,1.8,Completed
+SOC1794,Bianca Williamson,North Christopherton,South Carolina,West,A,Type1,2026-01-14,19,537.77,0.28,763.11,1460.96,2.7,Cancelled
+SOC1795,James Jackson,North Anna,Arkansas,West,D,Type2,2025-02-04,7,494.75,0.11,5356.97,4716.12,2.1,Pending
+SOC1796,Susan King,Michaelton,Hawaii,North,A,Type2,2025-09-15,10,310.39,0.15,8488.81,3893.75,3.0,Completed
+SOC1797,Cynthia Harris,Lake Edwardtown,Illinois,West,C,Type3,2024-11-05,10,932.14,0.08,2602.45,3633.26,3.8,Completed
+SOC1798,Thomas Elliott,West Melissahaven,South Dakota,West,B,Type3,2024-04-08,6,435.29,0.1,3510.95,652.14,3.8,Cancelled
+SOC1799,Michelle Fuller,Stacyland,Massachusetts,South,D,Type3,2024-02-29,9,732.77,0.17,6020.27,3506.59,4.3,Pending
+SOC1800,Dana Howell,Masonchester,Florida,North,B,Type2,2024-04-23,2,432.3,0.14,8484.55,700.48,2.5,Completed
+SOC1801,Elizabeth Gonzalez,Derekfort,Ohio,North,D,Type3,2026-03-29,12,475.58,0.3,2384.51,1239.58,1.0,Completed
+SOC1802,Stacy Lee,,Idaho,West,C,Type3,2024-07-29,12,310.57,0.13,9151.58,4367.25,2.3,Cancelled
+SOC1803,Patricia Arnold,Port Brentburgh,Oregon,West,D,Type1,2023-10-26,7,282.76,0.17,8892.29,3750.44,1.5,Pending
+SOC1804,Christian Conner,Lake Matthewfort,South Carolina,West,B,Type2,2026-02-14,11,190.37,0.24,7781.95,3977.36,3.8,Completed
+SOC1805,Jessica Bonilla,Elizabethland,South Carolina,South,C,Type3,2024-08-06,18,64.46,0.28,8887.34,-73.08,4.6,Cancelled
+SOC1806,John Phillips,,New Hampshire,West,D,Type3,2025-10-23,13,740.83,0.25,3029.38,4807.64,3.8,Completed
+SOC1807,Cody Hartman,New Ericfort,Idaho,North,C,Type2,2026-03-20,15,263.98,0.19,1604.7,1280.18,4.8,Completed
+SOC1808,Angela Marquez,South Justin,Massachusetts,East,C,Type3,2023-12-29,18,992.58,0.03,5932.98,4668.58,4.4,Cancelled
+SOC1809,Kyle Chen,East Nicole,Virginia,South,D,Type1,2024-02-10,17,901.78,0.28,1484.31,3646.03,1.9,Cancelled
+SOC1810,Lisa Fisher,Grantberg,Washington,West,D,Type1,2023-09-22,12,711.17,0.29,8184.23,2063.33,3.3,Pending
+SOC1811,Jason Miller,New Lisaburgh,Kentucky,East,A,Type3,2025-07-30,9,803.14,0.17,5780.24,3048.95,3.5,Pending
+SOC1812,Marissa Proctor,Michaelborough,New Jersey,East,C,Type2,2024-08-11,1,843.53,0.06,7156.0,1692.01,3.8,Completed
+SOC1813,Gerald Simpson,East Marcborough,California,South,A,Type1,2026-03-05,13,421.44,0.02,7772.91,2943.56,2.2,Completed
+SOC1814,Steven Mccoy DDS,Port Faithside,Maine,West,C,Type1,2025-01-14,9,500.7,0.0,7596.72,4774.42,3.9,Cancelled
+SOC1815,Jasmine Salazar,South Marieburgh,Missouri,East,D,Type1,2023-06-15,8,130.07,0.21,9521.3,3292.91,1.3,Completed
+SOC1816,Clinton Irwin,New Xavier,Hawaii,West,C,Type1,2023-10-05,18,238.51,0.11,749.86,1246.52,1.1,Cancelled
+SOC1817,Cynthia Bennett,Seanfort,South Carolina,West,D,Type3,2025-12-20,15,327.1,0.1,8640.04,1756.64,1.4,Cancelled
+SOC1818,Michelle Guzman,East Davidchester,New Hampshire,South,C,Type3,2023-10-24,5,57.95,0.05,3021.99,2952.41,3.2,Completed
+SOC1819,Nicholas Mayo,North Tammy,New Jersey,West,B,Type3,2025-09-23,3,631.02,0.17,7442.7,4343.05,4.5,Cancelled
+SOC1820,Leah Arnold,Vazquezberg,Tennessee,North,B,Type3,2024-10-20,8,672.82,0.29,8500.07,603.16,3.3,Pending
+SOC1821,Omar Rivas,New Maurice,Wisconsin,West,A,Type2,2024-01-19,16,147.55,0.11,504.04,2093.73,2.1,Pending
+SOC1822,Andres Hill,Lake Ericaborough,Indiana,South,A,Type3,2024-08-27,18,90.22,0.16,1404.59,1844.5,1.9,Cancelled
+SOC1823,Robert Moore,West Michaelstad,Maine,North,C,Type1,2024-06-19,19,834.95,0.09,6229.9,1678.32,3.1,Cancelled
+SOC1824,John Peterson,West Denise,Utah,East,A,Type2,2023-09-24,16,852.47,0.04,4047.26,3896.9,3.5,Pending
+SOC1825,Erica Sims,Adamborough,New Hampshire,North,C,Type3,2023-11-03,14,493.91,0.15,3661.99,88.04,2.0,Pending
+SOC1826,Luke Pace,New Paul,Tennessee,West,C,Type3,2024-02-22,5,967.84,0.06,9504.05,3263.89,3.7,Cancelled
+SOC1827,Joshua Ferguson,Lake Jasonburgh,Montana,East,C,Type1,2024-06-28,18,431.28,0.18,2350.63,3062.96,2.5,Pending
+SOC1828,Timothy Frank,Campbellburgh,Wyoming,South,D,Type2,2023-11-06,1,69.36,0.08,4196.46,1905.44,1.1,Pending
+SOC1829,Mrs. Melinda Hamilton,Port Michelle,Missouri,North,C,Type3,2023-06-19,13,462.89,0.13,6103.4,1263.39,1.0,Cancelled
+SOC1830,Jessica Morgan,Stephenton,Wisconsin,South,B,Type2,2024-05-29,10,745.07,0.25,5017.62,408.26,1.9,Completed
+SOC1831,Dennis Francis,Port Janiceton,Michigan,South,A,Type2,2023-09-25,10,822.24,0.07,5323.54,1511.73,1.4,Cancelled
+SOC1832,Todd Robinson,Christianmouth,Arizona,East,B,Type1,2024-12-24,3,804.31,0.22,3118.83,2178.07,3.8,Completed
+SOC1833,Russell Smith,South Charlesland,Florida,North,C,Type1,2026-02-11,4,49.94,0.19,5196.69,3810.17,3.9,Completed
+SOC1834,Felicia Erickson,Troymouth,North Carolina,North,A,Type2,2025-03-01,11,983.46,0.26,2653.97,1223.72,2.9,Cancelled
+SOC1835,Alexis Johnson,Halltown,Missouri,South,C,Type1,2025-01-07,9,60.67,0.29,8012.08,-149.48,3.2,Completed
+SOC1836,Diana Lewis,Toddberg,Illinois,West,B,Type3,2026-03-17,16,96.53,0.05,9818.53,366.54,1.2,Completed
+SOC1837,Nancy Wilson,Christophertown,Arkansas,West,A,Type1,2025-06-01,18,125.1,0.28,5461.26,4765.37,1.6,Completed
+SOC1838,Robert Jones,Hoffmanfurt,West Virginia,West,D,Type2,2025-10-10,1,939.75,0.19,2001.42,1097.83,1.3,Cancelled
+SOC1839,Chloe Hutchinson,Greenberg,Illinois,North,D,Type3,2024-09-02,9,491.45,0.14,370.31,129.37,3.6,Pending
+SOC1840,Gwendolyn Torres,Amymouth,Oklahoma,North,B,Type2,2025-07-03,9,787.4,0.18,6985.19,143.68,3.7,Pending
+SOC1841,Angela Cook,North Stephanie,Delaware,South,A,Type2,2024-07-26,16,148.42,0.16,3784.29,3732.44,4.8,Completed
+SOC1842,Donna Tate,Lake Kellyton,Arizona,East,C,Type3,2024-06-11,11,365.42,0.29,1303.41,3127.44,4.1,Completed
+SOC1843,April Roberson,West Troyborough,South Dakota,East,C,Type2,2023-05-31,2,596.52,0.06,3891.13,4814.96,1.7,Completed
+SOC1844,Jillian Ramirez,North Christopher,Georgia,North,B,Type3,2024-02-25,12,798.75,0.08,6322.57,2439.87,1.5,Cancelled
+SOC1845,Ashley Simmons,Savannahton,West Virginia,South,D,Type3,2025-02-06,5,954.68,0.21,797.41,-152.74,2.5,Cancelled
+SOC1846,Derek Porter,North Tracyside,Connecticut,East,A,Type3,2025-08-26,13,960.73,0.23,3642.88,2862.09,2.5,Completed
+SOC1847,Gavin Robinson,Victoriamouth,Hawaii,West,B,Type3,2026-05-13,13,592.03,0.2,8710.77,241.03,2.2,Completed
+SOC1848,Dawn Brown,North Gabriel,New York,North,C,Type1,2024-08-15,4,927.79,0.18,3356.49,2996.55,1.3,Cancelled
+SOC1849,Anthony Bell,Lisaville,Georgia,North,C,Type3,2026-04-04,14,19.03,0.06,985.43,,4.8,Completed
+SOC1850,Joseph Byrd,Lake Johnfurt,Massachusetts,West,B,Type3,2025-09-12,8,916.47,0.21,4367.2,3523.99,3.2,Pending
+SOC1851,Tammy Nelson,Samanthaside,Virginia,West,A,Type1,2026-03-24,9,256.46,0.18,2385.93,,3.4,Cancelled
+SOC1852,Courtney Peters,New Glenn,Maine,South,A,Type2,2023-08-27,15,237.22,0.15,8095.89,1371.78,1.8,Cancelled
+SOC1853,Catherine Cain,Lake Christopherfurt,Colorado,North,D,Type3,2023-09-14,7,961.05,0.16,1583.68,2077.52,4.9,Cancelled
+SOC1854,Matthew Smith,Port Kevin,Maryland,West,B,Type1,2025-02-04,6,926.81,0.06,6924.06,4441.6,1.2,Completed
+SOC1855,Dawn Rodriguez,Chloeborough,Oregon,South,C,Type1,2023-12-02,17,674.91,0.13,3143.44,4969.28,5.0,Pending
+SOC1856,Luis Blake,North Nicholasborough,Nevada,West,D,Type3,2023-06-07,9,684.38,0.22,4164.49,1953.71,3.5,Cancelled
+SOC1857,Sara Kelley,Port Nicholasmouth,Idaho,West,B,Type2,2023-08-13,2,35.47,0.13,6041.02,3159.73,4.3,Pending
+SOC1858,Ryan Herman MD,West Masontown,South Dakota,South,D,Type2,2024-08-10,16,951.18,0.24,9956.03,-203.94,4.8,Pending
+SOC1859,Michael Cole,Matthewstown,Kansas,South,C,Type3,2025-02-03,15,476.36,0.05,6709.89,1573.62,2.4,Completed
+SOC1860,Kaitlyn Scott,Lake Joelhaven,Delaware,North,B,Type1,2024-03-11,11,34.7,0.17,1788.14,1389.3,4.1,Pending
+SOC1861,Samantha Bradley,Matthewsmouth,Wisconsin,North,D,Type3,2025-07-16,3,282.94,0.14,9898.77,220.42,2.0,Completed
+SOC1862,Andrew Marshall,,California,North,C,Type1,2025-10-26,16,415.32,0.28,1568.12,582.3,4.0,Pending
+SOC1863,Richard Myers,Lake Thomasview,Ohio,North,C,Type1,2024-06-16,2,63.85,0.13,4763.37,4476.17,1.3,Completed
+SOC1864,Dakota Garcia,New Jesse,North Carolina,East,A,Type3,2024-11-10,1,251.66,0.26,2032.17,3209.82,4.8,Completed
+SOC1865,Kyle Ruiz,West Stephenville,Wyoming,East,D,Type2,2023-10-24,10,392.96,0.02,9938.3,483.76,4.9,Cancelled
+SOC1866,Ralph Luna,Lake Jasminehaven,Rhode Island,West,A,Type2,2025-09-08,9,351.11,0.01,3654.47,3169.01,2.0,Completed
+SOC1867,Ryan Peters PhD,South Rebeccaburgh,New Jersey,East,A,Type3,2026-04-16,12,477.85,0.13,2301.86,-243.81,2.3,Pending
+SOC1868,Seth Alvarez,Amandaland,Kentucky,North,B,Type2,2023-08-25,6,680.74,0.19,5526.51,1496.24,3.4,Pending
+SOC1869,Rebecca Welch,Hooverland,New Hampshire,South,C,Type1,2025-07-28,1,796.78,0.14,8438.76,351.17,3.4,Cancelled
+SOC1870,Kathryn Gonzalez,Kristyport,North Carolina,North,B,Type2,2023-07-06,11,553.91,0.14,202.88,-225.03,3.1,Cancelled
+SOC1871,Andrew Cole,Comptonside,Utah,North,B,Type2,2024-02-20,3,187.85,0.28,3350.4,1748.34,1.8,Cancelled
+SOC1872,Mary Bryant,Jacksonchester,Utah,South,B,Type1,2024-01-29,17,603.99,0.3,4920.31,1559.24,3.9,Completed
+SOC1873,Sherry Wilkins,New Nicholas,New Jersey,North,C,Type2,2023-12-11,11,725.52,0.09,9473.66,2708.78,1.8,Cancelled
+SOC1874,Daniel Bennett,South Juan,South Carolina,West,C,Type3,2023-11-22,4,495.3,0.21,3333.7,1161.71,4.7,Pending
+SOC1875,Eric Silva,Lake Marissahaven,New Jersey,South,A,Type3,2025-05-01,7,968.37,0.12,1633.17,1288.74,4.5,Cancelled
+SOC1876,Antonio Chapman,West Ginafort,Nebraska,North,C,Type2,2025-09-18,13,729.89,0.06,2451.02,3362.53,4.1,Completed
+SOC1877,Michael Underwood,New Catherine,Wyoming,North,C,Type2,2026-04-28,8,645.42,0.15,7018.81,2590.85,4.0,Cancelled
+SOC1878,Heather Taylor,Elizabethfort,Colorado,West,A,Type2,2025-10-10,16,26.99,0.09,153.73,2254.5,2.1,Cancelled
+SOC1879,Kelly Young,East Samanthaland,Washington,South,C,Type2,2024-06-30,9,216.58,0.04,8410.27,797.78,3.7,Completed
+SOC1880,Kimberly Baker,New Matthewborough,New Jersey,East,D,Type1,2025-01-19,15,685.22,0.02,5164.47,3466.74,2.5,Completed
+SOC1881,Larry Reyes,Glennberg,Indiana,North,A,Type1,2024-01-06,17,675.27,0.11,6168.54,2697.57,1.8,Pending
+SOC1882,Sarah Baker,Lake Jason,Indiana,North,A,Type1,2026-04-11,8,116.55,0.03,5590.32,1722.66,3.9,Cancelled
+SOC1883,Kirsten Vang,Wheelerside,Pennsylvania,North,D,Type3,2026-05-03,2,933.67,0.22,609.72,1733.91,2.6,Pending
+SOC1884,Rachel Mcdaniel,North Lisa,Vermont,East,B,Type2,2026-04-09,11,359.74,0.08,7651.95,3244.34,2.6,Completed
+SOC1885,Wendy Gray,Julianberg,Pennsylvania,North,A,Type2,2025-08-02,18,609.97,,6796.95,3864.59,4.8,Cancelled
+SOC1886,Kevin Hodges,West Lisaside,Montana,South,A,Type2,2024-08-07,18,778.85,0.06,2039.96,,5.0,Completed
+SOC1887,Matthew David,East Molly,Florida,West,B,Type3,2023-08-01,17,841.37,0.15,3667.21,4905.09,1.9,Pending
+SOC1888,Joshua Schneider,Collinsborough,New Hampshire,South,A,Type1,2025-03-24,13,133.7,0.13,8488.85,898.09,3.2,Pending
+SOC1889,Amy Mathis DVM,Hollandside,New Mexico,East,A,Type2,2024-10-14,18,304.95,0.24,2427.08,1262.24,3.3,Cancelled
+SOC1890,Jennifer Taylor,Dianaport,New Hampshire,West,A,Type1,2025-11-23,12,591.47,0.27,2150.28,2095.87,1.4,Pending
+SOC1891,Mr. David Rowe Jr.,North Jamesmouth,New York,West,A,Type2,2025-03-07,17,205.81,0.02,8139.28,88.12,2.5,Completed
+SOC1892,Rachel Cohen,Rothfurt,Nebraska,South,C,Type1,2025-07-16,6,920.44,0.12,1793.05,-415.25,2.1,Pending
+SOC1893,Victor Peterson,East Matthewburgh,Alabama,West,A,Type1,2024-10-01,8,302.82,0.25,8923.4,1234.07,4.7,Cancelled
+SOC1894,Andrew Mccoy,Lake Sheriside,Vermont,North,B,Type3,2023-07-07,19,285.07,0.23,2248.14,2341.3,4.6,Cancelled
+SOC1895,Donna Allison,West Melissa,Delaware,East,C,Type3,2025-09-14,8,290.12,0.1,1200.19,11.03,2.6,Completed
+SOC1896,Nicholas James,Lindastad,Rhode Island,East,D,Type2,2026-03-03,5,233.46,0.04,308.34,880.13,1.6,Pending
+SOC1897,Jason Carr,West Amy,Michigan,South,A,Type1,2025-09-24,17,819.34,0.15,1816.88,4610.95,1.6,Pending
+SOC1898,Jennifer Ramirez,Nelsonville,Ohio,West,C,Type2,2024-09-16,2,220.17,0.09,5087.2,4034.18,4.7,Pending
+SOC1899,Lori Ho,East Alex,North Dakota,North,D,Type2,2023-08-05,11,77.41,0.2,5605.78,1344.53,2.9,Cancelled
+SOC1900,Mark Bowen,Mariafurt,New Mexico,South,A,Type3,2025-04-08,15,448.54,0.08,9927.86,1387.74,1.8,Pending
+SOC1901,Kirsten Allison,South Keith,West Virginia,West,B,Type3,2026-01-07,16,750.33,0.0,8321.28,1010.15,3.0,Completed
+SOC1902,Tanner Shields,Thomasmouth,South Dakota,South,B,Type1,2024-04-23,12,859.03,0.18,7082.67,3125.53,4.2,Completed
+SOC1903,Edward Aguilar,Randybury,Idaho,East,C,Type2,2023-11-14,11,970.94,0.25,4118.84,-350.58,2.4,Completed
+SOC1904,Tracy Padilla,Lisaville,Maine,East,A,Type2,2025-05-06,14,424.02,0.25,2218.97,893.63,3.9,Completed
+SOC1905,Benjamin Davis,East Nathanielshire,Kentucky,South,B,Type2,2025-09-03,4,410.38,0.04,7744.25,2949.61,1.8,Cancelled
+SOC1906,Laura Clay,Gloriashire,Massachusetts,East,A,Type3,2025-11-10,16,916.94,0.18,9758.41,871.48,3.1,Completed
+SOC1907,Emily Ward,Andrewsburgh,Maryland,South,A,Type2,2025-11-21,16,886.54,0.23,6147.75,3388.29,4.3,Pending
+SOC1908,Mrs. Sara Burgess DVM,Jasonland,Arizona,East,A,Type1,2024-08-18,4,406.7,0.06,4450.05,4541.91,3.8,Cancelled
+SOC1909,Mr. Steven Anderson,Port Meganton,Illinois,South,C,Type1,2025-12-16,14,786.73,0.11,6015.22,3611.27,3.2,Completed
+SOC1910,Michael Kennedy MD,Stacyborough,Idaho,South,C,Type3,2023-06-24,12,938.38,0.14,2038.93,3769.07,4.1,Completed
+SOC1911,Gary Blackburn,Nicolestad,New Hampshire,North,B,Type3,2023-09-04,7,799.01,0.07,8692.1,2808.6,1.1,Cancelled
+SOC1912,Andrea Watkins,North Douglas,Maine,East,D,Type1,2026-01-29,18,972.38,0.08,1154.34,2395.51,4.1,Completed
+SOC1913,James Ray,Gailfurt,South Carolina,West,A,Type2,2026-01-26,2,753.78,0.0,5592.29,1558.9,3.8,Completed
+SOC1914,Amber Burke,New Anthony,Ohio,West,D,Type1,2025-01-15,13,470.59,0.07,6787.66,4997.05,1.8,Completed
+SOC1915,Elizabeth Williamson,Christophermouth,Florida,South,B,Type3,2024-08-20,17,610.21,0.07,8310.83,2980.22,2.2,Completed
+SOC1916,Christian Rodriguez,Angelafurt,Illinois,South,B,Type1,2026-02-23,11,631.93,0.16,5861.89,474.63,2.8,Completed
+SOC1917,Heidi Stewart,Port Annabury,Michigan,West,D,Type3,2024-12-02,1,508.7,0.07,1050.1,1807.62,3.7,Cancelled
+SOC1918,April Allen,New Tiffany,Nevada,South,A,Type3,2024-06-30,11,69.64,0.01,1068.91,,4.4,Pending
+SOC1919,Ann Anderson,Kathrynfort,California,South,B,Type2,2023-05-29,14,748.3,0.22,5158.18,4588.2,4.6,Cancelled
+SOC1920,Melissa Sanchez,Erikaton,Oklahoma,North,D,Type3,2024-06-03,8,211.72,0.03,5702.44,1894.3,5.0,Cancelled
+SOC1921,Cynthia Nguyen,Melissafurt,Oregon,West,A,Type1,2025-01-09,13,590.26,0.03,8051.55,1736.14,1.8,Cancelled
+SOC1922,Jason Reynolds,Hendersonland,Texas,North,B,Type2,2025-06-06,19,141.34,0.12,5064.98,4073.34,2.1,Cancelled
+SOC1923,Brendan Berry,East Jason,Louisiana,South,C,Type3,2023-10-18,7,125.38,0.14,4542.83,,4.8,Cancelled
+SOC1924,Justin Allen,Smithport,Iowa,East,B,Type2,2025-11-17,9,864.86,0.2,2919.4,4206.27,4.2,Cancelled
+SOC1925,Christopher Rodriguez,Smithport,North Dakota,North,D,Type1,2025-04-09,1,312.14,0.05,5854.22,-201.49,1.7,Completed
+SOC1926,Laura Ferguson,Ryanland,Vermont,South,D,Type2,2025-08-16,12,753.08,0.16,3392.11,-179.53,1.8,Completed
+SOC1927,Justin Cooper,Lake Robertfort,Florida,East,D,Type2,2025-06-05,15,917.8,0.15,4190.99,2996.85,1.4,Pending
+SOC1928,Travis Blackwell,Wilsonside,Maryland,East,A,Type2,2025-05-09,4,162.77,0.25,142.9,4114.06,1.8,Pending
+SOC1929,Lauren Schmidt,West Samantha,Michigan,East,C,Type1,2025-09-10,13,15.71,0.06,7054.84,4711.18,2.4,Completed
+SOC1930,Ms. Courtney Gibson,South Richard,Pennsylvania,South,A,Type3,2023-09-01,16,32.52,0.1,7572.11,2568.26,3.9,Pending
+SOC1931,Lisa Anderson,Kingside,Massachusetts,East,B,Type3,2025-10-14,4,431.94,0.19,5567.08,-254.25,4.8,Cancelled
+SOC1932,David Sanders,West Amy,Louisiana,West,D,Type2,2023-12-04,6,903.07,0.04,5000.13,634.22,4.7,Cancelled
+SOC1933,Diane Cole,South Jasonbury,Missouri,West,A,Type1,2025-08-25,19,439.99,0.1,5235.51,4288.47,4.2,Completed
+SOC1934,Andrea Hudson,Riveramouth,Maryland,North,B,Type2,2026-02-18,16,465.3,0.07,2169.93,4273.7,1.9,Pending
+SOC1935,Mr. Peter Murray,Lake Andrea,New Hampshire,North,A,Type2,2025-05-21,15,677.59,0.01,4156.07,1121.36,2.0,Cancelled
+SOC1936,Susan Castro,Moralesfurt,Idaho,West,A,Type3,2024-10-24,8,994.4,0.23,5891.79,1593.67,3.2,Cancelled
+SOC1937,Lauren Espinoza,North Loriview,North Dakota,South,A,Type1,2025-12-16,19,459.1,0.2,6386.79,1553.72,1.5,Pending
+SOC1938,Peter King,North Caroline,Virginia,East,A,Type3,2023-10-11,14,25.06,0.03,6634.42,2121.76,4.4,Completed
+SOC1939,Angela Camacho,Lake Christyview,Arizona,West,C,Type2,2025-01-30,10,273.13,0.07,2474.79,3981.89,3.9,Pending
+SOC1940,Diana Spears,Grayville,Florida,South,C,Type3,2024-03-08,11,725.56,0.01,3294.03,1011.58,3.9,Cancelled
+SOC1941,Casey Jennings,Lunabury,New York,South,B,Type1,2026-02-19,5,523.83,0.09,5646.16,2276.98,1.3,Pending
+SOC1942,Douglas Williams,Michaelstad,South Carolina,North,C,Type2,2024-02-27,16,384.89,0.15,8000.38,3194.19,1.5,Completed
+SOC1943,Neil Cox,Lake Jasonmouth,Rhode Island,East,C,Type3,2024-07-23,7,270.64,0.01,9879.57,246.33,2.5,Completed
+SOC1944,Jackson Owens,Annachester,Florida,East,A,Type1,2025-05-12,18,394.65,0.05,5852.63,1323.66,3.6,Pending
+SOC1945,Diana Taylor,Payneside,Pennsylvania,North,A,Type1,2023-07-29,4,175.8,0.11,7257.65,2569.52,3.3,Pending
+SOC1946,Tracey Martin,New Bruceville,Virginia,South,B,Type1,2026-04-22,12,205.73,0.07,5756.83,1526.05,4.0,Pending
+SOC1947,Sarah Cunningham,East Vincentshire,New Hampshire,West,C,Type2,2024-08-29,12,526.02,,404.06,2997.11,3.1,Pending
+SOC1948,Chad Adams,Port Lauren,Maryland,South,A,Type3,2025-11-06,19,951.2,0.11,2349.81,4615.64,3.1,Completed
+SOC1949,Nicole Benson,Sarahtown,Illinois,South,B,Type2,2023-08-20,19,729.62,,7760.08,636.76,4.5,Cancelled
+SOC1950,Janice Krueger,Lake Colleen,Pennsylvania,North,C,Type3,2026-04-12,1,346.78,0.08,3511.44,3183.33,4.3,Completed
+SOC1951,Alisha Johnson,West Carmen,Oregon,South,C,Type3,2024-08-02,12,393.84,0.23,9911.88,3656.07,2.1,Pending
+SOC1952,Timothy Hernandez,East Susan,Washington,West,D,Type2,2026-04-07,6,368.36,0.18,5897.18,346.11,4.1,Completed
+SOC1953,Stephen Shaw,Codyton,New Mexico,North,D,Type3,2025-03-13,5,655.55,0.29,565.61,274.2,3.1,Cancelled
+SOC1954,Karina Richardson,Morganville,Idaho,West,C,Type2,2026-01-27,7,844.6,0.23,2353.99,1947.55,4.5,Pending
+SOC1955,Keith Craig,Lake Lisa,Maryland,East,C,Type1,2024-05-22,2,534.5,0.13,2318.37,2710.71,1.4,Pending
+SOC1956,Seth Spencer,South Steven,Oklahoma,South,D,Type1,2024-07-07,11,229.75,0.06,463.6,2157.74,2.9,Pending
+SOC1957,Erik Mccormick,West Sandraside,New Jersey,North,D,Type3,2024-01-16,5,882.73,0.06,4207.08,-240.48,1.7,Pending
+SOC1958,Shannon Parks,East Valeriefurt,Kansas,West,B,Type1,2026-04-12,10,100.58,0.02,6584.34,2410.55,4.7,Cancelled
+SOC1959,Jennifer Lester,West Jason,Hawaii,East,D,Type2,2024-08-26,8,245.07,0.06,1803.21,4855.09,1.0,Pending
+SOC1960,Jason Thompson,Port Evanstad,Delaware,North,A,Type1,2023-09-14,1,501.12,0.22,1290.86,4600.24,2.7,Completed
+SOC1961,Veronica Warren,New Erinhaven,South Dakota,North,A,Type1,2023-11-01,18,159.02,0.03,1704.08,1629.6,2.7,Cancelled
+SOC1962,Nathan Brown,North Christopher,North Carolina,West,D,Type1,2023-12-23,5,564.81,0.05,9714.89,1323.08,2.7,Completed
+SOC1963,Joshua Lopez,Port Gabriellestad,Kentucky,East,A,Type3,2023-07-14,14,335.53,0.21,8997.42,2806.42,4.9,Completed
+SOC1964,Gary Jones,Petersonfort,Washington,North,D,Type3,2025-08-02,9,397.51,0.16,8983.79,2671.05,1.3,Completed
+SOC1965,Tracy Parker,Moralesfort,Oklahoma,North,C,Type2,2025-05-04,13,453.34,0.03,8687.79,3385.17,1.3,Cancelled
+SOC1966,Angela Martinez,Lindamouth,New Hampshire,West,D,Type3,2024-06-15,19,683.74,0.02,3492.15,3289.29,3.3,Pending
+SOC1967,Thomas Mejia,Adambury,Oregon,North,D,Type1,2025-05-06,13,164.48,0.29,8327.3,682.31,3.0,Cancelled
+SOC1968,Claire Moss,Port William,Maine,South,D,Type2,2025-09-21,8,968.34,0.22,9393.59,4955.47,1.1,Cancelled
+SOC1969,Michael Smith,Lake Maryberg,Utah,North,B,Type2,2024-03-07,2,184.33,,8918.88,986.16,4.2,Cancelled
+SOC1970,Sean Hall,Port Amanda,Connecticut,North,B,Type3,2024-01-22,1,239.06,0.13,628.72,-127.47,3.1,Cancelled
+SOC1971,Daniel Michael,Ryanborough,Mississippi,South,D,Type2,2025-03-29,5,11.69,0.17,8262.99,42.69,1.6,Completed
+SOC1972,Cameron Davis,Johnsonhaven,Arkansas,South,D,Type3,2024-08-06,10,964.39,0.15,5354.58,2994.77,1.8,Pending
+SOC1973,David Rodriguez,Thompsonville,South Carolina,North,B,Type1,2025-04-21,4,448.6,0.12,5618.17,-276.27,4.6,Cancelled
+SOC1974,Cheryl Allison,Rubenview,Texas,South,A,Type2,2024-12-04,14,559.73,0.24,2305.96,2952.67,3.5,Completed
+SOC1975,John Williams,East Katelynhaven,Georgia,East,B,Type2,2024-08-04,16,984.89,0.14,5524.99,2128.58,2.0,Completed
+SOC1976,Darren Perkins,Lake Williamshire,Washington,East,D,Type2,2025-11-04,17,839.93,0.07,8094.57,2221.51,4.3,Completed
+SOC1977,Dakota Munoz,Jayview,Oklahoma,West,D,Type2,2024-05-11,13,929.29,0.14,9519.69,181.55,2.5,Pending
+SOC1978,Shannon Brown,Grahamside,Maine,South,D,Type2,2025-12-02,2,802.29,0.15,4770.7,2262.59,2.0,Completed
+SOC1979,Lisa Jensen,Zacharytown,Delaware,South,B,Type3,2025-08-22,1,648.31,0.17,5562.32,4976.04,3.5,Pending
+SOC1980,Rebecca Brown,South Jerry,North Carolina,West,C,Type3,2023-06-04,11,354.5,0.19,6311.8,1215.48,3.6,Cancelled
+SOC1981,Rebecca Terry,Port Robert,Indiana,East,C,Type1,2024-11-01,7,224.24,0.17,9278.23,400.6,4.0,Completed
+SOC1982,Holly Lucero,Johnview,Texas,East,C,Type1,2024-12-26,7,429.28,0.25,9000.19,788.41,2.7,Cancelled
+SOC1983,Melissa Williams,North Gary,Michigan,South,C,Type1,2025-09-02,8,848.75,0.05,9625.62,3737.08,1.5,Pending
+SOC1984,Kimberly Ortega,West Patrick,Ohio,West,A,Type1,2024-04-20,13,975.31,0.25,7742.04,4029.29,2.0,Pending
+SOC1985,Raymond Coleman,East Robert,Oklahoma,North,D,Type2,2024-01-26,16,930.87,0.22,8961.95,53.75,1.6,Completed
+SOC1986,Garrett Nichols,South Christineburgh,Minnesota,South,D,Type1,2025-01-09,18,440.32,0.17,5426.88,4605.22,1.1,Completed
+SOC1987,Stephen Sandoval,West Jasonshire,South Carolina,South,B,Type2,2023-09-22,2,197.13,,4106.48,2162.97,1.2,Cancelled
+SOC1988,Sarah Pennington,North Amanda,South Carolina,East,D,Type3,2025-06-10,7,393.81,0.07,5685.44,3704.38,4.7,Cancelled
+SOC1989,James Haas,Port Nicholasshire,Idaho,North,B,Type3,2025-08-11,8,961.55,0.04,2788.21,3125.38,3.6,Cancelled
+SOC1990,Richard Chandler,,Massachusetts,North,C,Type2,2023-11-07,18,921.85,0.06,5499.32,2747.47,4.1,Pending
+SOC1991,Derek Pennington,Priceview,Arizona,South,D,Type1,2026-05-24,13,442.62,0.02,4936.16,2866.45,2.1,Completed
+SOC1992,Elizabeth Ryan,Simmonsshire,Louisiana,East,C,Type2,2024-06-06,11,183.33,0.16,2272.32,4267.31,1.5,Completed
+SOC1993,Kristen Alexander,North Craig,Connecticut,West,C,Type2,2026-01-28,8,843.11,0.15,3748.7,2268.02,4.9,Cancelled
+SOC1994,Daniel Freeman,West Nathan,Louisiana,North,C,Type1,2024-04-14,1,655.13,0.17,5577.33,4399.5,4.8,Completed
+SOC1995,Jacqueline Johnson,Norrisborough,Kentucky,South,C,Type3,2025-05-08,17,272.51,0.09,7497.45,1910.59,1.4,Pending
+SOC1996,Mrs. Crystal Rios,Gonzalezchester,New York,West,B,Type3,2024-09-07,11,768.74,,3483.19,118.38,4.4,Pending
+SOC1997,Joshua Weaver,Meyersside,New Mexico,East,C,Type2,2026-03-20,19,951.0,0.11,3848.57,3472.12,3.8,Pending
+SOC1998,Dawn Parker,,Texas,South,A,Type3,2023-08-18,1,194.25,,3162.47,642.44,1.8,Pending
+SOC1999,Elizabeth Mason,North Stephen,Idaho,North,C,Type3,2025-07-27,13,206.37,0.07,6612.34,3666.67,2.4,Cancelled
+SOC2000,Dawn Ruiz,West Jacob,Maryland,East,C,Type3,2024-04-19,8,727.28,0.08,3558.7,3340.26,4.0,Cancelled
+SOC2001,Michelle Griffin,Lake Michelleborough,North Carolina,North,A,Type1,2025-10-22,3,84.23,,9535.77,4601.36,3.7,Cancelled
+SOC2002,Allen Robertson,North Connorberg,Oregon,East,D,Type1,2024-08-17,3,541.88,0.12,1293.03,926.73,3.5,Pending
+SOC2003,Teresa Pratt,Yorkchester,Wyoming,West,B,Type1,2024-11-06,6,352.84,0.05,195.32,1894.57,4.5,Pending
+SOC2004,Zachary Swanson,Irwinhaven,Arizona,North,B,Type2,2026-02-03,19,221.42,0.14,2345.24,73.42,5.0,Completed
+SOC2005,Kristy White,Port Anthonytown,Wyoming,East,A,Type1,2024-11-04,2,322.85,0.25,3372.6,4624.47,2.3,Pending
+SOC2006,Patricia Dodson,Pattersonmouth,Illinois,South,C,Type3,2026-02-08,3,704.27,0.07,4477.54,2933.45,2.5,Pending
+SOC2007,Anthony Velazquez,North Olivia,Nebraska,North,B,Type3,2026-04-13,2,401.16,0.09,7979.55,1335.94,2.5,Pending
+SOC2008,Jeff Martin,Seanberg,Vermont,North,A,Type3,2024-03-18,8,848.04,0.29,4745.93,2049.83,1.1,Pending
+SOC2009,Shannon Williamson,Lake Katherine,Delaware,East,C,Type2,2025-04-20,15,844.12,0.09,7310.23,3442.77,2.1,Pending
+SOC2010,Anna Miller,Gibbsbury,Virginia,West,D,Type3,2025-04-01,7,649.61,0.06,546.67,-81.75,1.1,Cancelled
+SOC2011,John Salinas,North Sarah,California,North,B,Type2,2023-10-21,16,621.84,0.26,415.56,4427.68,1.5,Pending
+SOC2012,Brandon Good,Deborahfort,West Virginia,East,B,Type1,2024-10-26,11,84.67,,2905.73,872.65,4.4,Cancelled
+SOC2013,Virginia Page,Adamsfort,Utah,South,A,Type3,2023-08-29,7,798.76,0.03,4640.12,199.88,1.9,Completed
+SOC2014,Jeremy Miller,New Tammybury,New Jersey,West,B,Type2,2025-03-07,9,916.27,0.17,2406.6,,2.4,Completed
+SOC2015,Keith Mathews,Goldenborough,Florida,North,B,Type3,2025-10-25,15,842.39,0.12,7327.21,2880.91,2.0,Completed
+SOC2016,Karen Smith,Collinshaven,Colorado,North,D,Type1,2023-08-13,1,231.92,0.12,4997.4,-490.44,1.6,Cancelled
+SOC2017,Jennifer Allen,Robertton,Nevada,North,A,Type3,2025-04-25,18,177.54,0.14,9976.61,1548.69,2.0,Cancelled
+SOC2018,Ronald Gray,South Jasonport,New Hampshire,East,C,Type3,2024-08-15,19,413.15,0.15,4746.16,659.36,4.8,Cancelled
+SOC2019,Caroline Nguyen,New Barry,New York,East,C,Type2,2025-07-15,7,921.74,0.25,7737.2,670.13,4.3,Cancelled
+SOC2020,Christopher Young,Brianburgh,Oregon,West,C,Type2,2023-09-04,14,650.67,0.01,1603.2,3079.57,2.2,Pending
+SOC2021,Hector Vang,Ibarraville,Maryland,West,C,Type3,2026-04-28,1,437.25,0.3,520.62,3562.34,4.4,Pending
+SOC2022,Mrs. Jackie Bishop,South Joshuabury,New Jersey,North,A,Type3,2024-09-03,14,211.23,0.13,5474.66,2586.02,1.4,Completed
+SOC2023,Erika Davis,Wandaport,Utah,East,B,Type3,2025-10-03,8,783.91,,248.67,3214.74,3.9,Completed
+SOC2024,April Garcia,North Jeffrey,North Dakota,East,D,Type1,2023-06-27,1,773.0,0.11,3787.09,3986.8,1.6,Cancelled
+SOC2025,Stephanie Conley,,Georgia,South,C,Type3,2023-09-12,15,274.1,0.21,6837.6,3710.44,2.9,Pending
+SOC2026,Sarah Young,Richardsfort,Idaho,East,A,Type3,2024-12-21,10,669.98,,5375.26,4952.32,3.3,Completed
+SOC2027,Nicholas Jones,Port Randymouth,North Dakota,North,B,Type1,2026-04-29,4,262.44,0.2,5537.45,2325.36,2.2,Pending
+SOC2028,Douglas Harvey,Christinaborough,Arkansas,East,C,Type2,2023-07-29,11,782.69,0.2,3009.13,4520.07,1.4,Pending
+SOC2029,Sarah Miller,South Christopher,Maryland,North,B,Type2,2023-06-21,18,38.95,0.16,1590.94,364.95,3.5,Pending
+SOC2030,Angela Wade,Carlaton,Maryland,North,B,Type3,2024-08-07,3,883.32,0.19,6607.71,3221.04,4.5,Cancelled
+SOC2031,Lawrence Campbell,North Patricia,Illinois,South,A,Type3,2023-12-30,3,548.15,0.02,7096.6,463.37,3.8,Cancelled
+SOC2032,Cynthia Arellano,East Angela,Nebraska,West,C,Type3,2024-09-03,6,204.86,0.27,832.35,3582.71,4.2,Completed
+SOC2033,Marcus Jones,Faulknerside,Oregon,North,B,Type3,2024-04-01,13,595.9,0.01,1555.52,3511.89,3.4,Pending
+SOC2034,Tracey Parker,North Kimberly,Idaho,East,A,Type1,2025-09-28,15,728.99,0.0,3644.89,214.54,2.6,Completed
+SOC2035,Matthew Reynolds,Taylorbury,Michigan,East,D,Type3,2025-03-06,13,741.65,0.23,9251.14,469.72,2.5,Completed
+SOC2036,Daniel Patel,Johnland,Maryland,West,A,Type3,2023-08-17,11,950.87,0.11,8173.81,2235.0,3.0,Completed
+SOC2037,Melissa Hobbs,South Matthewton,North Dakota,East,C,Type2,2025-10-18,10,393.39,0.13,293.78,4831.55,4.6,Pending
+SOC2038,Travis Hamilton,Port Edwinberg,Oklahoma,East,B,Type1,2025-04-10,19,864.29,0.1,2414.71,642.34,4.7,Pending
+SOC2039,Mark Delacruz,Ericfurt,North Carolina,East,D,Type3,2025-05-13,15,54.39,0.03,8216.56,1321.41,2.1,Completed
+SOC2040,Laura Phillips,Lake Michellechester,Idaho,South,D,Type1,2024-08-30,17,313.62,0.21,1002.34,2263.35,2.2,Pending
+SOC2041,Tracy Anderson,,Arkansas,South,A,Type2,2025-03-20,6,525.23,0.01,9562.61,1014.33,3.7,Pending
+SOC2042,Wendy Perez,South Danielleview,Florida,East,B,Type2,2023-12-09,5,862.86,0.19,9186.2,741.89,4.0,Pending
+SOC2043,Tracie Turner,Lake Bryan,Iowa,East,D,Type2,2024-03-17,2,491.81,0.28,3599.56,4522.91,3.1,Cancelled
+SOC2044,Brendan Farmer,Bakertown,Texas,West,D,Type1,2026-02-23,9,601.2,0.12,1791.66,624.65,3.8,Completed
+SOC2045,Angelica Mays,Davidhaven,New Jersey,South,D,Type2,2023-07-04,11,241.27,0.09,9196.33,3574.12,4.1,Pending
+SOC2046,Maurice Garcia,Johnsonville,Louisiana,East,B,Type2,2025-03-13,12,292.53,0.16,5877.77,1979.29,3.5,Completed
+SOC2047,Jacob Black,West Kathryn,Kansas,East,C,Type1,2025-11-30,4,698.41,0.17,6226.86,551.51,1.7,Pending
+SOC2048,Andre Walls,New Jennifershire,Idaho,North,C,Type1,2025-07-03,10,999.75,0.28,7375.14,4221.2,2.3,Cancelled
+SOC2049,Mary Martin,Port Frank,Minnesota,East,B,Type1,2023-11-21,8,898.27,0.18,4390.66,639.33,3.0,Cancelled
+SOC2050,Kevin Richards,Butlermouth,Michigan,East,C,Type1,2024-04-08,8,775.0,0.17,5454.63,3672.54,4.4,Cancelled
+SOC2051,Heather Palmer,Josetown,Alabama,South,B,Type2,2025-11-13,3,166.46,0.03,4018.22,231.32,2.1,Completed
+SOC2052,Joshua Cole,South Adrianside,Nebraska,East,C,Type2,2025-01-15,3,808.01,0.27,6976.13,1840.78,2.8,Pending
+SOC2053,Amanda Nguyen,Parsonsside,Rhode Island,North,A,Type3,2024-04-03,9,765.2,0.23,6049.17,3416.77,4.5,Completed
+SOC2054,Kelly Castillo,Stevenville,Oregon,North,B,Type3,2026-01-23,10,101.05,0.11,2945.71,1160.71,1.1,Completed
+SOC2055,Diana Smith,New Dannyton,Iowa,North,A,Type3,2025-06-28,12,241.76,0.02,389.58,2598.02,1.7,Cancelled
+SOC2056,James Kelley,West Stephen,Illinois,West,B,Type2,2023-10-03,9,352.26,0.05,2358.78,2293.97,1.1,Pending
+SOC2057,Jessica Cardenas,West John,Mississippi,North,A,Type1,2023-06-29,2,651.86,0.25,4422.85,-404.37,1.7,Completed
+SOC2058,Tracy Zimmerman,New Matthew,Colorado,East,A,Type3,2025-07-01,19,314.61,0.25,6127.17,897.66,3.1,Completed
+SOC2059,Mary Kramer,New Douglasbury,Nebraska,East,B,Type3,2023-12-10,16,126.07,0.04,6336.82,-417.9,1.6,Completed
+SOC2060,Martin Williams,Emilyburgh,Wyoming,North,B,Type3,2025-09-28,1,54.14,0.13,5969.44,-327.99,3.8,Pending
+SOC2061,Valerie Garcia,Johnville,Kentucky,South,D,Type2,2026-03-18,19,675.07,0.18,7670.8,1642.52,2.2,Completed
+SOC2062,Renee Williams,Deborahmouth,Indiana,South,D,Type1,2025-09-20,19,197.47,0.1,5945.61,1725.72,2.7,Completed
+SOC2063,Angie Reed,New Davidside,New York,South,C,Type1,2024-09-19,5,858.31,0.15,5504.62,4536.62,1.8,Pending
+SOC2064,Robert Hansen,Taylorburgh,Utah,East,C,Type3,2023-11-24,3,982.7,0.06,9202.41,4580.82,4.1,Completed
+SOC2065,David Green,Humphreyborough,West Virginia,West,D,Type3,2023-08-19,14,348.83,0.23,1484.08,813.36,3.1,Completed
+SOC2066,Daniel Wilkins,Tiffanyside,New Hampshire,West,C,Type2,2023-09-23,19,916.95,0.25,1702.21,,3.3,Cancelled
+SOC2067,Gina Woods,Kathryntown,New York,South,B,Type1,2025-01-11,9,631.44,0.19,4872.69,736.24,3.8,Cancelled
+SOC2068,Anthony Aguirre,East Jeremiah,Wisconsin,West,A,Type3,2024-01-29,17,443.6,0.13,5346.32,1165.08,4.6,Cancelled
+SOC2069,Tina Robbins,East Michael,Iowa,South,A,Type3,2024-12-12,11,52.83,0.22,4461.9,1679.79,3.8,Cancelled
+SOC2070,Timothy Howard,Port Keith,New Mexico,East,D,Type2,2025-06-10,16,399.79,0.28,4451.78,2536.74,2.7,Cancelled
+SOC2071,Kevin Lynn,Fordburgh,West Virginia,East,D,Type2,2024-05-08,11,843.45,0.16,9322.16,1144.06,4.4,Completed
+SOC2072,Kaitlin Sparks,Bradyport,Virginia,South,A,Type2,2023-10-07,4,806.1,0.09,8108.18,457.32,4.6,Completed
+SOC2073,Bryan Lee,Woodsland,West Virginia,East,A,Type3,2025-02-26,17,969.64,0.12,2275.12,1131.18,1.8,Cancelled
+SOC2074,Melanie Andrews,Rossside,Mississippi,East,B,Type2,2025-05-18,15,726.92,0.14,3509.03,4012.06,1.9,Pending
+SOC2075,Miranda Powell,Solomonburgh,Indiana,East,A,Type2,2024-06-26,5,648.35,0.07,7274.87,2852.06,3.9,Completed
+SOC2076,Mr. Justin Gonzalez,Lake Tiffanyburgh,Massachusetts,East,A,Type3,2025-05-17,7,605.71,0.04,7317.64,345.72,3.9,Completed
+SOC2077,Juan Benjamin,Rhondachester,South Dakota,West,C,Type1,2025-02-14,18,148.91,0.16,4846.97,475.1,4.8,Pending
+SOC2078,Patrick Mcclure DVM,South Vincentbury,Maryland,South,B,Type2,2024-11-27,7,60.44,0.04,1040.27,607.9,3.1,Completed
+SOC2079,Kristen Cohen,Port Ericport,North Carolina,West,A,Type2,2025-11-27,10,459.11,0.22,8506.94,3112.77,4.2,Cancelled
+SOC2080,Joshua Mckee,Jonesshire,Idaho,South,B,Type3,2024-02-14,6,888.31,0.23,4740.02,2294.81,4.5,Completed
+SOC2081,Mary Mack,Port Rebeccaburgh,Michigan,East,A,Type2,2025-10-19,18,954.25,0.17,6493.85,4276.1,1.4,Completed
+SOC2082,Matthew Valentine,South Patricia,Hawaii,East,D,Type1,2025-08-16,5,920.24,0.29,2577.88,577.47,4.2,Pending
+SOC2083,Karen Taylor,Karlmouth,Arizona,East,C,Type3,2024-05-17,13,217.02,0.2,4408.18,,4.2,Pending
+SOC2084,Janice Lewis,New Daniel,New Jersey,North,A,Type3,2023-11-13,17,646.89,0.25,9174.16,997.78,1.4,Cancelled
+SOC2085,David White,North Andrea,Alabama,North,D,Type2,2025-12-21,14,868.42,0.19,4525.8,1924.41,2.8,Completed
+SOC2086,Annette Davis,New Travistown,New Mexico,South,D,Type1,2025-04-05,16,17.71,0.01,2803.78,2593.5,2.2,Cancelled
+SOC2087,Cathy Vaughn,,Illinois,South,A,Type1,2025-08-02,19,116.47,0.08,1737.71,2036.63,3.9,Cancelled
+SOC2088,Travis Allen,East Amanda,Maryland,North,B,Type3,2024-07-29,17,920.72,0.12,2079.82,3842.77,2.4,Completed
+SOC2089,Brady Chandler,Meghanbury,Connecticut,West,A,Type3,2025-04-18,7,969.41,0.03,802.07,1258.07,2.1,Pending
+SOC2090,James Brown,Stricklandmouth,Oregon,South,C,Type3,2025-11-23,6,13.83,0.27,4060.56,2752.82,1.7,Completed
+SOC2091,Christian Brown,Jessicaton,Ohio,West,B,Type1,2024-12-03,6,327.86,0.22,5901.34,933.26,1.8,Completed
+SOC2092,Rachael Allen,Jonesmouth,Utah,West,A,Type2,2024-07-12,16,815.05,0.12,2146.31,2222.44,1.8,Completed
+SOC2093,Eric Young,East Lisahaven,Michigan,South,D,Type3,2026-02-05,12,86.9,0.13,2962.16,2779.05,2.3,Cancelled
+SOC2094,Brandy Hoover,Mcdonaldberg,Iowa,West,B,Type2,2024-12-23,6,484.4,0.24,2256.83,2666.16,4.9,Completed
+SOC2095,Christina Hansen,New Rose,Massachusetts,West,C,Type2,2024-03-20,15,946.86,0.09,6597.97,-202.14,4.3,Completed
+SOC2096,David Johnson,Leonville,Kansas,North,A,Type3,2024-12-13,5,654.01,0.17,8814.33,1761.41,4.5,Completed
+SOC2097,Amanda Hansen,Johnside,Maryland,South,A,Type1,2026-01-28,3,910.92,0.29,1895.51,2294.06,2.2,Pending
+SOC2098,James Turner,New Sarah,North Carolina,East,A,Type2,2024-03-17,4,686.99,0.06,2053.15,4628.2,1.2,Completed
+SOC2099,Keith Bean,Port Kevin,Nevada,North,D,Type1,2024-05-25,9,995.07,0.21,4935.66,2440.53,1.9,Cancelled
+SOC2100,Paula Reynolds,South Glenfurt,Maryland,East,D,Type1,2024-03-23,10,187.96,0.18,338.7,2912.57,3.9,Completed
+SOC2101,Brian Reynolds,Port Donna,West Virginia,North,B,Type1,2023-08-28,11,21.03,0.13,7225.0,-366.16,2.5,Completed
+SOC2102,Steven Johnson,Charlestown,Illinois,West,C,Type3,2025-01-25,8,153.8,0.02,4705.57,3994.9,3.8,Pending
+SOC2103,Thomas Jones,Kevinhaven,New Mexico,South,A,Type3,2023-12-04,10,531.71,0.14,8060.9,4782.85,1.2,Completed
+SOC2104,John Fitzgerald,Lake Christopherbury,Delaware,North,B,Type1,2024-02-26,6,321.34,0.02,4290.71,2401.64,4.2,Completed
+SOC2105,Bradley Johnson,Lauraberg,South Dakota,East,A,Type1,2024-02-29,17,111.19,0.12,7419.4,1503.07,3.9,Completed
+SOC2106,Justin Gordon,Lake Pennybury,Colorado,South,A,Type3,2025-04-16,16,69.09,0.19,515.13,502.24,4.4,Pending
+SOC2107,Lauren Short,Port Allen,Utah,East,C,Type3,2026-01-17,1,33.68,0.07,380.74,2960.25,3.0,Cancelled
+SOC2108,Shaun Bailey,West Veronica,Alaska,North,B,Type3,2024-05-07,13,109.57,0.25,7318.02,2953.83,2.3,Cancelled
+SOC2109,Tina Underwood,Lisachester,Vermont,North,A,Type2,2024-03-21,15,717.27,0.23,8283.72,2214.07,1.4,Pending
+SOC2110,Robert Romero,Deannaborough,Illinois,South,D,Type3,2024-05-17,4,795.4,0.0,2747.19,3939.35,3.0,Pending
+SOC2111,Scott Morrison,North Jose,Mississippi,South,A,Type2,2025-08-11,18,763.07,0.06,7995.72,3052.01,4.0,Pending
+SOC2112,Teresa Cole,Lindseyborough,Wyoming,North,C,Type1,2025-09-01,6,582.46,0.17,3510.18,2.23,3.7,Pending
+SOC2113,Eric Holder,West Melanie,North Dakota,North,B,Type2,2025-04-09,16,524.75,,3774.95,367.04,4.6,Completed
+SOC2114,Danielle Savage,Stevemouth,Virginia,South,B,Type3,2025-09-14,18,999.83,0.03,5692.8,4713.09,3.3,Pending
+SOC2115,Jeremy Christian,East Nicoleside,Louisiana,North,A,Type1,2023-12-02,4,900.76,0.06,1176.71,3644.62,1.6,Completed
+SOC2116,Savannah Lambert,Lake Lisa,West Virginia,North,B,Type3,2024-09-16,4,320.41,0.13,1632.94,609.51,3.1,Completed
+SOC2117,Autumn Jackson,Port Bonnie,West Virginia,North,C,Type2,2025-06-30,17,240.91,0.19,9162.91,-195.64,3.6,Cancelled
+SOC2118,Eric Cohen,East Ambermouth,South Dakota,South,B,Type2,2024-07-20,9,374.01,0.19,3902.72,915.26,1.5,Pending
+SOC2119,Craig Wallace,South Kaylaville,Kansas,South,C,Type1,2025-03-13,14,510.0,0.1,8029.08,3138.41,3.0,Pending
+SOC2120,Carl Douglas,North Robertberg,Wisconsin,West,A,Type2,2025-05-21,12,287.39,0.23,1304.89,2076.5,1.8,Cancelled
+SOC2121,Brian Romero,Charlesberg,New York,South,A,Type3,2023-10-27,17,540.46,0.16,7325.72,1679.28,3.3,Cancelled
+SOC2122,Margaret Bond,Thomasfurt,Wyoming,South,D,Type2,2025-05-06,12,537.04,0.07,5737.42,4073.33,3.1,Cancelled
+SOC2123,Heather Riley,South Jasmin,Tennessee,West,B,Type1,2024-12-03,9,266.67,0.16,7991.85,3010.65,2.4,Pending
+SOC2124,Danielle Fleming,North Amanda,Missouri,East,D,Type2,2024-05-30,4,85.48,0.08,2302.85,4286.88,4.6,Completed
+SOC2125,Sean Hinton,North Emilyfort,Nebraska,West,C,Type3,2024-08-06,4,464.77,0.07,9894.13,2917.81,1.5,Pending
+SOC2126,Derrick Brown,South James,Connecticut,West,B,Type1,2024-03-21,12,466.54,0.27,3261.19,1563.73,3.0,Pending
+SOC2127,Anna Buchanan,South Jacobfurt,Arkansas,West,B,Type2,2025-03-12,5,27.03,0.22,4643.95,-137.32,1.4,Pending
+SOC2128,Abigail Ward,Jacksonburgh,Connecticut,West,B,Type1,2026-03-23,11,733.86,0.18,2297.34,894.6,4.4,Cancelled
+SOC2129,Joseph Ruiz,New Ryanport,New Hampshire,West,A,Type2,2023-10-05,17,370.23,0.0,3255.48,3024.16,4.7,Completed
+SOC2130,James Joseph,West Belinda,Kentucky,South,D,Type1,2026-03-07,2,572.49,0.13,9698.55,3914.51,4.3,Completed
+SOC2131,Cheryl Evans,Ryanside,Arkansas,East,C,Type1,2024-03-29,4,23.55,0.2,4390.59,3704.64,3.7,Pending
+SOC2132,Mr. Samuel Sanders,New Brandy,Wisconsin,North,D,Type3,2024-01-29,14,106.54,0.21,700.94,2519.61,1.7,Pending
+SOC2133,Mark Gonzalez,Archerchester,South Carolina,East,A,Type3,2023-07-10,1,328.42,0.25,4957.79,4217.78,2.9,Cancelled
+SOC2134,Jennifer Martinez,Guzmanport,Wyoming,South,B,Type1,2025-01-21,17,967.09,0.09,8667.89,4164.42,4.1,Completed
+SOC2135,Roy Reynolds,North Kathryn,Idaho,North,D,Type1,2023-12-09,14,893.96,0.03,6440.88,3147.6,1.0,Pending
+SOC2136,Paul Vaughn,Seanshire,Maryland,South,B,Type1,2026-01-03,9,977.64,0.24,4934.53,1303.32,1.8,Completed
+SOC2137,Jennifer Hayes,Fernandochester,Virginia,South,A,Type1,2024-04-08,2,444.2,0.23,9236.65,2613.93,3.3,Cancelled
+SOC2138,Victor Tucker,West Darrell,Nebraska,North,A,Type1,2024-11-02,12,33.11,0.03,5016.77,,4.4,Cancelled
+SOC2139,Rebecca Copeland,Lake Lauraville,Iowa,North,C,Type2,2025-01-29,10,436.02,0.08,529.45,4753.73,2.5,Pending
+SOC2140,Kelly Mclaughlin,Elizabethchester,Iowa,East,D,Type1,2025-01-22,8,438.09,0.15,4003.33,3383.43,3.4,Pending
+SOC2141,Michael Thomas,Markville,Pennsylvania,South,C,Type1,2023-08-27,19,977.98,0.02,9110.27,-408.33,1.1,Cancelled
+SOC2142,Jimmy Hernandez,Lake Daniel,Delaware,West,C,Type2,2025-11-07,5,125.41,0.14,1178.17,1432.87,3.8,Completed
+SOC2143,Robert Taylor,Port Catherineshire,Colorado,North,C,Type3,2026-01-27,17,121.05,0.08,6208.64,2852.76,1.3,Completed
+SOC2144,Jerry Robinson,Austinmouth,Oregon,East,A,Type1,2023-10-25,14,418.29,0.0,4942.28,3864.58,3.0,Cancelled
+SOC2145,John Marquez,West Nathanberg,New Jersey,West,D,Type1,2025-08-03,10,668.69,0.29,7083.72,2784.62,2.5,Cancelled
+SOC2146,Matthew Ruiz,Lake Shane,Missouri,North,A,Type1,2025-11-03,7,820.22,0.2,1916.52,558.7,4.3,Cancelled
+SOC2147,Michael Fitzpatrick,West Susan,New Jersey,East,C,Type3,2024-06-25,19,648.97,0.23,9672.96,447.76,1.3,Cancelled
+SOC2148,Jonathan Lee,Cynthiaton,Michigan,South,C,Type3,2024-06-23,19,902.93,0.14,7158.04,3355.15,4.7,Cancelled
+SOC2149,Brady Bates,North Rachel,Ohio,West,D,Type1,2024-11-02,16,359.35,0.18,3868.73,1323.07,4.6,Completed
+SOC2150,Brian Everett,West Howardchester,Utah,East,D,Type1,2024-03-31,10,679.14,0.03,1983.57,3367.42,4.4,Completed
+SOC2151,Mallory Wright,Alejandramouth,Montana,East,B,Type1,2025-07-09,8,526.85,0.17,849.75,4147.54,2.8,Completed
+SOC2152,Kathryn Petty,South Brian,South Dakota,East,C,Type1,2024-06-16,4,260.72,0.03,410.37,-87.29,5.0,Cancelled
+SOC2153,Leslie Banks,Port Lynnton,Massachusetts,West,A,Type3,2024-12-31,10,599.13,,822.6,2454.66,3.4,Completed
+SOC2154,Sharon Johnson,New Kimberly,Montana,East,D,Type2,2026-04-10,16,729.78,0.19,8845.94,-11.61,1.8,Completed
+SOC2155,Jermaine Baker,West Kellyton,Oklahoma,East,B,Type3,2026-02-11,14,882.07,0.13,7697.98,2057.37,1.4,Pending
+SOC2156,Christina Gomez,Georgeburgh,Louisiana,South,C,Type2,2024-11-09,10,687.92,,1333.98,1643.77,4.0,Completed
+SOC2157,Christian Shaffer,Carlyville,Nebraska,North,B,Type1,2024-01-08,12,691.72,0.04,8591.85,3341.69,1.8,Cancelled
+SOC2158,Jill Stewart,Lake Ryanmouth,Alabama,North,A,Type3,2025-01-24,6,88.95,0.2,4595.8,531.39,1.3,Completed
+SOC2159,Peggy Bell,Vargasstad,Hawaii,North,D,Type3,2024-07-27,19,364.96,0.28,8785.02,3750.89,3.9,Cancelled
+SOC2160,Kelly Dominguez,Medinaberg,Kansas,West,C,Type3,2026-05-02,15,531.95,0.13,5343.54,1109.06,2.8,Completed
+SOC2161,Jessica Tucker,South Katelynshire,Minnesota,West,A,Type2,2024-08-22,13,622.7,0.28,3531.6,397.73,4.7,Completed
+SOC2162,Victor Ayala,Longbury,Maryland,North,B,Type2,2024-05-03,12,424.82,0.23,1523.79,1076.65,4.6,Completed
+SOC2163,Rebecca Berger,Armstrongburgh,California,North,B,Type3,2025-05-29,17,911.08,0.24,4320.46,,2.9,Completed
+SOC2164,James Shea,Nealville,Maryland,East,D,Type2,2025-01-11,7,144.69,0.23,1214.25,2970.28,4.6,Completed
+SOC2165,Jennifer Powell,Riddlechester,South Carolina,South,B,Type1,2026-02-26,19,768.67,0.01,5767.44,2833.96,4.5,Completed
+SOC2166,Timothy Gonzalez,Stephensonhaven,Missouri,North,B,Type1,2025-06-16,7,494.83,0.28,8249.11,4025.53,3.7,Cancelled
+SOC2167,Sean Ball,New Jason,Montana,South,A,Type1,2024-01-25,14,68.26,0.23,3797.51,2693.52,4.6,Pending
+SOC2168,Dana Cisneros,Guzmanville,Idaho,South,C,Type2,2024-02-02,3,253.84,0.01,2721.11,4140.83,2.5,Cancelled
+SOC2169,Jeffrey Mckinney,East Philipton,North Carolina,West,C,Type2,2023-11-01,13,176.9,0.06,2501.38,3528.83,4.8,Completed
+SOC2170,Bradley Marshall,Larryburgh,Nebraska,North,D,Type2,2025-04-13,1,50.27,0.1,755.26,-17.85,3.3,Pending
+SOC2171,Brett Norman,Perezton,Wyoming,East,C,Type1,2023-08-11,7,627.56,0.19,6654.13,944.11,3.8,Completed
+SOC2172,Christine Marsh,North Peter,Kansas,North,A,Type2,2026-01-09,4,509.79,0.19,2065.33,2583.26,2.0,Pending
+SOC2173,David Allen,,West Virginia,West,B,Type2,2025-01-15,5,738.99,0.16,8129.21,2972.38,2.7,Cancelled
+SOC2174,Gina Hall,East Shannonstad,Indiana,North,D,Type2,2024-09-16,13,176.54,0.2,7366.36,-57.49,3.2,Pending
+SOC2175,Preston Valdez,Delacruzside,Kentucky,North,A,Type1,2025-08-13,11,959.02,0.11,7306.17,3190.77,1.5,Pending
+SOC2176,Karen Ray,Port Patricia,Louisiana,East,B,Type2,2024-06-10,13,257.03,0.27,7545.16,2043.86,4.5,Pending
+SOC2177,Joseph Morrow,Loweryhaven,Georgia,North,D,Type3,2025-01-08,4,779.49,0.0,1277.64,-278.31,2.4,Completed
+SOC2178,Jennifer Cochran,Richardmouth,North Carolina,East,D,Type2,2025-05-07,8,982.45,0.11,6841.03,1886.12,3.3,Cancelled
+SOC2179,Antonio Neal,Kaylaside,Rhode Island,East,A,Type1,2025-08-31,8,151.87,0.13,322.34,3254.49,4.7,Cancelled
+SOC2180,Lori Graham,Port Christianmouth,New York,West,C,Type2,2023-10-26,7,140.4,0.13,1530.33,-468.06,1.6,Completed
+SOC2181,Nathan Davila,North Elizabethmouth,California,East,C,Type1,2024-11-05,3,643.0,0.08,3100.71,3753.38,2.1,Pending
+SOC2182,Emily Garcia,Lake Michael,North Dakota,West,B,Type1,2023-06-07,18,965.21,0.16,5377.96,1333.23,1.1,Cancelled
+SOC2183,Samantha Moreno,Port Toddhaven,Washington,South,C,Type1,2023-08-08,8,179.66,0.13,4616.39,4109.71,4.8,Pending
+SOC2184,Stephen Potter,Jefferyton,Arkansas,South,B,Type2,2024-07-30,13,308.05,0.12,9147.47,400.85,1.6,Completed
+SOC2185,Olivia Stone,East Phillip,Tennessee,South,A,Type3,2025-06-30,4,226.92,0.11,7495.06,2368.73,2.5,Cancelled
+SOC2186,Melissa Brady,,Idaho,East,D,Type2,2024-12-15,14,623.47,0.28,392.0,3148.91,2.5,Completed
+SOC2187,Stacey Mcgee,East Edwardshire,California,North,A,Type2,2025-09-07,7,389.12,,4487.76,727.93,2.1,Completed
+SOC2188,Charles Mccoy,Davistown,Utah,North,B,Type1,2023-08-18,2,781.5,0.18,2908.16,2516.45,4.1,Completed
+SOC2189,Edward Williams,West Andremouth,New York,East,D,Type3,2025-03-18,13,525.43,0.08,8636.79,4687.69,2.8,Cancelled
+SOC2190,Susan Sloan,Heatherchester,Indiana,East,D,Type1,2025-09-13,2,631.33,0.09,7266.42,4733.73,2.2,Cancelled
+SOC2191,Ronald Calderon,North Virginiastad,Idaho,West,D,Type3,2025-05-10,15,146.86,0.04,5698.35,,3.6,Pending
+SOC2192,Luke Jones,New Jasonhaven,Maryland,North,B,Type2,2025-08-19,15,211.66,0.04,4706.22,-331.1,2.6,Pending
+SOC2193,Sherri Rodriguez,Curtisshire,Rhode Island,East,A,Type3,2026-05-19,6,980.65,0.23,2908.14,4944.54,1.1,Cancelled
+SOC2194,Joshua Hart,North Julie,Kentucky,West,D,Type2,2024-03-15,17,606.93,0.09,1459.17,2658.45,1.4,Completed
+SOC2195,Sarah Pittman,Lake Ericamouth,Minnesota,South,D,Type3,2023-11-16,9,885.71,0.07,3007.29,1851.47,2.3,Pending
+SOC2196,David Jordan,Chanland,Minnesota,East,B,Type3,2026-02-06,9,294.25,0.12,3107.85,32.62,1.2,Completed
+SOC2197,Shirley Casey,Johnstonstad,Kansas,North,D,Type2,2024-08-29,7,342.78,0.22,2586.1,664.97,3.8,Completed
+SOC2198,Nancy Rogers,,Connecticut,East,B,Type1,2024-06-18,12,66.11,0.06,4575.8,4182.08,3.1,Completed
+SOC2199,Samantha Nguyen,North Mark,Kansas,East,D,Type3,2026-01-26,11,901.13,0.13,3742.09,4567.62,2.7,Pending
+SOC2187,Stacey Mcgee,East Edwardshire,California,North,A,Type2,2025-09-07,7,389.12,,4487.76,727.93,2.1,Completed
+SOC1972,Cameron Davis,Johnsonhaven,Arkansas,South,D,Type3,2024-08-06,10,964.39,0.15,5354.58,2994.77,1.8,Pending
+SOC2023,Erika Davis,Wandaport,Utah,East,B,Type3,2025-10-03,8,783.91,,248.67,3214.74,3.9,Completed
+SOC1075,Matthew Roth,Salazarstad,North Carolina,West,D,Type1,2025-02-21,17,756.5,0.01,2953.45,3694.98,3.1,Completed
+SOC1892,Rachel Cohen,Rothfurt,Nebraska,South,C,Type1,2025-07-16,6,920.44,0.12,1793.05,-415.25,2.1,Pending
+SOC1945,Diana Taylor,Payneside,Pennsylvania,North,A,Type1,2023-07-29,4,175.8,0.11,7257.65,2569.52,3.3,Pending
+SOC1657,April Gardner,North Rebecca,Ohio,West,D,Type3,2023-08-28,9,215.06,0.03,9774.64,317.41,3.6,Cancelled
+SOC2081,Mary Mack,Port Rebeccaburgh,Michigan,East,A,Type2,2025-10-19,18,954.25,0.17,6493.85,4276.1,1.4,Completed
+SOC1771,April Jefferson,Port David,Washington,East,D,Type2,2025-04-02,11,593.03,0.23,2189.46,81.12,2.6,Pending
+SOC2011,John Salinas,North Sarah,California,North,B,Type2,2023-10-21,16,621.84,0.26,415.56,4427.68,1.5,Pending
