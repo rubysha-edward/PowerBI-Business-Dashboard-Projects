@@ -4,6 +4,9 @@ An interactive Power BI dashboard tracking revenue, profit margins, order status
 
 ---
 
+## 📸 Dashboard Preview
+
+![Food Delivery Sales Dashboard](Dashboard-screenshot.png)
 
 ---
 
