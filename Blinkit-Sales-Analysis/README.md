@@ -6,7 +6,7 @@ An interactive Power BI dashboard designed to analyze key sales metrics, product
 
 ## 📸 Dashboard Preview
 
-![Blinkit Sales Dashboard](Dashboard%20-screenshot.png)
+![Blinkit Sales Dashboard](Dashboard-screenshot.png)
 
 ---
 
